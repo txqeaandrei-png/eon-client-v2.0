@@ -4,6 +4,7 @@ import android.content.Context
 import android.content.SharedPreferences
 import android.os.Handler
 import android.os.Looper
+import android.util.Log
 import org.json.JSONObject
 import org.levimc.launcher.core.minecraft.LauncherApplication
 import androidx.core.content.edit
@@ -14,8 +15,13 @@ import androidx.annotation.Keep
 
 @Keep
 object NativeBridgeHelper {
+    private const val TAG = "NativeBridgeHelper"
+
     @Volatile
     private var gxcoreLoaded = false
+
+    @Volatile
+    private var gxcoreLoadError: String? = null
 
     @JvmStatic
     fun getAppContext(): Context {
@@ -35,11 +41,18 @@ object NativeBridgeHelper {
                     System.loadLibrary("gxcore")
                     gxcoreLoaded = true
                     true
-                } catch (_: Throwable) {
+                } catch (error: Throwable) {
+                    gxcoreLoadError = error.message ?: error.javaClass.simpleName
+                    Log.e(TAG, "Failed to load gxcore", error)
                     false
                 }
             }
         }
+    }
+
+    @JvmStatic
+    fun getGxCoreLoadError(): String {
+        return gxcoreLoadError ?: "Unknown native library loading error"
     }
 
     @JvmStatic
