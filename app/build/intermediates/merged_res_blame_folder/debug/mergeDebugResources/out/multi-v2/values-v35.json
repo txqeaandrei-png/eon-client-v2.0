@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.levimc.launcher.app-mergeDebugResources-58:/values-v35/values-v35.xml",
+            "map": [
+                {
+                    "source": "/home/codespace/.gradle/caches/8.13/transforms/69ac3a7a072cecb0c6cc0b14e9c5252b/transformed/material-1.13.0/res/values-v35/values-v35.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,149,247,349",
+                        "endColumns": "93,97,101,99",
+                        "endOffsets": "144,242,344,444"
+                    }
+                },
+                {
+                    "source": "/workspaces/LeviLauncher-Android/app/src/main/res/values-v35/theme.xml",
+                    "from": {
+                        "startLines": "2,48,41,34",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,2702,2280,1854",
+                        "endLines": "32,57,46,39",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "1848,3382,2696,2274"
+                    },
+                    "to": {
+                        "startLines": "6,37,47,53",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "449,2247,2932,3353",
+                        "endLines": "36,46,52,58",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "2242,2927,3348,3773"
+                    }
+                }
+            ]
+        }
+    ]
+}

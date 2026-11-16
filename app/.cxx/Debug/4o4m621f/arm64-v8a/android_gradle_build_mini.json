@@ -1,0 +1,114 @@
+{
+  "buildFiles": [
+    "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/boost_pfr-src/CMakeLists.txt",
+    "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/fmt-src/CMakeLists.txt",
+    "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-src/CMakeLists.txt",
+    "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-src/plutovg/CMakeLists.txt",
+    "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/magic_enum-src/CMakeLists.txt",
+    "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/nlohmann_json-src/CMakeLists.txt",
+    "/workspaces/LeviLauncher-Android/app/src/main/cpp/CMakeLists.txt",
+    "/workspaces/LeviLauncher-Android/app/src/main/cpp/libHttpClient/Build/libHttpClient.Android/CMakeLists.txt",
+    "/workspaces/LeviLauncher-Android/app/src/main/cpp/libHttpClient/Build/libHttpClient.CMake/GetCommonHCSourceFiles.cmake",
+    "/workspaces/LeviLauncher-Android/app/src/main/cpp/libHttpClient/Build/libHttpClient.CMake/GetLibHCFlags.cmake",
+    "/workspaces/LeviLauncher-Android/app/src/main/cpp/libHttpClient/Build/libHttpClient.CMake/TargetSetFlags.cmake",
+    "/workspaces/LeviLauncher-Android/app/src/main/cpp/preloader/CMakeLists.txt",
+    "/workspaces/LeviLauncher-Android/app/src/main/cpp/worldtools/CMakeLists.txt",
+    "/workspaces/LeviLauncher-Android/app/src/main/cpp/worldtools/cmake/FindSnappy.cmake",
+    "/workspaces/LeviLauncher-Android/app/src/main/cpp/worldtools/cmake/Findzstd.cmake",
+    "/workspaces/LeviLauncher-Android/app/src/main/cpp/worldtools/vendor/leveldb/CMakeLists.txt",
+    "/workspaces/LeviLauncher-Android/app/src/main/cpp/worldtools/vendor/snappy/CMakeLists.txt",
+    "/workspaces/LeviLauncher-Android/app/src/main/cpp/worldtools/vendor/zstd/build/cmake/CMakeLists.txt",
+    "/workspaces/LeviLauncher-Android/app/src/main/cpp/worldtools/vendor/zstd/build/cmake/CMakeModules/AddZstdCompilationFlags.cmake",
+    "/workspaces/LeviLauncher-Android/app/src/main/cpp/worldtools/vendor/zstd/build/cmake/CMakeModules/GetZstdLibraryVersion.cmake",
+    "/workspaces/LeviLauncher-Android/app/src/main/cpp/worldtools/vendor/zstd/build/cmake/CMakeModules/JoinPaths.cmake",
+    "/workspaces/LeviLauncher-Android/app/src/main/cpp/worldtools/vendor/zstd/build/cmake/lib/CMakeLists.txt",
+    "/workspaces/LeviLauncher-Android/app/src/main/cpp/worldtools/vendor/zstd/build/cmake/lib/cmake_uninstall.cmake.in",
+    "/workspaces/LeviLauncher-Android/app/src/main/cpp/worldtools/vendor/zstd/build/cmake/zstdConfig.cmake.in"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "uninstall::@b5f48cf71f2538bc98df": {
+      "artifactName": "uninstall",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "libHttpClient.Android::@a02a8bed6e2ea112b4ae": {
+      "artifactName": "libHttpClient.Android",
+      "abi": "arm64-v8a",
+      "output": "/workspaces/LeviLauncher-Android/app/build/intermediates/cxx/Debug/4o4m621f/obj/arm64-v8a/libHttpClient.Android.so",
+      "runtimeFiles": []
+    },
+    "snappy::@57558a826a5b26ffb9ac": {
+      "artifactName": "snappy",
+      "abi": "arm64-v8a",
+      "output": "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/worldtools/vendor/snappy/libsnappy.a",
+      "runtimeFiles": []
+    },
+    "leveldb::@7ed0064bf2bf1d1dd7e5": {
+      "artifactName": "leveldb",
+      "abi": "arm64-v8a",
+      "output": "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/worldtools/vendor/leveldb/libleveldb.a",
+      "runtimeFiles": []
+    },
+    "plutovg::@7e831f8264b3b675c989": {
+      "artifactName": "plutovg",
+      "abi": "arm64-v8a",
+      "output": "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/plutovg/libplutovg.a",
+      "runtimeFiles": []
+    },
+    "preloader::@7da313f20af85e033aac": {
+      "artifactName": "preloader",
+      "abi": "arm64-v8a",
+      "output": "/workspaces/LeviLauncher-Android/app/build/intermediates/cxx/Debug/4o4m621f/obj/arm64-v8a/libpreloader.so",
+      "runtimeFiles": []
+    },
+    "leveldbutil::@7ed0064bf2bf1d1dd7e5": {
+      "artifactName": "leveldbutil",
+      "abi": "arm64-v8a",
+      "output": "/workspaces/LeviLauncher-Android/app/build/intermediates/cxx/Debug/4o4m621f/obj/arm64-v8a/leveldbutil",
+      "runtimeFiles": []
+    },
+    "libzstd_static::@b5f48cf71f2538bc98df": {
+      "artifactName": "libzstd_static",
+      "abi": "arm64-v8a",
+      "output": "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/worldtools/vendor/zstd/build/cmake/lib/libzstd.a",
+      "runtimeFiles": []
+    },
+    "lunasvg::@a756fcc8cc20dc9b5f6e": {
+      "artifactName": "lunasvg",
+      "abi": "arm64-v8a",
+      "output": "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/liblunasvg.a",
+      "runtimeFiles": []
+    },
+    "clean-all::@28eb5f24a040559924ea": {
+      "artifactName": "clean-all",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "fmt::@976f4f0bee90b99ecdb6": {
+      "artifactName": "fmt",
+      "abi": "arm64-v8a",
+      "output": "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/fmt-build/libfmt.a",
+      "runtimeFiles": []
+    },
+    "leviworld::@73260287098709856a1a": {
+      "artifactName": "leviworld",
+      "abi": "arm64-v8a",
+      "output": "/workspaces/LeviLauncher-Android/app/build/intermediates/cxx/Debug/4o4m621f/obj/arm64-v8a/libleviworld.so",
+      "runtimeFiles": []
+    }
+  }
+}

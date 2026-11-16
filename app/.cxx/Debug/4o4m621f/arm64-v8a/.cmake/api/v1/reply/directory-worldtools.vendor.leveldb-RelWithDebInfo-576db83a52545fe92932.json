@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "worldtools/vendor/leveldb",
+		"source" : "worldtools/vendor/leveldb"
+	}
+}

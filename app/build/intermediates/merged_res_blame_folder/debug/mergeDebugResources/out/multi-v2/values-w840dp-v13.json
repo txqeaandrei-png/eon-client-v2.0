@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.levimc.launcher.app-mergeDebugResources-58:/values-w840dp-v13/values-w840dp-v13.xml",
+            "map": [
+                {
+                    "source": "/workspaces/LeviLauncher-Android/app/src/main/res/values-w840dp/dimens_ui.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "163,55,110",
+                        "endColumns": "52,54,52",
+                        "endOffsets": "211,105,158"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,163",
+                        "endColumns": "52,54,52",
+                        "endOffsets": "103,158,211"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/boost_pfr-subbuild/CMakeFiles/boost_pfr-populate"
+		},
+		{
+			"file" : "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/boost_pfr-subbuild/CMakeFiles/boost_pfr-populate.rule"
+		},
+		{
+			"file" : "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/boost_pfr-subbuild/CMakeFiles/boost_pfr-populate-complete.rule"
+		},
+		{
+			"file" : "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/boost_pfr-subbuild/boost_pfr-populate-prefix/src/boost_pfr-populate-stamp/boost_pfr-populate-build.rule"
+		},
+		{
+			"file" : "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/boost_pfr-subbuild/boost_pfr-populate-prefix/src/boost_pfr-populate-stamp/boost_pfr-populate-configure.rule"
+		},
+		{
+			"file" : "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/boost_pfr-subbuild/boost_pfr-populate-prefix/src/boost_pfr-populate-stamp/boost_pfr-populate-download.rule"
+		},
+		{
+			"file" : "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/boost_pfr-subbuild/boost_pfr-populate-prefix/src/boost_pfr-populate-stamp/boost_pfr-populate-install.rule"
+		},
+		{
+			"file" : "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/boost_pfr-subbuild/boost_pfr-populate-prefix/src/boost_pfr-populate-stamp/boost_pfr-populate-mkdir.rule"
+		},
+		{
+			"file" : "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/boost_pfr-subbuild/boost_pfr-populate-prefix/src/boost_pfr-populate-stamp/boost_pfr-populate-patch.rule"
+		},
+		{
+			"file" : "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/boost_pfr-subbuild/boost_pfr-populate-prefix/src/boost_pfr-populate-stamp/boost_pfr-populate-test.rule"
+		},
+		{
+			"file" : "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/boost_pfr-subbuild/boost_pfr-populate-prefix/src/boost_pfr-populate-stamp/boost_pfr-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"boost_pfr-populate"
+		],
+		"name" : "boost_pfr-populate"
+	}
+}

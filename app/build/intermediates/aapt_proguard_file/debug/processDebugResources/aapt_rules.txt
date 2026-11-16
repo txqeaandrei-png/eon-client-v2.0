@@ -1,0 +1,224 @@
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+-keep class androidx.core.content.FileProvider { <init>(); }
+-keep class androidx.profileinstaller.ProfileInstallReceiver { <init>(); }
+-keep class androidx.room.MultiInstanceInvalidationService { <init>(); }
+-keep class androidx.startup.InitializationProvider { <init>(); }
+-keep class com.android.billingclient.api.ProxyBillingActivity { <init>(); }
+-keep class com.android.billingclient.api.ProxyBillingActivityV2 { <init>(); }
+-keep class com.google.android.datatransport.runtime.backends.TransportBackendDiscovery { <init>(); }
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver { <init>(); }
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService { <init>(); }
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+-keep class com.google.android.gms.games.internal.v2.appshortcuts.PlayGamesAppShortcutsActivity { <init>(); }
+-keep class com.google.android.gms.games.internal.v2.resolution.GamesResolutionActivity { <init>(); }
+-keep class com.google.android.gms.games.provider.PlayGamesInitProvider { <init>(); }
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+-keep class com.microsoft.xal.browser.BrowserLaunchActivity { <init>(); }
+-keep class com.microsoft.xal.browser.IntentHandler { <init>(); }
+-keep class com.microsoft.xal.browser.WebKitWebViewController { <init>(); }
+-keep class com.mojang.minecraftpe.ImportService { <init>(); }
+-keep class com.mojang.minecraftpe.NotificationListenerService { <init>(); }
+-keep class org.levimc.launcher.core.minecraft.LauncherApplication { <init>(); }
+-keep class org.levimc.launcher.core.minecraft.LauncherRestartActivity { <init>(); }
+-keep class org.levimc.launcher.core.minecraft.MinecraftActivity { <init>(); }
+-keep class org.levimc.launcher.core.minecraft.MinecraftLoadingActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.AboutActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.AccountsActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.ContentDetailsActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.ContentListActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.ContentManagementActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.CrashActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.CurseForgeActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.CustomFlatWorldActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.ExternalModsActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.GameDownloadActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.GoogleLoginActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.InstanceSettingsActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.InstancesActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.IntentHandler { <init>(); }
+-keep class org.levimc.launcher.ui.activities.MainActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.ModConfigActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.ModDetailActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.ModsFullscreenActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.MsftLoginActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.NewsActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.OptionsEditorActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.QuickLaunchActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.SettingsActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.SplashActivity { <init>(); }
+-keep class org.levimc.launcher.ui.activities.WorldEditorActivity { <init>(); }
+-keep class org.levimc.launcher.ui.packages.PackageActivity { <init>(); }
+-keep class org.levimc.launcher.ui.packages.PackagesActivity { <init>(); }
+-keep class android.widget.Space { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AppCompatButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AppCompatEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AppCompatImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AppCompatTextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.DialogTitle { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.LinearLayoutCompat { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.SwitchCompat { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.Toolbar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.cardview.widget.CardView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.constraintlayout.helper.widget.Flow { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.constraintlayout.widget.ConstraintLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.core.widget.NestedScrollView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.fragment.app.FragmentContainerView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.preference.UnPressableLinearLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.preference.internal.PreferenceImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.appbar.AppBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.appbar.MaterialToolbar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.button.MaterialButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.button.MaterialButtonToggleGroup { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.card.MaterialCardView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.checkbox.MaterialCheckBox { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.chip.Chip { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.chip.ChipGroup { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.datepicker.MaterialCalendarGridView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.divider.MaterialDivider { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.imageview.ShapeableImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.BaselineLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.ClippableRoundedCornerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.TouchObserverFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.progressindicator.LinearProgressIndicator { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.switchmaterial.SwitchMaterial { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.textfield.TextInputEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.textfield.TextInputLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.timepicker.ChipTextInputComboView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.timepicker.ClockFaceView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.timepicker.ClockHandView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.timepicker.TimePickerView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.microsoft.xbox.idp.toolkit.CircleImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.microsoft.xbox.toolkit.ui.CustomTypefaceTextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.microsoft.xbox.toolkit.ui.FastProgressBar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.microsoft.xbox.toolkit.ui.SwitchPanel { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.microsoft.xbox.toolkit.ui.SwitchPanelItem { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.microsoft.xbox.toolkit.ui.XLEButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.microsoft.xbox.toolkit.ui.XLECheckBox { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.microsoft.xbox.toolkit.ui.XLEClickableLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.microsoft.xbox.toolkit.ui.XLERoundedUniversalImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.microsoft.xbox.toolkit.ui.XLEUniversalImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.microsoft.xbox.xle.ui.IconFontToggleButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.microsoft.xbox.xle.ui.XLERootView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class org.levimc.launcher.core.mods.inbuilt.overlay.ModMenuKeyRoot { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class org.levimc.launcher.core.mods.inbuilt.overlay.ModMenuSurface { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class org.levimc.launcher.core.mods.inbuilt.overlay.ModMenuToggle { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class org.levimc.launcher.ui.dialogs.LauncherDialogLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class org.levimc.launcher.ui.packages.PackageActivity$ReadmeView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class org.levimc.launcher.ui.packages.TaskProgressView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class org.levimc.launcher.ui.widget.CatalogToolbarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class org.levimc.launcher.ui.widget.CenteredNavbarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class org.levimc.launcher.ui.widget.HomeDashboardLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class org.levimc.launcher.ui.widget.SegmentedControl { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class org.levimc.launcher.ui.widget.SettingsNavigationView { <init>(android.content.Context, android.util.AttributeSet); }
+

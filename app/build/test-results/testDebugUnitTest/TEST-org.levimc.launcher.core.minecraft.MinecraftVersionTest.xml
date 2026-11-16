@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.levimc.launcher.core.minecraft.MinecraftVersionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-11-16T05:05:50.091Z" hostname="codespaces-7dfddb" time="0.007">
+  <properties/>
+  <testcase name="isAtLeastAcceptsSupportedVersionsAndRejectsOlderOrUnknownVersions" classname="org.levimc.launcher.core.minecraft.MinecraftVersionTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

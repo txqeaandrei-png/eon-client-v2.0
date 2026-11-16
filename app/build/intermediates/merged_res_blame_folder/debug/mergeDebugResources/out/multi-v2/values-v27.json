@@ -1,0 +1,58 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.levimc.launcher.app-mergeDebugResources-58:/values-v27/values-v27.xml",
+            "map": [
+                {
+                    "source": "/workspaces/LeviLauncher-Android/app/src/main/res/values-v27/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "655"
+                    }
+                },
+                {
+                    "source": "/home/codespace/.gradle/caches/8.13/transforms/43b96dcbaa737534b5f55695a7991d76/transformed/core-splashscreen-1.2.0/res/values-v27/values-v27.xml",
+                    "from": {
+                        "startLines": "2,3,4,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,136,229,405",
+                        "endLines": "2,3,6,9",
+                        "endColumns": "80,92,12,12",
+                        "endOffsets": "131,224,400,588"
+                    },
+                    "to": {
+                        "startLines": "40,41,42,45",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2432,2513,2606,2782",
+                        "endLines": "40,41,44,47",
+                        "endColumns": "80,92,12,12",
+                        "endOffsets": "2508,2601,2777,2965"
+                    }
+                },
+                {
+                    "source": "/workspaces/LeviLauncher-Android/app/src/main/res/values-v27/theme.xml",
+                    "from": {
+                        "startLines": "2,38,31",
+                        "startColumns": "8,8,8",
+                        "startOffsets": "59,2252,1836",
+                        "endLines": "29,40,36",
+                        "endColumns": "16,16,16",
+                        "endOffsets": "1826,2402,2242"
+                    },
+                    "to": {
+                        "startLines": "12,48,51",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "660,2970,3125",
+                        "endLines": "39,50,56",
+                        "endColumns": "16,16,16",
+                        "endOffsets": "2427,3120,3531"
+                    }
+                }
+            ]
+        }
+    ]
+}

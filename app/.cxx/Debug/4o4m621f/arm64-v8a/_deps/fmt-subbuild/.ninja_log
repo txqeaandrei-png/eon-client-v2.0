@@ -1,0 +1,21 @@
+# ninja log v5
+1	18	1794803357677951688	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	f9c45bb80bfe4d23
+1	18	1794803357677951688	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	f9c45bb80bfe4d23
+18	4786	1794803362445951368	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	7d650461a5ed5733
+18	4786	1794803362445951368	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	7d650461a5ed5733
+4786	4799	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	a470331b62d66be7
+4786	4799	0	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	a470331b62d66be7
+4799	4804	1794803362462951367	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	79a3f594007f012e
+4799	4804	1794803362462951367	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	79a3f594007f012e
+4804	4808	1794803362467951367	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	847f30e8162eb40b
+4804	4808	1794803362467951367	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	847f30e8162eb40b
+4808	4812	1794803362471951367	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	6524f24727ed469d
+4808	4812	1794803362471951367	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	6524f24727ed469d
+4812	4817	1794803362476951366	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	c8f98039151460e5
+4812	4817	1794803362476951366	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	c8f98039151460e5
+4817	4822	1794803362480951366	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	1c5f2ecc73e2fffe
+4817	4822	1794803362480951366	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	1c5f2ecc73e2fffe
+4822	4830	1794803362489951365	CMakeFiles/fmt-populate-complete	6320dea74659870c
+4822	4830	1794803362489951365	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	6320dea74659870c
+4822	4830	1794803362489951365	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	6320dea74659870c
+4822	4830	1794803362489951365	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	6320dea74659870c

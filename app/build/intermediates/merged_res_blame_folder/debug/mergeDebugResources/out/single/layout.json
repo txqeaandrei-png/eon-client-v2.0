@@ -1,0 +1,502 @@
+[
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_pkg_result_section.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_pkg_result_section.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_minecraft_loading.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_minecraft_loading.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_add_server.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_add_server.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_rename_entry.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_rename_entry.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_settings.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_external_mod.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_external_mod.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_pkg_task_bar.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_pkg_task_bar.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_changelog_content.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_changelog_content.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_packages_stacked.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_packages_stacked.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_server.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_server.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_instance_card.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_instance_card.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_settings_container.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_settings_container.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/overlay_mod_notification.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/overlay_mod_notification.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_install_progress.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_install_progress.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_pkg_dev_guide.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_pkg_dev_guide.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_mod_menu_card.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_mod_menu_card.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_quick_launch.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_quick_launch.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_world_property.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_world_property.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_settings.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_settings.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_settings_switch.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_settings_switch.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_main.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_apk_version_confirm.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_apk_version_confirm.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_news.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_news.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_quick_launch.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_quick_launch.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_game_version_select.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_game_version_select.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/spinner_dropdown_item_dark.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/spinner_dropdown_item_dark.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_game_download.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_game_download.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/view_settings_sections.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/view_settings_sections.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_pkg_batch_result.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_pkg_batch_result.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/overlay_stats_display.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/overlay_stats_display.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_settings_spinner.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_settings_spinner.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_pkg_version_group.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_pkg_version_group.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_marketplace_pass.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_marketplace_pass.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_pkg_package.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_pkg_package.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_flat_spinner.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_flat_spinner.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/spinner_item_inbuilt.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/spinner_item_inbuilt.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_flat_spinner_dropdown.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_flat_spinner_dropdown.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_pkg_tag.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_pkg_tag.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_instances.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_instances.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_world_editor.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_world_editor.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_custom_uri.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_custom_uri.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/overlay_mod_menu.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/overlay_mod_menu.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/spinner_item_dark.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/spinner_item_dark.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_settings_edittext.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_settings_edittext.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_resource_pack.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_resource_pack.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_transfer_content.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_transfer_content.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_content_action.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_content_action.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_settings_button.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_settings_button.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_content_management.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_content_management.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/view_pkg_catalog_header.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/view_pkg_catalog_header.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/overlay_mod_menu_button.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/overlay_mod_menu_button.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_about.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_about.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/spinner_item.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/spinner_item.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_load_world.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_load_world.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_options_editor.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_options_editor.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_connect_server.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_connect_server.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/fragment_pkg_installed.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/fragment_pkg_installed.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/popup_instance_selector.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/popup_instance_selector.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_google_login.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_google_login.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_pkg_task_log.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_pkg_task_log.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_pkg_install.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_pkg_install.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/view_logcat_overlay.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/view_logcat_overlay.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_curseforge_footer.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_curseforge_footer.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_crash.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_crash.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_mod_detail_meta_row.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_mod_detail_meta_row.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_structure.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_structure.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/shell_account_cluster.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/shell_account_cluster.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_libs_repair.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_libs_repair.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/overlay_external_button.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/overlay_external_button.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_accounts.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_accounts.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/spinner_dropdown_item_inbuilt.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/spinner_dropdown_item_inbuilt.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_msft_login.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_msft_login.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_splash.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_msft_account.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_msft_account.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_version.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_version.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_pkg_page_footer.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_pkg_page_footer.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_instance_settings.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_instance_settings.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_realm_invite.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_realm_invite.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_curseforge.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_curseforge.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/shell_navbar.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/shell_navbar.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_file_detail.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_file_detail.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_quick_action.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_quick_action.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_version_group_title.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_version_group_title.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_loading.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_loading.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_structure_list.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_structure_list.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_content_details.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_content_details.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_mod_detail.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_mod_detail.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_mod_config_node.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_mod_config_node.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_game_download.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_game_download.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/view_pkg_loader_card.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/view_pkg_loader_card.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_news.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_news.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_pkg_installed.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_pkg_installed.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_flat_layer.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_flat_layer.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/spinner_dropdown_item.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_instance_popup.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_instance_popup.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_external_mods.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_external_mods.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_custom_flat_world.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_custom_flat_world.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/view_pkg_settings_card.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/view_pkg_settings_card.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_pkg_version_row.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_pkg_version_row.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_inbuilt_mod_config.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_inbuilt_mod_config.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/view_pkg_browse_filters.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/view_pkg_browse_filters.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_screenshot.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_screenshot.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/overlay_mod_button.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/overlay_mod_button.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/popup_content_actions.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/popup_content_actions.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/catalog_pkg_header_lead.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/catalog_pkg_header_lead.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_file_list.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_file_list.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_slash_command.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_slash_command.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/overlay_virtual_cursor.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/overlay_virtual_cursor.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_mod_config.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_mod_config.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_packages.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_packages.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_curseforge_content.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_curseforge_content.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_pkg_install_by_id.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_pkg_install_by_id.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/alert_dialog_custom.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/alert_dialog_custom.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/view_pkg_task_progress.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/view_pkg_task_progress.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/dialog_pkg_task.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_pkg_task.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_version_big_group.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_version_big_group.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_property_header.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_property_header.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_package.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_package.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_mod_menu_compact.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_mod_menu_compact.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_mod.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_mod.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_content_list.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_content_list.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/activity_mods_fullscreen.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_mods_fullscreen.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_world.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_world.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/item_option_property.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_option_property.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-mergeDebugResources-59:/layout/fragment_pkg_browse.xml",
+        "source": "org.levimc.launcher.app-main-62:/layout/fragment_pkg_browse.xml"
+    }
+]

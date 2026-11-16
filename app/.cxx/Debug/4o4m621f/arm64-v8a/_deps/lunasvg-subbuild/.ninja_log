@@ -1,0 +1,21 @@
+# ninja log v5
+0	15	1794803362655951354	lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-mkdir	81af08d09156359c
+0	15	1794803362655951354	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-mkdir	81af08d09156359c
+15	1193	1794803363833951275	lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-download	3241c3b997c2fe6a
+15	1193	1794803363833951275	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-download	3241c3b997c2fe6a
+1194	1204	0	lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-update	16555bccf871e5a
+1194	1204	0	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-update	16555bccf871e5a
+1204	1209	1794803363848951274	lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-patch	3d5db99fc6df0dff
+1204	1209	1794803363848951274	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-patch	3d5db99fc6df0dff
+1209	1213	1794803363853951274	lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-configure	a4c8802b1181639a
+1209	1213	1794803363853951274	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-configure	a4c8802b1181639a
+1213	1218	1794803363857951274	lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-build	73829608f724624a
+1213	1218	1794803363857951274	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-build	73829608f724624a
+1218	1222	1794803363862951273	lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-install	200c9e7a9f4b4f5e
+1218	1222	1794803363862951273	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-install	200c9e7a9f4b4f5e
+1222	1226	1794803363866951273	lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-test	234df428eda90131
+1222	1226	1794803363866951273	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-test	234df428eda90131
+1226	1233	1794803363872951273	CMakeFiles/lunasvg-populate-complete	6b96c060a5c946
+1226	1233	1794803363872951273	lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-done	6b96c060a5c946
+1226	1233	1794803363872951273	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/CMakeFiles/lunasvg-populate-complete	6b96c060a5c946
+1226	1233	1794803363872951273	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-done	6b96c060a5c946

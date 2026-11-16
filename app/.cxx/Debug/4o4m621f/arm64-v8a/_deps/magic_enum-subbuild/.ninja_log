@@ -1,0 +1,21 @@
+# ninja log v5
+0	19	1794803356132951792	magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-mkdir	cb2aab3a6fa16205
+0	19	1794803356132951792	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/magic_enum-subbuild/magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-mkdir	cb2aab3a6fa16205
+20	1451	1794803357565951695	magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-download	4430fe822ba15832
+20	1451	1794803357565951695	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/magic_enum-subbuild/magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-download	4430fe822ba15832
+1451	1467	0	magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-update	a350c15a55aa5cc7
+1451	1467	0	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/magic_enum-subbuild/magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-update	a350c15a55aa5cc7
+1467	1473	1794803357586951694	magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-patch	7a34af1c6b2833de
+1467	1473	1794803357586951694	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/magic_enum-subbuild/magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-patch	7a34af1c6b2833de
+1473	1479	1794803357592951694	magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-configure	5fd004c74cffe52c
+1473	1479	1794803357592951694	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/magic_enum-subbuild/magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-configure	5fd004c74cffe52c
+1479	1485	1794803357598951693	magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-build	107a7c8bed99975d
+1479	1485	1794803357598951693	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/magic_enum-subbuild/magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-build	107a7c8bed99975d
+1485	1490	1794803357604951693	magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-install	4789d77cb115b890
+1485	1490	1794803357604951693	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/magic_enum-subbuild/magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-install	4789d77cb115b890
+1490	1494	1794803357608951693	magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-test	6959d992af71e240
+1490	1494	1794803357608951693	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/magic_enum-subbuild/magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-test	6959d992af71e240
+1495	1501	1794803357615951692	CMakeFiles/magic_enum-populate-complete	4781332b063306a5
+1495	1501	1794803357615951692	magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-done	4781332b063306a5
+1495	1501	1794803357615951692	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/magic_enum-subbuild/CMakeFiles/magic_enum-populate-complete	4781332b063306a5
+1495	1501	1794803357615951692	/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/magic_enum-subbuild/magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-done	4781332b063306a5

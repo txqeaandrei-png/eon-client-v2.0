@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.levimc.launcher.app-mergeDebugResources-58:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "/home/codespace/.gradle/caches/8.13/transforms/43b96dcbaa737534b5f55695a7991d76/transformed/core-splashscreen-1.2.0/res/values-v29/values-v29.xml",
+                    "from": {
+                        "startLines": "2,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,442",
+                        "endLines": "7,8",
+                        "endColumns": "12,82",
+                        "endOffsets": "437,520"
+                    },
+                    "to": {
+                        "startLines": "31,37",
+                        "startColumns": "4,4",
+                        "startOffsets": "1640,2027",
+                        "endLines": "36,37",
+                        "endColumns": "12,82",
+                        "endOffsets": "2022,2105"
+                    }
+                },
+                {
+                    "source": "/workspaces/LeviLauncher-Android/app/src/main/res/values-v29/theme.xml",
+                    "from": {
+                        "startLines": "2,41,32",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,2155,1641",
+                        "endLines": "30,43,39",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "1635,2293,2149"
+                    },
+                    "to": {
+                        "startLines": "2,38,41",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,2110,2253",
+                        "endLines": "30,40,48",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "1635,2248,2761"
+                    }
+                }
+            ]
+        }
+    ]
+}

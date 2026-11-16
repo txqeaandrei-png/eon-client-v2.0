@@ -1,0 +1,19 @@
+/usr/local/sdkman/candidates/java/21.0.13.0+2-ms/bin/java \
+  --class-path \
+  /home/codespace/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar \
+  com.google.prefab.cli.AppKt \
+  --build-system \
+  cmake \
+  --platform \
+  android \
+  --abi \
+  arm64-v8a \
+  --os-version \
+  28 \
+  --stl \
+  c++_shared \
+  --ndk-version \
+  28 \
+  --output \
+  /tmp/agp-prefab-staging2735400877116097385/staged-cli-output \
+  /home/codespace/.gradle/caches/8.13/transforms/b621148cc010760f3b0f957bf43a660f/transformed/games-activity-4.4.2/prefab
