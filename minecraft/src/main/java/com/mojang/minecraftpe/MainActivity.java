@@ -1935,6 +1935,52 @@ public class MainActivity extends GameActivity implements View.OnKeyListener, Fi
         return isTestInfrastructureDisabled() ? "" : nativeGetActiveScreen();
     }
 
+    public interface WorldFlightCommandCallback {
+        void onComplete(boolean submitted);
+    }
+
+    public void submitWorldFlightCommand(boolean enabled, WorldFlightCommandCallback callback) {
+        if (callback == null) return;
+        if (isFinishing() || isDestroyed() || isTextWidgetActive()) {
+            callback.onComplete(false);
+            return;
+        }
+
+        nativeKeyHandler(KeyEvent.KEYCODE_T, KeyEvent.ACTION_DOWN);
+        nativeKeyHandler(KeyEvent.KEYCODE_T, KeyEvent.ACTION_UP);
+        Handler handler = new Handler(getMainLooper());
+        submitWorldFlightCommandWhenChatIsReady(enabled, callback, handler, 0);
+    }
+
+    private void submitWorldFlightCommandWhenChatIsReady(
+            boolean enabled,
+            WorldFlightCommandCallback callback,
+            Handler handler,
+            int attempts
+    ) {
+        if (isFinishing() || isDestroyed()) {
+            callback.onComplete(false);
+            return;
+        }
+        if (!isTextWidgetActive()) {
+            if (attempts >= 20) {
+                callback.onComplete(false);
+            } else {
+                handler.postDelayed(
+                        () -> submitWorldFlightCommandWhenChatIsReady(enabled, callback, handler, attempts + 1),
+                        50L
+                );
+            }
+            return;
+        }
+
+        String command = "/ability @s mayfly " + (enabled ? "true" : "false");
+        setTextBoxBackend(command);
+        nativeSetTextboxText(command, command.length(), command.length());
+        nativeReturnKeyPressed();
+        callback.onComplete(true);
+    }
+
     public String MC_SetOptions(String optionsString) {
         return isTestInfrastructureDisabled() ? "" : nativeSetOptions(optionsString);
     }

@@ -226,6 +226,19 @@ class MinecraftActivity : MainActivity(), PojavControlsHost {
         }
     }
 
+    fun requestWorldFlight(
+        enabled: Boolean,
+        callback: MainActivity.WorldFlightCommandCallback
+    ) {
+        if (isFinishing || isDestroyed || !PreloaderInput.isHudScreenOpen()
+            || PreloaderInput.isPauseMenuOpen() || PreloaderInput.isShowingMenu()
+        ) {
+            callback.onComplete(false)
+            return
+        }
+        submitWorldFlightCommand(enabled, callback)
+    }
+
     fun openPreloaderDocumentPicker(mimeType: String) {
         runOnUiThread {
             try {

@@ -34,7 +34,7 @@ public class InbuiltOverlayManager {
             ModIds.QUICK_DROP, ModIds.CAMERA_PERSPECTIVE, ModIds.TOGGLE_HUD,
             ModIds.AUTO_SPRINT, ModIds.ZOOM, ModIds.FPS_DISPLAY, ModIds.CPS_DISPLAY,
             ModIds.SNAPLOOK, ModIds.VIRTUAL_CURSOR, ModIds.GYRO,
-            ModIds.POJAV_CONTROLS, ModIds.HOTBAR_SLOT
+            ModIds.POJAV_CONTROLS, ModIds.HOTBAR_SLOT, ModIds.WORLD_FLY
     };
     private final Map<String, Boolean> modActiveStates = new HashMap<>();
     private final Map<String, BaseOverlayButton> keybindControllers = new HashMap<>();
@@ -53,6 +53,7 @@ public class InbuiltOverlayManager {
     private ZoomOverlay zoomOverlay;
     private SnaplookOverlay snaplookOverlay;
     private GyroOverlay gyroOverlay;
+    private WorldFlyOverlay worldFlyOverlay;
     private FpsDisplayOverlay fpsDisplayOverlay;
     private CpsDisplayOverlay cpsDisplayOverlay;
     private ModMenuButton modMenuButton;
@@ -186,6 +187,7 @@ public class InbuiltOverlayManager {
         modActiveStates.put(ModIds.POJAV_CONTROLS, false);
         modActiveStates.put(ModIds.MORE_BUTTONS, false);
         modActiveStates.put(ModIds.HOTBAR_SLOT, false);
+        modActiveStates.put(ModIds.WORLD_FLY, false);
 
         modPositionMap.put(ModIds.QUICK_DROP, nextY + SPACING);
         modPositionMap.put(ModIds.CAMERA_PERSPECTIVE, nextY + SPACING * 2);
@@ -197,6 +199,7 @@ public class InbuiltOverlayManager {
         modPositionMap.put(ModIds.SNAPLOOK, nextY + SPACING * 8);
         modPositionMap.put(ModIds.VIRTUAL_CURSOR, nextY + SPACING * 9);
         modPositionMap.put(ModIds.GYRO, nextY + SPACING * 10);
+        modPositionMap.put(ModIds.WORLD_FLY, nextY + SPACING * 11);
 
         if (zoomOverlay == null) {
             zoomOverlay = new ZoomOverlay(activity);
@@ -222,6 +225,7 @@ public class InbuiltOverlayManager {
         restorePersistedInbuiltModState(manager, ModIds.POJAV_CONTROLS);
         restorePersistedInbuiltModState(manager, ModIds.MORE_BUTTONS);
         restorePersistedInbuiltModState(manager, ModIds.HOTBAR_SLOT);
+        restorePersistedInbuiltModState(manager, ModIds.WORLD_FLY);
 
         modMenuButton = new ModMenuButton(activity);
         modMenuButton.show(START_X, nextY);
@@ -244,6 +248,9 @@ public class InbuiltOverlayManager {
     public void handleModToggle(String modId, boolean enabled) {
         boolean wasEnabled = modActiveStates.getOrDefault(modId, false);
         modActiveStates.put(modId, enabled);
+        if (!enabled && ModIds.WORLD_FLY.equals(modId) && worldFlyOverlay != null) {
+            worldFlyOverlay.disableFlight();
+        }
         
         if (enabled && !wasEnabled) {
             showModOverlay(modId);
@@ -281,6 +288,10 @@ public class InbuiltOverlayManager {
             case ModIds.GYRO:
                 if (gyroOverlay == null) gyroOverlay = new GyroOverlay(activity);
                 controller = gyroOverlay;
+                break;
+            case ModIds.WORLD_FLY:
+                if (worldFlyOverlay == null) worldFlyOverlay = new WorldFlyOverlay(activity);
+                controller = worldFlyOverlay;
                 break;
             default: return null;
         }
@@ -368,6 +379,12 @@ public class InbuiltOverlayManager {
                 gyroOverlay.show(savedX, savedY);
                 overlays.add(gyroOverlay);
                 modOverlayMap.put(modId, gyroOverlay);
+                break;
+            case ModIds.WORLD_FLY:
+                worldFlyOverlay = (WorldFlyOverlay) getKeybindController(ModIds.WORLD_FLY);
+                worldFlyOverlay.show(savedX, savedY);
+                overlays.add(worldFlyOverlay);
+                modOverlayMap.put(modId, worldFlyOverlay);
                 break;
             case ModIds.MORE_BUTTONS:
                 refreshMoreButtons();
