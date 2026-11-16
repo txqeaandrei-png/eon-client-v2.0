@@ -1,8 +1,6 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
-    alias(libs.plugins.google.services)
-    alias(libs.plugins.firebase.crashlytics)
 }
 
 def localProperties = new Properties()
@@ -10,21 +8,6 @@ def localPropertiesFile = rootProject.file('local.properties')
 if (localPropertiesFile.exists()) {
     localProperties.load(new FileInputStream(localPropertiesFile))
 }
-
-def discordProperties = new Properties()
-def discordPropertiesFile = rootProject.file('discord.properties')
-if (discordPropertiesFile.exists()) {
-    discordPropertiesFile.withInputStream { discordProperties.load(it) }
-}
-def discordApplicationId = providers.gradleProperty('discord.application_id')
-        .getOrElse(discordProperties.getProperty('application_id', '0')).trim()
-if (!(discordApplicationId ==~ /[0-9]+/) ||
-        new BigInteger(discordApplicationId) > BigInteger.valueOf(Long.MAX_VALUE)) {
-    throw new GradleException('discord.application_id must be a numeric Discord Application ID, or 0 to disable the integration.')
-}
-discordApplicationId = new BigInteger(discordApplicationId).toString()
-def discordLargeImage = providers.gradleProperty('discord.large_image')
-        .getOrElse(discordProperties.getProperty('large_image', '')).trim()
 
 def curseForgeApiKey = localProperties.getProperty('curseforge.api_key', '').trim()
 
@@ -80,8 +63,6 @@ android {
         versionName getGitTag()
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         buildConfigField "String", "CURSEFORGE_API_KEY", groovy.json.JsonOutput.toJson(curseForgeApiKey)
-        buildConfigField 'long', 'DISCORD_APPLICATION_ID', "${discordApplicationId}L"
-        buildConfigField 'String', 'DISCORD_LARGE_IMAGE', groovy.json.JsonOutput.toJson(discordLargeImage)
         ndk {
             //noinspection ChromeOsAbiSupport
             abiFilters 'arm64-v8a'
@@ -112,10 +93,6 @@ android {
             minifyEnabled true
             shrinkResources false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-            firebaseCrashlytics {
-                mappingFileUploadEnabled true
-                nativeSymbolUploadEnabled true
-            }
             ndk {
                 debugSymbolLevel 'FULL'
             }
@@ -126,10 +103,6 @@ android {
             minifyEnabled true
             shrinkResources false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-            firebaseCrashlytics {
-                mappingFileUploadEnabled true
-                nativeSymbolUploadEnabled true
-            }
             ndk {
                 debugSymbolLevel 'FULL'
             }
@@ -141,10 +114,6 @@ android {
             minifyEnabled true
             shrinkResources false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-            firebaseCrashlytics {
-                mappingFileUploadEnabled true
-                nativeSymbolUploadEnabled true
-            }
             resValue "string", "app_name", "${launcherAppName} Beta"
             buildConfigField "boolean", "IS_BETA", "true"
             matchingFallbacks = ["release"]
@@ -188,7 +157,6 @@ android {
 }
 
 dependencies {
-    implementation files('libs/discord_partner_sdk.aar')
     implementation project(':minecraft')
     implementation project(':pojav_controls')
     implementation libs.commonmark
@@ -198,11 +166,6 @@ dependencies {
     implementation libs.minecraftauth
     implementation libs.commons.httpclient
     implementation libs.commons.gson
-    implementation platform(libs.firebase.bom)
-    implementation libs.firebase.analytics
-    implementation libs.firebase.crashlytics
-    implementation libs.firebase.crashlytics.ndk
-    implementation libs.firebase.messaging
     implementation libs.core.splashscreen
     implementation libs.appcompat
     implementation libs.conscrypt.android

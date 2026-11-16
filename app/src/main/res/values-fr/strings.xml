@@ -603,7 +603,7 @@
     <string name="label_other_accounts">Autres comptes</string>
     <!-- Crash & Diagnostics -->
     <string name="crash_title">L\'application s\'est arrêtée</string>
-    <string name="crash_upload">Téléverser le rapport de plantage</string>
+    <string name="crash_upload">Les rapports de plantage restent sur cet appareil</string>
     <string name="discord_rich_presence">Discord Rich Presence</string>
     <string name="discord_rich_presence_desc">Afficher l\'activité du lanceur, la version de Minecraft et le temps écoulé sur Discord</string>
     <string name="crash_details_title">Détails du plantage</string>

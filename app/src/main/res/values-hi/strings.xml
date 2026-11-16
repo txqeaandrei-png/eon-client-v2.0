@@ -603,7 +603,7 @@
     <string name="label_other_accounts">अन्य खाते</string>
     <!-- Crash & Diagnostics -->
     <string name="crash_title">एप्लिकेशन क्रैश हो गया</string>
-    <string name="crash_upload">क्रैश रिपोर्ट अपलोड करें</string>
+    <string name="crash_upload">क्रैश रिपोर्ट केवल इसी डिवाइस पर रहती हैं</string>
     <string name="discord_rich_presence">Discord Rich Presence</string>
     <string name="discord_rich_presence_desc">Discord पर लॉन्चर गतिविधि, Minecraft संस्करण और बीता हुआ समय दिखाएँ</string>
     <string name="crash_details_title">क्रैश विवरण</string>

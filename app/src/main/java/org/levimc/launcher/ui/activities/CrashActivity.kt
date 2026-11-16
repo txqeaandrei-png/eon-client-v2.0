@@ -8,7 +8,6 @@ import android.widget.Button
 import android.widget.TextView
 import androidx.core.content.FileProvider
 import org.levimc.launcher.R
-import org.levimc.launcher.core.crash.CrashReporter
 import org.levimc.launcher.ui.animation.DynamicAnim
 import java.io.File
 import java.util.concurrent.Executors
@@ -27,7 +26,6 @@ class CrashActivity : BaseActivity() {
         val summary = intent.getStringExtra("SUMMARY")
             ?: intent.getStringExtra("EMERGENCY")
         val crashType = intent.getStringExtra("CRASH_TYPE")
-        CrashReporter.sendUnsentReports()
 
         val tvTitle = findViewById<TextView>(R.id.crash_title)
         val tvDetails = findViewById<TextView>(R.id.crash_details)
@@ -58,9 +56,6 @@ class CrashActivity : BaseActivity() {
         Handler(Looper.getMainLooper()).postDelayed({
             loadCrashDetails(tvDetails, crashType, summary)
         }, 100)
-        Handler(Looper.getMainLooper()).postDelayed({
-            CrashReporter.sendUnsentReports()
-        }, 2000)
     }
 
     override fun shouldSkipNavBar(): Boolean = true

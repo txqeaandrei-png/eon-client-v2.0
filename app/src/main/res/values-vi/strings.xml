@@ -602,7 +602,7 @@
     <string name="label_other_accounts">Các tài khoản khác</string>
     <!-- Crash & Diagnostics -->
     <string name="crash_title">Ứng dụng bị lỗi</string>
-    <string name="crash_upload">Tải lên báo cáo sự cố</string>
+    <string name="crash_upload">Báo cáo sự cố chỉ được lưu trên thiết bị này</string>
     <string name="discord_rich_presence">Discord Rich Presence</string>
     <string name="discord_rich_presence_desc">Hiển thị hoạt động của launcher, phiên bản Minecraft và thời gian đã chơi trên Discord</string>
     <string name="crash_details_title">Chi tiết lỗi</string>

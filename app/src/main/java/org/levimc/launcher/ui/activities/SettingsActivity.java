@@ -40,8 +40,6 @@ import com.google.android.material.button.MaterialButton;
 import com.google.android.material.switchmaterial.SwitchMaterial;
 
 import org.levimc.launcher.R;
-import org.levimc.launcher.core.crash.CrashReporter;
-import org.levimc.launcher.core.discord.DiscordPresence;
 import org.levimc.launcher.preloader.PreloaderSignatureRulesManager;
 import org.levimc.launcher.settings.FeatureSettings;
 import org.levimc.launcher.ui.animation.DynamicAnim;
@@ -536,21 +534,6 @@ public class SettingsActivity extends BaseActivity {
                 LogcatOverlayManager mgr = LogcatOverlayManager.getInstance();
                 if (mgr != null) mgr.refreshVisibility();
             } catch (Throwable ignored) {}
-        });
-
-        SwitchMaterial switchCrashUpload = findViewById(R.id.switch_crash_upload);
-        switchCrashUpload.setChecked(fs.isCrashUploadEnabled());
-        switchCrashUpload.setOnCheckedChangeListener((btn, checked) -> {
-            fs.setCrashUploadEnabled(checked);
-            CrashReporter.refreshCrashlyticsCollection(this);
-        });
-
-        SwitchMaterial switchDiscordPresence = findViewById(R.id.switch_discord_presence);
-        switchDiscordPresence.setChecked(fs.isDiscordRichPresenceEnabled());
-        switchDiscordPresence.setEnabled(DiscordPresence.isConfigured());
-        switchDiscordPresence.setOnCheckedChangeListener((btn, checked) -> {
-            fs.setDiscordRichPresenceEnabled(checked);
-            DiscordPresence.refresh();
         });
 
         SwitchMaterial switchManagedLogin = findViewById(R.id.switch_managed_login);

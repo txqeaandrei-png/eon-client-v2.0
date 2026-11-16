@@ -603,7 +603,7 @@
     <string name="label_other_accounts">Outras Contas</string>
     <!-- Crash & Diagnostics -->
     <string name="crash_title">O aplicativo falhou</string>
-    <string name="crash_upload">Enviar relatório de falha</string>
+    <string name="crash_upload">Os relatórios de falha ficam apenas neste dispositivo</string>
     <string name="discord_rich_presence">Discord Rich Presence</string>
     <string name="discord_rich_presence_desc">Mostrar a atividade do launcher, a versão do Minecraft e o tempo decorrido no Discord</string>
     <string name="crash_details_title">Detalhes da falha</string>

@@ -55,25 +55,6 @@
 
                             <TextView
                                 style="@style/settings_RowTitle"
-                                android:text="@string/discord_rich_presence" />
-                            <TextView
-                                style="@style/settings_RowDesc"
-                                android:text="@string/discord_rich_presence_desc" />
-                        </LinearLayout>
-                        <com.google.android.material.switchmaterial.SwitchMaterial
-                            android:id="@+id/switch_discord_presence"
-                            style="@style/settings_Switch" />
-                    </LinearLayout>
-                    <View
-                        style="@style/settings_Divider" />
-                    <LinearLayout
-                        style="@style/settings_Row">
-
-                        <LinearLayout
-                            style="@style/settings_RowText">
-
-                            <TextView
-                                style="@style/settings_RowTitle"
                                 android:text="@string/launcher_managed_mc_login" />
                             <TextView
                                 style="@style/settings_RowDesc"
@@ -867,20 +848,9 @@
                 <LinearLayout
                     style="@style/settings_CardBody">
 
-                    <LinearLayout
-                        style="@style/settings_Row">
-
-                        <LinearLayout
-                            style="@style/settings_RowText">
-
-                            <TextView
-                                style="@style/settings_RowTitle"
-                                android:text="@string/crash_upload" />
-                        </LinearLayout>
-                        <com.google.android.material.switchmaterial.SwitchMaterial
-                            android:id="@+id/switch_crash_upload"
-                            style="@style/settings_Switch" />
-                    </LinearLayout>
+                    <TextView
+                        style="@style/settings_RowDesc"
+                        android:text="@string/crash_upload" />
                 </LinearLayout>
             </com.google.android.material.card.MaterialCardView>
         </LinearLayout>

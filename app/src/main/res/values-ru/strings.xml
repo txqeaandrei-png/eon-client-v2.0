@@ -611,7 +611,7 @@
     <string name="label_other_accounts">Другие аккаунты</string>
     <!-- Crash & Diagnostics -->
     <string name="crash_title">Приложение аварийно завершило работу</string>
-    <string name="crash_upload">Загрузить отчет о сбое</string>
+    <string name="crash_upload">Отчеты о сбоях хранятся только на этом устройстве</string>
     <string name="discord_rich_presence">Discord Rich Presence</string>
     <string name="discord_rich_presence_desc">Показывать в Discord активность лаунчера, версию Minecraft и время в игре</string>
     <string name="crash_details_title">Сведения о сбое</string>

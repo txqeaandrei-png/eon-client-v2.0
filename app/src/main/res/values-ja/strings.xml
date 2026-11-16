@@ -603,7 +603,7 @@
     <string name="label_other_accounts">その他のアカウント</string>
     <!-- Crash & Diagnostics -->
     <string name="crash_title">アプリがクラッシュしました</string>
-    <string name="crash_upload">クラッシュレポートをアップロード</string>
+    <string name="crash_upload">クラッシュレポートはこの端末にのみ保存されます</string>
     <string name="discord_rich_presence">Discord Rich Presence</string>
     <string name="discord_rich_presence_desc">ランチャーのアクティビティ、Minecraft のバージョン、経過時間を Discord に表示します</string>
     <string name="crash_details_title">クラッシュの詳細</string>

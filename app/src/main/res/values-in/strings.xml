@@ -603,7 +603,7 @@
     <string name="label_other_accounts">Akun Lain</string>
     <!-- Crash & Diagnostics -->
     <string name="crash_title">Aplikasi mengalami kerusakan.</string>
-    <string name="crash_upload">Unggah laporan kerusakan</string>
+    <string name="crash_upload">Laporan kerusakan hanya disimpan di perangkat ini</string>
     <string name="discord_rich_presence">Discord Rich Presence</string>
     <string name="discord_rich_presence_desc">Tampilkan aktivitas launcher, versi Minecraft, dan waktu bermain di Discord</string>
     <string name="crash_details_title">Detail kerusakan</string>

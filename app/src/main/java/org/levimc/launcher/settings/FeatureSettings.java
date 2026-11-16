@@ -8,8 +8,6 @@ public class FeatureSettings {
     private boolean versionIsolationEnabled = false;
     private boolean launcherManagedMcLoginEnabled = false;
     private boolean logcatOverlayEnabled = false;
-    private Boolean crashUploadEnabled = true;
-    private boolean discordRichPresenceEnabled = true;
     /** Package mirror mode: "on" or "off"; null means auto (region detection). */
     private String pkgMirrorMode;
     /** Whether packages' hook scripts run; null means true. */
@@ -49,12 +47,6 @@ public class FeatureSettings {
 
     public boolean isLogcatOverlayEnabled() { return logcatOverlayEnabled; }
     public void setLogcatOverlayEnabled(boolean enabled) { this.logcatOverlayEnabled = enabled; autoSave(); }
-
-    public boolean isCrashUploadEnabled() { return crashUploadEnabled == null || crashUploadEnabled; }
-    public void setCrashUploadEnabled(boolean enabled) { this.crashUploadEnabled = enabled; autoSave(); }
-
-    public boolean isDiscordRichPresenceEnabled() { return discordRichPresenceEnabled; }
-    public void setDiscordRichPresenceEnabled(boolean enabled) { this.discordRichPresenceEnabled = enabled; autoSave(); }
 
     public String getPkgMirrorMode() { return pkgMirrorMode; }
     public void setPkgMirrorMode(String mode) { this.pkgMirrorMode = mode; autoSave(); }

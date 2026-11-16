@@ -1,7 +1,6 @@
 -keepattributes Signature,InnerClasses,EnclosingMethod,*Annotation*,SourceFile,LineNumberTable
 
 -keep class com.discord.** { *; }
--keep class org.levimc.launcher.core.discord.DiscordPresenceNative { *; }
 
 -keep,includedescriptorclasses class org.levimc.** { *; }
 
