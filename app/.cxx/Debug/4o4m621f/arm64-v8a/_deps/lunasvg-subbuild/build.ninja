@@ -34,7 +34,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/
+cmake_ninja_workdir = /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/
 
 #############################################
 # Utility command for lunasvg-populate
@@ -46,7 +46,7 @@ build lunasvg-populate: phony CMakeFiles/lunasvg-populate CMakeFiles/lunasvg-pop
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -57,7 +57,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild -B/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild
+  COMMAND = cd /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild -B/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -75,7 +75,7 @@ build CMakeFiles/lunasvg-populate | ${cmake_ninja_workdir}CMakeFiles/lunasvg-pop
 # Custom command for CMakeFiles/lunasvg-populate-complete
 
 build CMakeFiles/lunasvg-populate-complete lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-done | ${cmake_ninja_workdir}CMakeFiles/lunasvg-populate-complete ${cmake_ninja_workdir}lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-done: CUSTOM_COMMAND lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-install lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-mkdir lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-download lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-update lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-patch lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-configure lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-build lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-install lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-test
-  COMMAND = cd /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E make_directory /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/CMakeFiles && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E touch /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/CMakeFiles/lunasvg-populate-complete && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E touch /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-done
+  COMMAND = cd /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E make_directory /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/CMakeFiles && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E touch /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/CMakeFiles/lunasvg-populate-complete && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E touch /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-done
   DESC = Completed 'lunasvg-populate'
   restat = 1
 
@@ -84,7 +84,7 @@ build CMakeFiles/lunasvg-populate-complete lunasvg-populate-prefix/src/lunasvg-p
 # Custom command for lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-build
 
 build lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-build | ${cmake_ninja_workdir}lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-build: CUSTOM_COMMAND lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-configure
-  COMMAND = cd /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E echo_append && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E touch /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-build
+  COMMAND = cd /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E echo_append && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E touch /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-build
   DESC = No build step for 'lunasvg-populate'
   restat = 1
 
@@ -93,7 +93,7 @@ build lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-build 
 # Custom command for lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-configure
 
 build lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-configure | ${cmake_ninja_workdir}lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-configure: CUSTOM_COMMAND lunasvg-populate-prefix/tmp/lunasvg-populate-cfgcmd.txt lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-patch
-  COMMAND = cd /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E echo_append && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E touch /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-configure
+  COMMAND = cd /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E echo_append && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E touch /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-configure
   DESC = No configure step for 'lunasvg-populate'
   restat = 1
 
@@ -102,7 +102,7 @@ build lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-config
 # Custom command for lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-download
 
 build lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-download | ${cmake_ninja_workdir}lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-download: CUSTOM_COMMAND lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-gitinfo.txt lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-mkdir
-  COMMAND = cd /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -P /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/tmp/lunasvg-populate-gitclone.cmake && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E touch /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-download
+  COMMAND = cd /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -P /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/tmp/lunasvg-populate-gitclone.cmake && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E touch /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-download
   DESC = Performing download step (git clone) for 'lunasvg-populate'
   pool = console
   restat = 1
@@ -112,7 +112,7 @@ build lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-downlo
 # Custom command for lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-install
 
 build lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-install | ${cmake_ninja_workdir}lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-install: CUSTOM_COMMAND lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-build
-  COMMAND = cd /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E echo_append && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E touch /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-install
+  COMMAND = cd /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E echo_append && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E touch /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-install
   DESC = No install step for 'lunasvg-populate'
   restat = 1
 
@@ -121,7 +121,7 @@ build lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-instal
 # Custom command for lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-mkdir
 
 build lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-mkdir | ${cmake_ninja_workdir}lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-mkdir: CUSTOM_COMMAND
-  COMMAND = cd /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E make_directory /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-src && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E make_directory /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E make_directory /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E make_directory /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/tmp && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E make_directory /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E make_directory /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E make_directory /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E touch /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-mkdir
+  COMMAND = cd /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E make_directory /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-src && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E make_directory /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E make_directory /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E make_directory /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/tmp && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E make_directory /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E make_directory /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E make_directory /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E touch /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-mkdir
   DESC = Creating directories for 'lunasvg-populate'
   restat = 1
 
@@ -130,7 +130,7 @@ build lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-mkdir 
 # Custom command for lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-patch
 
 build lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-patch | ${cmake_ninja_workdir}lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-patch: CUSTOM_COMMAND lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-update
-  COMMAND = cd /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E echo_append && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E touch /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-patch
+  COMMAND = cd /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E echo_append && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E touch /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-patch
   DESC = No patch step for 'lunasvg-populate'
   restat = 1
 
@@ -139,7 +139,7 @@ build lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-patch 
 # Custom command for lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-test
 
 build lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-test | ${cmake_ninja_workdir}lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-test: CUSTOM_COMMAND lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-install
-  COMMAND = cd /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E echo_append && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E touch /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-test
+  COMMAND = cd /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E echo_append && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -E touch /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-test
   DESC = No test step for 'lunasvg-populate'
   restat = 1
 
@@ -148,7 +148,7 @@ build lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-test |
 # Custom command for lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-update
 
 build lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-update | ${cmake_ninja_workdir}lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-update: CUSTOM_COMMAND lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-download
-  COMMAND = cd /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-src && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -P /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/tmp/lunasvg-populate-gitupdate.cmake
+  COMMAND = cd /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-src && /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -P /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild/lunasvg-populate-prefix/tmp/lunasvg-populate-gitupdate.cmake
   DESC = Performing update step for 'lunasvg-populate'
   pool = console
 
@@ -161,7 +161,7 @@ build lunasvg-populate-prefix/src/lunasvg-populate-stamp/lunasvg-populate-update
 # =============================================================================
 
 #############################################
-# Folder: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild
+# Folder: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-subbuild
 
 build all: phony lunasvg-populate
 

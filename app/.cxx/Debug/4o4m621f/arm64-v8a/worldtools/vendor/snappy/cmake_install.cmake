@@ -1,4 +1,4 @@
-# Install script for directory: /workspaces/LeviLauncher-Android/app/src/main/cpp/worldtools/vendor/snappy
+# Install script for directory: /workspaces/eon-client-v2.0/app/src/main/cpp/worldtools/vendor/snappy
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -2,6 +2,7 @@ package org.levimc.launcher.core.mods.inbuilt;
 
 import android.app.Activity;
 import android.content.Context;
+import android.widget.Toast;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -32,6 +33,7 @@ public final class InbuiltModuleProvider {
     private static final String CFG_ZOOM_LEVEL = "zoom_level";
     private static final String CFG_ZOOM_TRANSITION = "zoom_transition";
     private static final String CFG_ZOOM_KEYBIND = "zoom_keybind";
+    private static final String CFG_WORLD_FLY_SPEED = "world_fly_speed";
     private static final String CFG_GYRO_SENSITIVITY_MULTIPLIER = "gyro_sensitivity_multiplier";
     private static final String CFG_GYRO_SENSITIVITY_X = "gyro_sensitivity_x";
     private static final String CFG_GYRO_SENSITIVITY_Y = "gyro_sensitivity_y";
@@ -121,7 +123,7 @@ public final class InbuiltModuleProvider {
                 customConfig,
                 GROUP_ID,
                 groupName,
-                (mod, enabled) -> setEnabled(manager, mod, enabled),
+                (mod, enabled) -> setEnabled(activity, manager, mod, enabled),
                 (mod, config, value) -> setConfig(manager, mod, config, value),
                 ModIds.MORE_BUTTONS.equals(id) ? mod -> MoreButtonsEditor.show(activity) : null
         );
@@ -228,6 +230,13 @@ public final class InbuiltModuleProvider {
                                                               String modId) {
         List<UnifiedMod.ConfigEntry> configs = new ArrayList<>();
         if (ModIds.MORE_BUTTONS.equals(modId)) return configs;
+        if (ModIds.WORLD_FLY.equals(modId)) {
+            configs.add(config(CFG_WORLD_FLY_SPEED,
+                    context.getString(R.string.mod_config_world_fly_speed),
+                    UnifiedMod.ConfigType.SLIDER_INT,
+                    "100", "25", "500", String.valueOf(manager.getWorldFlySpeed())));
+            return configs;
+        }
         if (ModIds.POJAV_CONTROLS.equals(modId)) {
             configs.add(activationKeybind(context, manager, modId));
             configs.add(config(CFG_EDIT_CONTROLS,
@@ -397,11 +406,14 @@ public final class InbuiltModuleProvider {
         return CFG_HOTBAR_SLOT_PREFIX + slot + "_" + setting;
     }
 
-    private static void setEnabled(InbuiltModManager manager, UnifiedMod mod, boolean enabled) {
+    private static void setEnabled(Activity activity, InbuiltModManager manager, UnifiedMod mod, boolean enabled) {
         manager.setInbuiltModEnabled(mod.getId(), enabled);
         InbuiltOverlayManager overlayManager = InbuiltOverlayManager.getInstance();
         if (overlayManager != null) {
             overlayManager.handleModToggle(mod.getId(), enabled);
+        }
+        if (ModIds.WORLD_FLY.equals(mod.getId())) {
+            Toast.makeText(activity, R.string.inbuilt_mod_world_fly_restart, Toast.LENGTH_LONG).show();
         }
     }
 
@@ -415,6 +427,9 @@ public final class InbuiltModuleProvider {
             case CFG_EDIT_CONTROLS:
                 InbuiltOverlayManager overlayManager = InbuiltOverlayManager.getInstance();
                 if (overlayManager != null) overlayManager.openPojavControlsEditor();
+                break;
+            case CFG_WORLD_FLY_SPEED:
+                manager.setWorldFlySpeed(parseInt(value, manager.getWorldFlySpeed()));
                 break;
             case CFG_OVERLAY_SIZE:
                 manager.setOverlayButtonSize(mod.getId(), parseInt(value, manager.getOverlayButtonSize(mod.getId())));

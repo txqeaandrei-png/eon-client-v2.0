@@ -1,4 +1,4 @@
-# Install script for directory: /workspaces/LeviLauncher-Android/app/src/main/cpp/worldtools/vendor/zstd/build/cmake/lib
+# Install script for directory: /workspaces/eon-client-v2.0/app/src/main/cpp/worldtools/vendor/zstd/build/cmake/lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -43,18 +43,18 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/worldtools/vendor/zstd/build/cmake/lib/libzstd.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/worldtools/vendor/zstd/build/cmake/lib/libzstd.pc")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE FILE FILES
-    "/workspaces/LeviLauncher-Android/app/src/main/cpp/worldtools/vendor/zstd/build/cmake/../../lib/zdict.h"
-    "/workspaces/LeviLauncher-Android/app/src/main/cpp/worldtools/vendor/zstd/build/cmake/../../lib/zstd.h"
-    "/workspaces/LeviLauncher-Android/app/src/main/cpp/worldtools/vendor/zstd/build/cmake/../../lib/zstd_errors.h"
+    "/workspaces/eon-client-v2.0/app/src/main/cpp/worldtools/vendor/zstd/build/cmake/../../lib/zdict.h"
+    "/workspaces/eon-client-v2.0/app/src/main/cpp/worldtools/vendor/zstd/build/cmake/../../lib/zstd.h"
+    "/workspaces/eon-client-v2.0/app/src/main/cpp/worldtools/vendor/zstd/build/cmake/../../lib/zstd_errors.h"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/worldtools/vendor/zstd/build/cmake/lib/libzstd.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/worldtools/vendor/zstd/build/cmake/lib/libzstd.a")
 endif()
 

@@ -1,4 +1,4 @@
-# Install script for directory: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-src
+# Install script for directory: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,22 +44,22 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/plutovg/cmake_install.cmake")
+  include("/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/plutovg/cmake_install.cmake")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/lunasvg" TYPE FILE FILES "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-src/include/lunasvg.h")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/lunasvg" TYPE FILE FILES "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-src/include/lunasvg.h")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/liblunasvg.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/liblunasvg.a")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/lunasvg/lunasvgTargets.cmake")
     file(DIFFERENT EXPORT_FILE_CHANGED FILES
          "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/lunasvg/lunasvgTargets.cmake"
-         "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/CMakeFiles/Export/lib/cmake/lunasvg/lunasvgTargets.cmake")
+         "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/CMakeFiles/Export/lib/cmake/lunasvg/lunasvgTargets.cmake")
     if(EXPORT_FILE_CHANGED)
       file(GLOB OLD_CONFIG_FILES "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/lunasvg/lunasvgTargets-*.cmake")
       if(OLD_CONFIG_FILES)
@@ -68,20 +68,20 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
       endif()
     endif()
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/lunasvg" TYPE FILE FILES "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/CMakeFiles/Export/lib/cmake/lunasvg/lunasvgTargets.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/lunasvg" TYPE FILE FILES "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/CMakeFiles/Export/lib/cmake/lunasvg/lunasvgTargets.cmake")
   if("${CMAKE_INSTALL_CONFIG_NAME}" MATCHES "^([Rr][Ee][Ll][Ww][Ii][Tt][Hh][Dd][Ee][Bb][Ii][Nn][Ff][Oo])$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/lunasvg" TYPE FILE FILES "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/CMakeFiles/Export/lib/cmake/lunasvg/lunasvgTargets-relwithdebinfo.cmake")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/lunasvg" TYPE FILE FILES "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/CMakeFiles/Export/lib/cmake/lunasvg/lunasvgTargets-relwithdebinfo.cmake")
   endif()
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/lunasvg" TYPE FILE FILES
-    "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/lunasvgConfig.cmake"
-    "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/lunasvgConfigVersion.cmake"
+    "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/lunasvgConfig.cmake"
+    "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/lunasvgConfigVersion.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/lunasvg.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/lunasvg.pc")
 endif()
 

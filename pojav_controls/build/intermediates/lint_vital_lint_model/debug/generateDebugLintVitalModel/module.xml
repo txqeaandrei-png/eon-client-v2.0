@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="/workspaces/LeviLauncher-Android/pojav_controls"
+    dir="/workspaces/eon-client-v2.0/pojav_controls"
     name=":pojav_controls"
     type="LIBRARY"
     maven="levilauncher:pojav_controls:unspecified"

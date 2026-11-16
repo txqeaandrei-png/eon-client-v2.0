@@ -1,1830 +1,1830 @@
 [
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_tag_management.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_tag_management.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_ui_segment_track.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_ui_segment_track.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_sort.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_sort.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_shell_account_cluster.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/shell_account_cluster.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_debug_badge.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_debug_badge.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_rename_entry.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_rename_entry.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_add.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_add.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_pkg_package.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_pkg_package.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_camera_pressed.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_camera_pressed.png"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_mod_menu_compact.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_mod_menu_compact.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_instances.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_instances.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/menu_language_menu.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/menu/language_menu.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_external_mod_type_badge.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_external_mod_type_badge.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_link_chip_green.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_link_chip_green.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_external_mod.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_external_mod.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_code_slash.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_code_slash.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_sort.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_sort.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_pkg_package.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_pkg_package.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_logo_glow.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_logo_glow.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_nav_news.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_nav_news.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_changelog_content.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_changelog_content.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_debug_badge.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_debug_badge.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_lightbulb.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_lightbulb.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_pkg_batch_result.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_pkg_batch_result.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_ui_card_inner.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_ui_card_inner.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_download.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_download.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_server.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_server.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/anim_fade_in.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/anim/fade_in.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_mod_menu_toggle.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_mod_menu_toggle.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_view_pkg_settings_card.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/view_pkg_settings_card.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_content_list.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_content_list.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_curseforge.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_curseforge.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_instance_popup.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_instance_popup.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_notification_progress.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_notification_progress.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_speech_bubble.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_speech_bubble.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_news_unread_dot.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_news_unread_dot.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_pkg_page_footer.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_pkg_page_footer.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_link_chip_orange.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_link_chip_orange.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_close.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modmenu_close.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_mod_page_badge.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_mod_page_badge.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_view_pkg_catalog_header.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/view_pkg_catalog_header.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_tag_optimization.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_tag_optimization.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_minimize.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modmenu_minimize.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_spinner_item_inbuilt.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/spinner_item_inbuilt.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_content_bg_thumb.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/content_bg_thumb.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_fragment_pkg_installed.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/fragment_pkg_installed.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_bell.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modmenu_bell.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_globe.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_globe.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_pkg_task_log.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_pkg_task_log.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_ui_row.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_ui_row.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_qa_content_mgmt.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_qa_content_mgmt.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_external_overlay_button.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_external_overlay_button.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_search.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modmenu_search.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_resize_handle.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_resize_handle.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-mdpi_ic_leaf_logo.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-mdpi/ic_leaf_logo.png"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_view_logcat_overlay.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/view_logcat_overlay.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_link_chip_blue.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_link_chip_blue.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_tag_game_mechanics.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_tag_game_mechanics.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_apk_version_confirm.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_apk_version_confirm.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/anim_popup_out.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/anim/popup_out.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_more_vert.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_more_vert.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-hdpi_ic_leaf_logo_mono.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-hdpi/ic_leaf_logo_mono.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_msft_account.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_msft_account.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_version_big_group.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_version_big_group.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_fps.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_fps.png"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_settings_button.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_settings_button.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_mods_fullscreen.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_mods_fullscreen.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_property_header.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_property_header.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_cps.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_cps.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_hud.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_hud.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_check.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_check.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_arrow_forward.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_arrow_forward.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_quick_launch.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_quick_launch.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_qa_account.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_qa_account.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_search_field_light.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_search_field_light.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-night_bg_popup_menu_rounded.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-night/bg_popup_menu_rounded.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_pkg_dev_guide.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_pkg_dev_guide.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_toggle_hud_pressed.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_toggle_hud_pressed.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_game_version_select.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_game_version_select.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_settings_edittext.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_settings_edittext.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_leaf_logo.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_leaf_logo.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_search.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_search.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_group.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_group.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_settings.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modmenu_settings.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_palette.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_palette.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_news.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_news.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_nav_settings.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_nav_settings.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_screenshot.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_screenshot.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_chick_idle_1.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/chick_idle_1.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_install_progress.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_install_progress.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/mipmap-hdpi/ic_launcher.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_notifications.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_notifications.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_link_chip_pink.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_link_chip_pink.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_circle.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_circle.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_glow_cyan.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_glow_cyan.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_content_bg_item_card.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/content_bg_item_card.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_world.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_world.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_tag_visual.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_tag_visual.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_overlay_mod_menu.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/overlay_mod_menu.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_glow_green.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_glow_green.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_pkg_log_panel.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_pkg_log_panel.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_mod_menu_card.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_mod_menu_card.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_spinner_dropdown_item_inbuilt.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/spinner_dropdown_item_inbuilt.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_ui_strip.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_ui_strip.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-night_card_background.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-night/card_background.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_code.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_code.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_content_bg_icon_button.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/content_bg_icon_button.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_inbuilt_badge.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_inbuilt_badge.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_compact.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modmenu_compact.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_news.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_news.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_remove_button.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_remove_button.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_spinner_item_dark.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/spinner_item_dark.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_world_zoom_out.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_world_zoom_out.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_sun.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_sun.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_cf_search.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_cf_search.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_flat_spinner_dropdown.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_flat_spinner_dropdown.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_tag_adventure.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_tag_adventure.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_content_item.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_content_item.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_overlay_mod_menu.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/overlay_mod_menu.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_author_badge.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_author_badge.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_world_zoom_in.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_world_zoom_in.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_remove_button.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_remove_button.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_minecraft_loading_terminal.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_minecraft_loading_terminal.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_edit_text.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_edit_text.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_pkg_log_panel.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_pkg_log_panel.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_ui_card.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_ui_card.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_pkg_install.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_pkg_install.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_instance_settings.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_instance_settings.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_news_category.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_news_category.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_quick_drop_pressed.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_quick_drop_pressed.png"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_popup_instance_selector.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/popup_instance_selector.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_close_button.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_close_button.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_mod_menu_toggle.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_mod_menu_toggle.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_quick_launch.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_quick_launch.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_star.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_star.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_resize.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modmenu_resize.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_more_vert.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_more_vert.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_v161_misc_news_tag.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/v161_misc_news_tag.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_home_loader_chip.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_home_loader_chip.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_loading_track.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_loading_track.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_view_settings_sections.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/view_settings_sections.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_github.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_github.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_snaplook_pressed.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_snaplook_pressed.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-mdpi_ic_leaf_logo_mono.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-mdpi/ic_leaf_logo_mono.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_cf_item.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_cf_item.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_divider_menu_item.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/divider_menu_item.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_tag_anticheat.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_tag_anticheat.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_tag_anticheat.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_tag_anticheat.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_structure.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_structure.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_splash.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_splash.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_ui_row.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_ui_row.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_spinner_dropdown_item_dark.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/spinner_dropdown_item_dark.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_libs_repair.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_libs_repair.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-nodpi_ic_hotbar_slot.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-nodpi/ic_hotbar_slot.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_overlay_button_active.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_overlay_button_active.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_mod_config.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_mod_config.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_logo_glow.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_logo_glow.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_options_editor.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_options_editor.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-night_bg_third_level_item.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-night/bg_third_level_item.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_spinner.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_spinner.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_bubble_dark.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_bubble_dark.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_quick_drop.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_quick_drop.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_settings.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_settings.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_pkg_installed.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_pkg_installed.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_ui_segment_selected.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_ui_segment_selected.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_overlay_mod_menu_button.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/overlay_mod_menu_button.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_main.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_main.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_add.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_add.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_pkg_install_by_id.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_pkg_install_by_id.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_misc_bg_tag_danger.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/misc_bg_tag_danger.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_discord.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_discord.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_logs.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_logs.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_screenshot.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_screenshot.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_structure.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_structure.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_spinner_item_inbuilt.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/spinner_item_inbuilt.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_filter.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_filter.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_patreon.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_patreon.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_pkg_dev_guide.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_pkg_dev_guide.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_chick_run_2.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/chick_run_2.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_moon.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_moon.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_tag_game_mechanics.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_tag_game_mechanics.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_chick_sleep_2.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/chick_sleep_2.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_v161_home_launch_group.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/v161_home_launch_group.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/anim_popup_in.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/anim/popup_in.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_virtual_cursor.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_virtual_cursor.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_instance_card.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_instance_card.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_save.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_save.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_snaplook_normal.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_snaplook_normal.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_slash_command.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_slash_command.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_news.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_news.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_resource_pack.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_resource_pack.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_settings_ic_layers.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/settings_ic_layers.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_spinner_item.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/spinner_item.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_genuine_unverified.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_genuine_unverified.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_version.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_version.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_heart.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_heart.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-nodpi_more_button_base_pressed.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-nodpi/more_button_base_pressed.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_chick_run_1.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/chick_run_1.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_home_bg_launch_group.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/home_bg_launch_group.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_mod.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_mod.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_person.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_person.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_inbuilt_mods.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_inbuilt_mods.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_cf_search.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_cf_search.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_pojav_controls.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_pojav_controls.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/xml_network_security_config.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/xml/network_security_config.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_realm_invite.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_realm_invite.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_filter.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_filter.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_chevron_right.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_chevron_right.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_mod_detail_meta_row.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_mod_detail_meta_row.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_person.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_person.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_rounded_card.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_rounded_card.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_bubble_dark.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_bubble_dark.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_genuine_unverified.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_genuine_unverified.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_add.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_add.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_instances_bg_search.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/instances_bg_search.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_packages_stacked.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_packages_stacked.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_chick_sleep_2.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/chick_sleep_2.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_search_field_light.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_search_field_light.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_orbit_dot.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_orbit_dot.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_dialog_replace.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_dialog_replace.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_structure_list.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_structure_list.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_internet.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_internet.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_arrow_back.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_arrow_back.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_mod_status_disabled.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_mod_status_disabled.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_loading.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_loading.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_content_bg_thumb.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/content_bg_thumb.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_mod_detail.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_mod_detail.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_content_action.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_content_action.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_compact.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modmenu_compact.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_pkg_tag.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_pkg_tag.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_install_progress.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_install_progress.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_pkg_task.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_pkg_task.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_chevron.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modmenu_chevron.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_mods_fullscreen.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_mods_fullscreen.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_minecraft_cube.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_minecraft_cube.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_mod_config_node.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_mod_config_node.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_polish_notice.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_polish_notice.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_ui_card_inner.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_ui_card_inner.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_mod_menu_compact.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_mod_menu_compact.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_game_download.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_game_download.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_cursor_overlay.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_cursor_overlay.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_instances_bg_icon_slot.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/instances_bg_icon_slot.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_flat_spinner.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_flat_spinner.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_palette.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_palette.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-nodpi_more_button_base_normal.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-nodpi/more_button_base_normal.png"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_overlay_mod_button.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/overlay_mod_button.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modules.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modules.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_instances_tab.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_instances_tab.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_backup.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_backup.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_beta_badge.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_beta_badge.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-night_card_background_small.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-night/card_background_small.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_menu.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modmenu_menu.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_nav_about.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_nav_about.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_save.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_save.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_zoom_normal.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_zoom_normal.png"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_instances.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_instances.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_search_box.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_search_box.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_photo.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_photo.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-xhdpi_ic_leaf_logo_mono.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-xhdpi/ic_leaf_logo_mono.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_edit_text.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_edit_text.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_schedule.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_schedule.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_preview_tag.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_preview_tag.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_alert_dialog_custom.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/alert_dialog_custom.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_youtube.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_youtube.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_splash.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_splash.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_orbit_ring.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_orbit_ring.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_v161r2_misc_quick_launch_card.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/v161r2_misc_quick_launch_card.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_tune.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_tune.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_puzzle.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_puzzle.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_behavior.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_behavior.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_pkg_version_row.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_pkg_version_row.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_chick_walk_back_1.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/chick_walk_back_1.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_world_location.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_world_location.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_shell_avatar.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_shell_avatar.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_ui_segment_track.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_ui_segment_track.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_pin.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modmenu_pin.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_sprint_normal.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_sprint_normal.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_arrow_down.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_arrow_down.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_minecraft_loading.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_minecraft_loading.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_card_background_small.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/card_background_small.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_inbuilt_mod_config.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_inbuilt_mod_config.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_pkg_result_section.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_pkg_result_section.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_tune.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_tune.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_content_list.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_content_list.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_mod_menu_fab.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_mod_menu_fab.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_view_pkg_browse_filters.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/view_pkg_browse_filters.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_pkg_task_bar.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_pkg_task_bar.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_close_button.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_close_button.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_qa_launch.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_qa_launch.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_custom_flat_world.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_custom_flat_world.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-night_bg_rounded_card.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-night/bg_rounded_card.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_fps.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_fps.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_globe.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_globe.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_changelog_content.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_changelog_content.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_moon.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_moon.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_slash_command.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_slash_command.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_filter_chip.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_filter_chip.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_dialog_background_black_border.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/dialog_background_black_border.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_overlay_external_button.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/overlay_external_button.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_toggle_hud_normal.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_toggle_hud_normal.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/anim_fade_out.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/anim/fade_out.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_nav_about.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_nav_about.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_server.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_server.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_qa_content.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_qa_content.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_mod_status_enabled.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_mod_status_enabled.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/menu_language_menu.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/menu/language_menu.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_news.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_news.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_cps.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_cps.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_plugin_field_background.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/plugin_field_background.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_loading.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_loading.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_menu.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modmenu_menu.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_glow_cyan.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_glow_cyan.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_dialog_background_black_border.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/dialog_background_black_border.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modules.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modules.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_delete.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_delete.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_ui_card.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_ui_card.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_overlay_mod_notification.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/overlay_mod_notification.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_divider_menu_item.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/divider_menu_item.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_package.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_package.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_mod_menu_fab.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_mod_menu_fab.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-night_card_background.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-night/card_background.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_about_issue.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_about_issue.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_overlay_stats_display.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/overlay_stats_display.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_inbuilt_badge.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_inbuilt_badge.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-xxxhdpi_ic_leaf_logo_mono.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-xxxhdpi/ic_leaf_logo_mono.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_chick_walk_back_2.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/chick_walk_back_2.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_pkg_install.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_pkg_install.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_transfer.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_transfer.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-xxxhdpi_ic_leaf_logo.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-xxxhdpi/ic_leaf_logo.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_dialog_config.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_dialog_config.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_shell_avatar.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_shell_avatar.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_nav_download.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_nav_download.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_about_license.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_about_license.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-xxxhdpi_ic_leaf_logo_mono.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-xxxhdpi/ic_leaf_logo_mono.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_spinner_outline.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_spinner_outline.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_v161_instances_bg_search.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/v161_instances_bg_search.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_link_chip_orange.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_link_chip_orange.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_quick_launch.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_quick_launch.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_pkg_secondary_bars.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_pkg_secondary_bars.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_image.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_image.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_tag_teleport.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_tag_teleport.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_content.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_content.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_popup_menu_square.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_popup_menu_square.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/xml_network_security_config.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/xml/network_security_config.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_creator_notice.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_creator_notice.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_quick_action.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_quick_action.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_glow_green.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_glow_green.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_flat_spinner.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_flat_spinner.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_palette.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modmenu_palette.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_corner_handle.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_corner_handle.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_chick_run_1.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/chick_run_1.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_expand.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modmenu_expand.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_catalog_pkg_header_lead.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/catalog_pkg_header_lead.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-mdpi_ic_leaf_logo_mono.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-mdpi/ic_leaf_logo_mono.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_settings_ic_layers.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/settings_ic_layers.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_instance_selector.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_instance_selector.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_v161_misc_news_important.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/v161_misc_news_important.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_puzzle.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_puzzle.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-night_bg_popup_menu_rounded.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-night/bg_popup_menu_rounded.xml"
-    },
-    {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_third_level_item.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_third_level_item.xml"
-    },
-    {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_home_loader_chip.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_home_loader_chip.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_server.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_server.xml"
     },
     {
         "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_world_fly.xml.flat",
         "source": "org.levimc.launcher.app-main-62:/drawable/ic_world_fly.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_add.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_add.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/xml_file_provider_paths.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/xml/file_provider_paths.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_arrow_back.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_arrow_back.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_leaf_logo.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_leaf_logo.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_tag_adventure.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_tag_adventure.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_accounts.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_accounts.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_settings_edittext.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_settings_edittext.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_v161_home_launch_group.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/v161_home_launch_group.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_spinner_dark.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_spinner_dark.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_flat_layer.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_flat_layer.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_world_light.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_world_light.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_code.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_code.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_curseforge_content.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_curseforge_content.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_download.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_download.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_spinner_dropdown_item_dark.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/spinner_dropdown_item_dark.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_chick_idle_1.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/chick_idle_1.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_content_details.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_content_details.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_pkg_task.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_pkg_task.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_third_level_item.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_third_level_item.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/anim_popup_out.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/anim/popup_out.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_pkg_task_bar.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_pkg_task_bar.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-hdpi_ic_leaf_logo.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-hdpi/ic_leaf_logo.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_qa_launch.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_qa_launch.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_game_download_progress.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/game_download_progress.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_fragment_pkg_browse.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/fragment_pkg_browse.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_external_overlay_button.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_external_overlay_button.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_news_important.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_news_important.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_property_header.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_property_header.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_tshirt.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_tshirt.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_settings_button.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_settings_button.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_main.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_main.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_tab_unselected.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_tab_unselected.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_close.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_close.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_nav_download.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_nav_download.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_pkg_page_footer.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_pkg_page_footer.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_flat_layer.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_flat_layer.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_pkg_version_row.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_pkg_version_row.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_settings_spinner.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_settings_spinner.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_about_license.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_about_license.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_settings.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modmenu_settings.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_v161r2_mods_row_card.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/v161r2_mods_row_card.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_instance_selector.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_instance_selector.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_search_box.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_search_box.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_v161_instances_bg_search.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/v161_instances_bg_search.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_count_badge.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_count_badge.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_plugin.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_plugin.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_delete.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_delete.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_instance_gears.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_instance_gears.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/anim_qa_layout_animation.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/anim/qa_layout_animation.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_star.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modmenu_star.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_libs_repair.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_libs_repair.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_notifications.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_notifications.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_mod_detail_meta_row.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_mod_detail_meta_row.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-night_header_background.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-night/header_background.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_curseforge_content.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_curseforge_content.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_close.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_close.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_world_property.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_world_property.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_settings_container.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_settings_container.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_misc_bg_avatar.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/misc_bg_avatar.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_view_pkg_task_progress.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/view_pkg_task_progress.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_overlay_stats_display.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/overlay_stats_display.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_gyro_normal.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_gyro_normal.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_discord.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_discord.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_custom_flat_world.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_custom_flat_world.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_tag_teleport.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_tag_teleport.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_camera.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_camera.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_tag_protocol.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_tag_protocol.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_monitor.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_monitor.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_dialog_exit.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_dialog_exit.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_instances_tab.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_instances_tab.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_tag_utility.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_tag_utility.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_overlay_mod_button.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/overlay_mod_button.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_v161_misc_news_important.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/v161_misc_news_important.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_shell_navbar.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/shell_navbar.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_github.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_github.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/anim_qa_layout_animation.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/anim/qa_layout_animation.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_tag_library.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_tag_library.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_ui_tag.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_ui_tag.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_header_background.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/header_background.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_instance_popup.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_instance_popup.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_arrow_down.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_arrow_down.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_patreon.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_patreon.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_packages_stacked.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_packages_stacked.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_sort_button.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_sort_button.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_rename_entry.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_rename_entry.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_monitor.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_monitor.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-xxhdpi_ic_leaf_logo.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-xxhdpi/ic_leaf_logo.png"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_version.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_version.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_mod_page_badge.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_mod_page_badge.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_link_chip_green.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_link_chip_green.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_release_tag.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_release_tag.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_spinner_outline.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_spinner_outline.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_pkg_package.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_pkg_package.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_sprint_pressed.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_sprint_pressed.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_world_editor.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_world_editor.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_palette.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modmenu_palette.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_image.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_image.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-nodpi_more_button_base_normal.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-nodpi/more_button_base_normal.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_orbit_ring.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_orbit_ring.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_overlay_mod_notification.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/overlay_mod_notification.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_dialog_config.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_dialog_config.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_world.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_world.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_quick_drop.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_quick_drop.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_spinner_dark.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_spinner_dark.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_select.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_select.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_msft_login.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_msft_login.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-nodpi_ic_hotbar_slot.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-nodpi/ic_hotbar_slot.png"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_settings_container.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_settings_container.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_internet.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_internet.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/raw_org_levimc_launcher_shrinker.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/raw/org_levimc_launcher_shrinker.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_world.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_world.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_quick_launch.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_quick_launch.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_beta_badge.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_beta_badge.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_camera_pressed.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_camera_pressed.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_external_mod_type_badge.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_external_mod_type_badge.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_spinner_dropdown_item_inbuilt.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/spinner_dropdown_item_inbuilt.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_accounts.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_accounts.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_home_bg_launch_group.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/home_bg_launch_group.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_edit.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_edit.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_chick_run_2.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/chick_run_2.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_behavior.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_behavior.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_file_list.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_file_list.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_curseforge.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_curseforge.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_world.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_world.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_chick_walk_front_2.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/chick_walk_front_2.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_qa_import.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_qa_import.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_chick_idle_2.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/chick_idle_2.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_tag_management.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_tag_management.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_game_download.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_game_download.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_plugin.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_plugin.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_realm_invite.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_realm_invite.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_bolt.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_bolt.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_mod_status_disabled.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_mod_status_disabled.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_view_pkg_task_progress.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/view_pkg_task_progress.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_polish_card.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_polish_card.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/font_misans.ttf.flat",
+        "source": "org.levimc.launcher.app-main-62:/font/misans.ttf"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_inbuilt_mods.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_inbuilt_mods.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_structure.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_structure.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_instances_bg_icon_slot.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/instances_bg_icon_slot.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_screenshot.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_screenshot.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_marketplace_pass.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_marketplace_pass.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/anim_qa_item_fade_in_up.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/anim/qa_item_fade_in_up.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_file_detail.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_file_detail.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_afdian.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_afdian.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/anim_qa_item_fade_in_up.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/anim/qa_item_fade_in_up.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_v161r2_misc_quick_launch_card.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/v161r2_misc_quick_launch_card.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_notification_leaf.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_notification_leaf.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_file_detail.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_file_detail.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_pkg_installed.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_pkg_installed.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_spinner_popup_dark.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_spinner_popup_dark.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_folder.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_folder.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_expand_more.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_expand_more.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_more_buttons_normal.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_more_buttons_normal.png"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_settings_spinner.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_settings_spinner.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_instance_card.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_instance_card.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_polish_notice.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_polish_notice.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_view_pkg_browse_filters.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/view_pkg_browse_filters.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_settings.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_settings.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_libs_repair_progress.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_libs_repair_progress.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/anim_fade_out.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/anim/fade_out.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_code.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_code.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_crash.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_crash.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_pkg_result_section.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_pkg_result_section.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_instances_ic_check_box.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/instances_ic_check_box.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_snaplook_pressed.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_snaplook_pressed.png"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_google_login.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_google_login.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_card_background_small.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/card_background_small.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_overlay_button_active.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_overlay_button_active.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_qa_import.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_qa_import.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_chick_sleep_1.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/chick_sleep_1.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_view_logcat_overlay.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/view_logcat_overlay.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_resource_pack.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_resource_pack.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_tag_protocol.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_tag_protocol.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_catalog_pkg_header_lead.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/catalog_pkg_header_lead.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/anim_popup_in.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/anim/popup_in.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_link_chip_pink.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_link_chip_pink.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_bolt.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_bolt.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_loading_track.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_loading_track.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_fragment_pkg_browse.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/fragment_pkg_browse.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-night_bg_rounded_card.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-night/bg_rounded_card.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_about.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_about.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_search.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modmenu_search.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_export.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_export.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_polish_card.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_polish_card.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_gyro_pressed.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_gyro_pressed.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_instance_item.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_instance_item.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_pkg_version_group.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_pkg_version_group.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_layers.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modmenu_layers.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_storage.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_storage.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_star.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modmenu_star.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_instances_bg_card_icon.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/instances_bg_card_icon.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_mod_status_enabled.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_mod_status_enabled.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_more.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_more.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_overlay_external_button.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/overlay_external_button.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_external_mod.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_external_mod.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_inbuilt_mod_config.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_inbuilt_mod_config.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_notification_progress.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_notification_progress.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_flat_layer_item.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_flat_layer_item.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_file_list.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_file_list.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_release_tag.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_release_tag.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_spinner_dropdown_item.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/spinner_dropdown_item.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_tag_technology.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_tag_technology.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_world_selection.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_world_selection.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_star.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_star.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_heart.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_heart.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_version_group_title.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_version_group_title.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_download_bg_table_head.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/download_bg_table_head.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_cf_icon.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_cf_icon.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_settings.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_settings.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_view_pkg_loader_card.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/view_pkg_loader_card.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_shell_navbar.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/shell_navbar.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_star.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_star.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_check.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_check.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_instances_ic_check_box.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/instances_ic_check_box.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_folder.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_folder.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_mod_config_node.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_mod_config_node.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_pkg_secondary_bars.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_pkg_secondary_bars.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_popup_instance_selector.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/popup_instance_selector.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-mdpi_ic_leaf_logo.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-mdpi/ic_leaf_logo.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_external_mods.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_external_mods.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_misc.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_misc.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_upload.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_upload.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_more.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_more.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_quick_action.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_quick_action.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-night_card_background_small.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-night/card_background_small.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_world_zoom_out.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_world_zoom_out.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_select.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_select.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_transfer.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_transfer.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-night_bg_mod_page_badge.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-night/bg_mod_page_badge.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-nodpi_minecraft_icon.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-nodpi/minecraft_icon.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_lightbulb.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_lightbulb.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_overlay_mod_menu_button.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/overlay_mod_menu_button.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_code.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_code.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_download_bg_table_head.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/download_bg_table_head.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_chevron.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modmenu_chevron.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_screenshot.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_screenshot.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_rounded_card.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_rounded_card.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_options_editor.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_options_editor.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_delete.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_delete.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/font_misans.ttf.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/font/misans.ttf"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_external_mods.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_external_mods.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_option_property.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_option_property.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_nav_settings.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_nav_settings.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_qa_content.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_qa_content.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-nodpi_more_button_base_pressed.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-nodpi/more_button_base_pressed.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_launch_button.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_launch_button.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_bell.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modmenu_bell.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_settings.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_settings.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_resize.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modmenu_resize.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_v161r2_mods_row_card.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/v161r2_mods_row_card.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_chick_walk_2.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/chick_walk_2.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_monitor.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_monitor.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_menu.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_arrow_back.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_arrow_back.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_tag_bugfix.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_tag_bugfix.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_edit.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_chick_idle_2.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/chick_idle_2.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_pkg_task_log.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_pkg_task_log.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_msft_account.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_msft_account.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_marketplace_pass.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_marketplace_pass.xml"
+    },
+    {
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_flat_spinner_dropdown.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_flat_spinner_dropdown.xml"
     },
     {
         "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_world_fly_active.xml.flat",
         "source": "org.levimc.launcher.app-main-62:/drawable/ic_world_fly_active.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_ui_input.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_ui_input.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-nodpi_minecraft_icon.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-nodpi/minecraft_icon.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_photo.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_photo.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_instance_settings.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_instance_settings.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_overlay_virtual_cursor.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/overlay_virtual_cursor.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-xxxhdpi_ic_leaf_logo.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-xxxhdpi/ic_leaf_logo.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_structure.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_structure.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_game_version_select.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_game_version_select.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_mod_config.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_mod_config.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_group.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_group.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_tag_optimization.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_tag_optimization.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/color_switch_thumb_color.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/color/switch_thumb_color.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_instance_item.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_instance_item.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_upload.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_upload.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_download.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_download.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_tag_economy.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_tag_economy.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_version_big_group.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_version_big_group.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_settings.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_settings.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_corner_handle.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_corner_handle.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-xhdpi_ic_leaf_logo_mono.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-xhdpi/ic_leaf_logo_mono.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_tag_economy.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_tag_economy.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_ui_tag.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_ui_tag.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_view_settings_sections.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/view_settings_sections.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_popup_menu_square.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_popup_menu_square.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_news_refresh.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_news_refresh.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_arrow_back.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_arrow_back.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_loading_progress.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_loading_progress.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_instances_bg_card_icon.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/instances_bg_card_icon.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_mod_menu_card.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_mod_menu_card.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_backup.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_backup.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_upload.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_upload.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_content_details.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_content_details.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_flat_layer_item.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_flat_layer_item.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_ui_tag_accent.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_ui_tag_accent.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_overlay_button.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_overlay_button.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_link_chip_blue.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_link_chip_blue.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_server.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_server.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_sprint_normal.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_sprint_normal.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_toggle_hud_normal.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_toggle_hud_normal.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-night_bg_third_level_item.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-night/bg_third_level_item.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-night_bg_mod_page_badge.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-night/bg_mod_page_badge.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_orbit_dot.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_orbit_dot.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_delete.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_delete.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_pkg_error_notice.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_pkg_error_notice.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_drag_handle.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_drag_handle.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_drag_handle.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_drag_handle.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_error_button.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_error_button.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_more_buttons_normal.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_more_buttons_normal.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_qa_account.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_qa_account.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_open_in_new.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_open_in_new.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_pin.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modmenu_pin.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_connect_server.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_connect_server.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_chick_walk_back_1.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/chick_walk_back_1.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_content_item.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_content_item.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_spinner_popup_dark.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_spinner_popup_dark.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_virtual_cursor.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_virtual_cursor.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_open_in_new.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_open_in_new.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_camera.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_camera.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_fragment_pkg_installed.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/fragment_pkg_installed.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_game_download_progress.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/game_download_progress.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_expand.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modmenu_expand.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_world_selection.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_world_selection.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-xhdpi_ic_leaf_logo.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-xhdpi/ic_leaf_logo.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-xxhdpi_ic_leaf_logo.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-xxhdpi/ic_leaf_logo.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_tag_bugfix.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_tag_bugfix.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_code_slash.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_code_slash.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_chick_walk_2.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/chick_walk_2.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_spinner_dropdown_item.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/spinner_dropdown_item.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_libs_repair_icon.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_libs_repair_icon.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_instances_bg_search.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/instances_bg_search.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_content_management.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_content_management.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_world_editor.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_world_editor.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_afdian.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_afdian.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_error_button.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_error_button.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_search.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_search.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_close.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modmenu_close.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_content_action.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_content_action.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_minimize.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modmenu_minimize.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_chick_sleep_1.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/chick_sleep_1.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_minecraft_loading.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_minecraft_loading.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_preview_tag.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_preview_tag.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_mod_detail.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_mod_detail.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_view_pkg_loader_card.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/view_pkg_loader_card.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_youtube.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_youtube.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_load_world.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_load_world.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_pkg_tag.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_pkg_tag.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_minecraft_cube.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_minecraft_cube.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_edit.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modmenu_edit.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_overlay_button.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_overlay_button.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_popup_content_actions.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/popup_content_actions.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_sunrise.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_sunrise.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_dialog_replace.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_dialog_replace.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_author_badge.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_author_badge.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/color_switch_track_color.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/color/switch_track_color.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_v161_misc_news_tag.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/v161_misc_news_tag.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_pojav_controls.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_pojav_controls.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_option_property.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_option_property.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_hud.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_hud.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_filter_chip.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_filter_chip.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_ui_tag_accent.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_ui_tag_accent.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_tab_selected.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_tab_selected.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_connect_server.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_connect_server.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_loading_progress.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_loading_progress.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_game_download.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_game_download.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_zoom_normal.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_zoom_normal.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_content.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_content.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_schedule.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_schedule.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_header_background.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/header_background.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_add_server.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_add_server.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_speech_bubble.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_speech_bubble.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_settings_switch.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_settings_switch.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_search.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_search.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_misc_bg_tag_danger.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/misc_bg_tag_danger.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_version_group_title.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_version_group_title.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_about_issue.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_about_issue.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_content_management.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_content_management.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_nav_instances.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_nav_instances.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_upload.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_upload.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_tshirt.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_tshirt.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_chick_walk_front_1.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/chick_walk_front_1.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_ui_strip.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_ui_strip.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_alert_dialog_custom.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/alert_dialog_custom.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/color_switch_thumb_color.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/color/switch_thumb_color.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_structure_list.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_structure_list.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_packages.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_packages.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_package.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_package.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_ui_icon_chip.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_ui_icon_chip.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/color_color_filter_chip_text.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/color/color_filter_chip_text.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_toggle_hud_pressed.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_toggle_hud_pressed.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_creator_notice.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_creator_notice.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_cursor_overlay.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_cursor_overlay.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_chick_walk_back_2.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/chick_walk_back_2.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_overlay_virtual_cursor.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/overlay_virtual_cursor.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_news_important.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_news_important.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_v161r2_mods_external_card.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/v161r2_mods_external_card.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_tag_visual.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_tag_visual.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_export.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_export.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_tab_selected.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_tab_selected.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_spinner_item_dark.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/spinner_item_dark.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_pkg_status_chip.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_pkg_status_chip.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_world_location.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_world_location.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_shell_account_cluster.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/shell_account_cluster.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_qa_curseforge.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_qa_curseforge.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-hdpi_ic_leaf_logo_mono.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-hdpi/ic_leaf_logo_mono.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_libs_repair_progress.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_libs_repair_progress.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_pkg_batch_result.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_pkg_batch_result.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_storage.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_storage.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_view_pkg_settings_card.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/view_pkg_settings_card.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_quick_drop_pressed.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_quick_drop_pressed.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_load_world.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_load_world.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_reset.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modmenu_reset.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_snaplook_normal.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_snaplook_normal.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_news_refresh.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_news_refresh.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_circle.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_circle.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_popup_menu_rounded.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_popup_menu_rounded.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_v161r2_mods_external_card.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/v161r2_mods_external_card.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_back.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modmenu_back.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_crash.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_crash.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_cloud_download.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_cloud_download.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_chick_walk_1.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/chick_walk_1.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_custom_uri.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_custom_uri.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_nav_launch.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_nav_launch.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_pkg_install_by_id.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_pkg_install_by_id.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_news_unread_dot.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_news_unread_dot.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_server.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_server.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_check.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modmenu_check.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_ui_segment_selected.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_ui_segment_selected.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_world_zoom_in.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_world_zoom_in.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/color_switch_track_color.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/color/switch_track_color.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/raw_org_levimc_launcher_shrinker.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/raw/org_levimc_launcher_shrinker.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_sun.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_sun.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_world_property.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_world_property.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-xhdpi_ic_leaf_logo.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-xhdpi/ic_leaf_logo.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_transfer_content.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_transfer_content.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-hdpi_ic_leaf_logo.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-hdpi/ic_leaf_logo.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_menu.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_menu.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/anim_slide_in_top.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/anim/slide_in_top.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_instance_card.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_instance_card.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_ui_input.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_ui_input.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/mipmap-mdpi/ic_launcher.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_card_background.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/card_background.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_zoom_pressed.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_zoom_pressed.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_chick_walk_1.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/chick_walk_1.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_chevron_right.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_chevron_right.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_check.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modmenu_check.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_download.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_download.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_instance_card.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_instance_card.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_layers.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modmenu_layers.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_chick_walk_front_2.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/chick_walk_front_2.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_sprint_pressed.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_sprint_pressed.png"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_monitor.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_monitor.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_search.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_search.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_edit.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_modmenu_edit.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_mod_menu_nav_compact_selected.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_mod_menu_nav_compact_selected.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-xxhdpi_ic_leaf_logo_mono.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-xxhdpi/ic_leaf_logo_mono.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/xml_file_provider_paths.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/xml/file_provider_paths.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_add_server.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_add_server.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_misc_bg_avatar.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/misc_bg_avatar.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_transfer_content.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_transfer_content.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_sunrise.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_sunrise.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_cf_icon.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_cf_icon.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_settings.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_settings.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_about.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_about.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_cloud_download.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_cloud_download.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_world_light.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_world_light.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_curseforge_footer.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_curseforge_footer.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_dialog_apk_version_confirm.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/dialog_apk_version_confirm.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_news_open.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_news_open.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_instance_gears.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_instance_gears.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_star.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_star.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_popup_content_actions.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/popup_content_actions.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_count_badge.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_count_badge.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_qa_content_mgmt.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_qa_content_mgmt.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_tag_technology.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_tag_technology.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_settings_switch.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_settings_switch.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_pkg_error_notice.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_pkg_error_notice.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_launch_button.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_launch_button.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_search_field.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_search_field.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_nav_launch.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_nav_launch.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_minecraft_loading_terminal.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_minecraft_loading_terminal.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_view_pkg_catalog_header.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/view_pkg_catalog_header.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_arrow_forward.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_arrow_forward.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_activity_packages.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/activity_packages.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_cf_item.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_cf_item.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable-night_header_background.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable-night/header_background.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_card_background.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/card_background.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_curseforge_footer.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_curseforge_footer.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_spinner.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_spinner.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_news_open.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_news_open.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_reset.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modmenu_reset.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_mod_menu_nav_compact_selected.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_mod_menu_nav_compact_selected.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_news_category.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_news_category.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_gyro_pressed.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_gyro_pressed.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_google_login.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_google_login.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_game_download.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_game_download.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable-xxhdpi_ic_leaf_logo_mono.png.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable-xxhdpi/ic_leaf_logo_mono.png"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_pkg_package.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_pkg_package.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_item_mod.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/item_mod.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_camera.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_camera.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_activity_msft_login.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/activity_msft_login.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_search_field.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_search_field.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_libs_repair_dialog.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_libs_repair_dialog.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_plugin_field_background.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/plugin_field_background.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_misc.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_misc.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_libs_repair_dialog.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_libs_repair_dialog.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_chick_walk_front_1.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/chick_walk_front_1.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_spinner_item.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/spinner_item.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_content_bg_icon_button.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/content_bg_icon_button.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_nav_instances.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_nav_instances.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_dialog_exit.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_dialog_exit.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_tab_unselected.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_tab_unselected.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_camera.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_camera.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_pkg_version_group.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_pkg_version_group.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/anim_fade_in.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/anim/fade_in.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/layout_item_server.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/layout/item_server.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_content_bg_item_card.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/content_bg_item_card.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_pkg_status_chip.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_pkg_status_chip.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_resize_handle.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_resize_handle.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_notification_leaf.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_notification_leaf.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_modmenu_back.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_modmenu_back.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_libs_repair_icon.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_libs_repair_icon.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_qa_curseforge.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_qa_curseforge.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_gyro_normal.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_gyro_normal.png"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_tag_library.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_tag_library.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_ui_refresh.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_ui_refresh.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/color_color_filter_chip_text.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/color/color_filter_chip_text.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_bg_ui_icon_chip.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/bg_ui_icon_chip.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_popup_menu_rounded.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_popup_menu_rounded.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_nav_news.xml.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_nav_news.xml"
     },
     {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/layout_dialog_custom_uri.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/layout/dialog_custom_uri.xml"
-    },
-    {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_bg_sort_button.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/bg_sort_button.xml"
-    },
-    {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_refresh.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_refresh.xml"
-    },
-    {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_logs.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_logs.xml"
-    },
-    {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/anim_slide_in_top.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/anim/slide_in_top.xml"
-    },
-    {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_ui_expand_more.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_ui_expand_more.xml"
-    },
-    {
-        "merged": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-debug-60:/drawable_ic_tag_utility.xml.flat",
-        "source": "/home/codespace/.gradle/daemon/8.13/org.levimc.launcher.app-main-62:/drawable/ic_tag_utility.xml"
+        "merged": "org.levimc.launcher.app-debug-60:/drawable_ic_zoom_pressed.png.flat",
+        "source": "org.levimc.launcher.app-main-62:/drawable/ic_zoom_pressed.png"
     }
 ]

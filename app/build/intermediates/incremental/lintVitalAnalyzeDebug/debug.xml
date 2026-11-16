@@ -3,7 +3,6 @@
     package="org.levimc.launcher"
     minSdkVersion="28"
     targetSdkVersion="35"
-    shrinking="true"
     mergedManifest="build/intermediates/merged_manifest/debug/processDebugMainManifest/AndroidManifest.xml"
     proguardFiles="build/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.13.2:proguard-rules.pro"
     partialResultsDir="build/intermediates/lint_vital_partial_results/debug/lintVitalAnalyzeDebug/out"
@@ -16,7 +15,7 @@
         manifests="src/main/AndroidManifest.xml"
         javaDirectories="src/main/java:src/debug/java:src/main/kotlin:src/debug/kotlin"
         resDirectories="src/main/res:src/debug/res"
-        assetsDirectories="src/main/assets:/workspaces/LeviLauncher-Android/resources:src/debug/assets"/>
+        assetsDirectories="src/main/assets:/workspaces/eon-client-v2.0/resources:src/debug/assets"/>
   </sourceProviders>
   <testSourceProviders>
   </testSourceProviders>

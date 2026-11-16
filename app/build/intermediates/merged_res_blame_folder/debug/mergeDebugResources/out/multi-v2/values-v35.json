@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/workspaces/LeviLauncher-Android/app/src/main/res/values-v35/theme.xml",
+                    "source": "/workspaces/eon-client-v2.0/app/src/main/res/values-v35/theme.xml",
                     "from": {
                         "startLines": "2,48,41,34",
                         "startColumns": "4,4,4,4",

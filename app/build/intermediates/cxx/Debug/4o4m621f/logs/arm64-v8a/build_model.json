@@ -8,9 +8,9 @@
     "triple": "aarch64-linux-android",
     "llvmTriple": "aarch64-none-linux-android"
   },
-  "cxxBuildFolder": "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a",
-  "soFolder": "/workspaces/LeviLauncher-Android/app/build/intermediates/cxx/Debug/4o4m621f/obj/arm64-v8a",
-  "soRepublishFolder": "/workspaces/LeviLauncher-Android/app/build/intermediates/cmake/debug/obj/arm64-v8a",
+  "cxxBuildFolder": "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a",
+  "soFolder": "/workspaces/eon-client-v2.0/app/build/intermediates/cxx/Debug/4o4m621f/obj/arm64-v8a",
+  "soRepublishFolder": "/workspaces/eon-client-v2.0/app/build/intermediates/cmake/debug/obj/arm64-v8a",
   "abiPlatformVersion": 28,
   "cmake": {
     "effectiveConfiguration": {
@@ -33,13 +33,13 @@
     "implicitBuildTargetSet": [],
     "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
     "module": {
-      "cxxFolder": "/workspaces/LeviLauncher-Android/app/.cxx",
-      "intermediatesBaseFolder": "/workspaces/LeviLauncher-Android/app/build/intermediates",
-      "intermediatesFolder": "/workspaces/LeviLauncher-Android/app/build/intermediates/cxx",
+      "cxxFolder": "/workspaces/eon-client-v2.0/app/.cxx",
+      "intermediatesBaseFolder": "/workspaces/eon-client-v2.0/app/build/intermediates",
+      "intermediatesFolder": "/workspaces/eon-client-v2.0/app/build/intermediates/cxx",
       "gradleModulePathName": ":app",
-      "moduleRootFolder": "/workspaces/LeviLauncher-Android/app",
-      "moduleBuildFile": "/workspaces/LeviLauncher-Android/app/build.gradle",
-      "makeFile": "/workspaces/LeviLauncher-Android/app/src/main/cpp/CMakeLists.txt",
+      "moduleRootFolder": "/workspaces/eon-client-v2.0/app",
+      "moduleBuildFile": "/workspaces/eon-client-v2.0/app/build.gradle",
+      "makeFile": "/workspaces/eon-client-v2.0/app/src/main/cpp/CMakeLists.txt",
       "buildSystem": "CMAKE",
       "ndkFolder": "/home/codespace/Android/Sdk/ndk/28.2.13676358",
       "ndkFolderBeforeSymLinking": "/home/codespace/Android/Sdk/ndk/28.2.13676358",
@@ -149,7 +149,7 @@
         "SYSTEM": {}
       },
       "project": {
-        "rootBuildGradleFolder": "/workspaces/LeviLauncher-Android",
+        "rootBuildGradleFolder": "/workspaces/eon-client-v2.0",
         "sdkFolder": "/home/codespace/Android/Sdk",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
@@ -172,12 +172,12 @@
   "buildSettings": {
     "environmentVariables": []
   },
-  "prefabFolder": "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/prefab/arm64-v8a",
+  "prefabFolder": "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/prefab/arm64-v8a",
   "isActiveAbi": true,
   "fullConfigurationHash": "4o4m621f3w2l49xx585q2s1m3f2b3w3l2v2n1i3g4u616l2b505m44515l6e3o",
   "fullConfigurationHashKey": "# Values used to calculate the hash in this folder name.\n# Should not depend on the absolute path of the project itself.\n#   - AGP: 8.13.2.\n#   - $NDK is the path to NDK 28.2.13676358.\n#   - $PROJECT is the path to the parent folder of the root Gradle build file.\n#   - $ABI is the ABI to be built with. The specific value doesn\u0027t contribute to the value of the hash.\n#   - $HASH is the hash value computed from this text.\n#   - $CMAKE is the path to CMake 3.22.1.\n#   - $NINJA is the path to Ninja.\n-H$PROJECT/app/src/main/cpp\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d28\n-DANDROID_PLATFORM\u003dandroid-28\n-DANDROID_ABI\u003d$ABI\n-DCMAKE_ANDROID_ARCH_ABI\u003d$ABI\n-DANDROID_NDK\u003d$NDK\n-DCMAKE_ANDROID_NDK\u003d$NDK\n-DCMAKE_TOOLCHAIN_FILE\u003d$NDK/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d$NINJA\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d$PROJECT/app/build/intermediates/cxx/Debug/$HASH/obj/$ABI\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d$PROJECT/app/build/intermediates/cxx/Debug/$HASH/obj/$ABI\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_FIND_ROOT_PATH\u003d$PROJECT/app/.cxx/Debug/$HASH/prefab/$ABI/prefab\n-B$PROJECT/app/.cxx/Debug/$HASH/$ABI\n-GNinja\n-DANDROID_STL\u003dc++_shared",
   "configurationArguments": [
-    "-H/workspaces/LeviLauncher-Android/app/src/main/cpp",
+    "-H/workspaces/eon-client-v2.0/app/src/main/cpp",
     "-DCMAKE_SYSTEM_NAME\u003dAndroid",
     "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
     "-DCMAKE_SYSTEM_VERSION\u003d28",
@@ -188,14 +188,14 @@
     "-DCMAKE_ANDROID_NDK\u003d/home/codespace/Android/Sdk/ndk/28.2.13676358",
     "-DCMAKE_TOOLCHAIN_FILE\u003d/home/codespace/Android/Sdk/ndk/28.2.13676358/build/cmake/android.toolchain.cmake",
     "-DCMAKE_MAKE_PROGRAM\u003d/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja",
-    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/workspaces/LeviLauncher-Android/app/build/intermediates/cxx/Debug/4o4m621f/obj/arm64-v8a",
-    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/workspaces/LeviLauncher-Android/app/build/intermediates/cxx/Debug/4o4m621f/obj/arm64-v8a",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/workspaces/eon-client-v2.0/app/build/intermediates/cxx/Debug/4o4m621f/obj/arm64-v8a",
+    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/workspaces/eon-client-v2.0/app/build/intermediates/cxx/Debug/4o4m621f/obj/arm64-v8a",
     "-DCMAKE_BUILD_TYPE\u003dDebug",
-    "-DCMAKE_FIND_ROOT_PATH\u003d/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/prefab/arm64-v8a/prefab",
-    "-B/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a",
+    "-DCMAKE_FIND_ROOT_PATH\u003d/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/prefab/arm64-v8a/prefab",
+    "-B/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a",
     "-GNinja",
     "-DANDROID_STL\u003dc++_shared"
   ],
   "stlLibraryFile": "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
-  "intermediatesParentFolder": "/workspaces/LeviLauncher-Android/app/build/intermediates/cxx/Debug/4o4m621f"
+  "intermediatesParentFolder": "/workspaces/eon-client-v2.0/app/build/intermediates/cxx/Debug/4o4m621f"
 }

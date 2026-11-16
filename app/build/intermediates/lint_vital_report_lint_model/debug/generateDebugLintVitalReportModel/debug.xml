@@ -15,7 +15,7 @@
         manifests="src/main/AndroidManifest.xml"
         javaDirectories="src/main/java:src/debug/java:src/main/kotlin:src/debug/kotlin"
         resDirectories="src/main/res:src/debug/res"
-        assetsDirectories="src/main/assets:/workspaces/LeviLauncher-Android/resources:src/debug/assets"/>
+        assetsDirectories="src/main/assets:/workspaces/eon-client-v2.0/resources:src/debug/assets"/>
   </sourceProviders>
   <testSourceProviders>
   </testSourceProviders>

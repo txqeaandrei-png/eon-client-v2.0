@@ -1,4 +1,4 @@
-# Install script for directory: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/fmt-subbuild
+# Install script for directory: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/fmt-subbuild
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/fmt-subbuild/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/fmt-subbuild/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

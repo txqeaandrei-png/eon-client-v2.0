@@ -1,101 +1,101 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="org.levimc.launcher"
-4    android:versionCode="59122789"
-5    android:versionName="1.7.0" >
+4    android:versionCode="59131870"
+5    android:versionName="1.7.1" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="28"
 9        android:targetSdkVersion="35" />
 10
 11    <uses-feature
-11-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:6:5-8:35
+11-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:6:5-8:35
 12        android:glEsVersion="0x20000"
-12-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:7:9-38
+12-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:7:9-38
 13        android:required="true" />
-13-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:8:9-32
+13-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:8:9-32
 14    <uses-feature
-14-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:9:5-11:36
+14-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:9:5-11:36
 15        android:name="android.hardware.touchscreen"
-15-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:10:9-52
+15-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:10:9-52
 16        android:required="false" />
-16-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:11:9-33
+16-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:11:9-33
 17    <uses-feature
-17-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:12:5-14:36
+17-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:12:5-14:36
 18        android:name="android.hardware.microphone"
-18-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:13:9-51
+18-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:13:9-51
 19        android:required="false" />
-19-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:14:9-33
+19-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:14:9-33
 20
 21    <uses-permission android:name="android.permission.INTERNET" />
-21-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:22:5-67
-21-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:22:22-64
+21-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:22:5-67
+21-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:22:22-64
 22    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-22-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:23:5-71
-22-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:23:22-68
+22-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:23:5-71
+22-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:23:22-68
 23    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
-23-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:29:5-86
-23-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:29:22-83
+23-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:29:5-86
+23-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:29:22-83
 24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-24-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:30:5-79
-24-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:30:22-76
+24-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:30:5-79
+24-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:30:22-76
 25    <uses-permission android:name="android.permission.VIBRATE" />
-25-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:31:5-66
-25-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:31:22-63
+25-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:31:5-66
+25-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:31:22-63
 26    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-26-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:32:5-77
-26-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:32:22-74
+26-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:32:5-77
+26-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:32:22-74
 27    <uses-permission android:name="android.permission.WAKE_LOCK" />
-27-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:33:5-68
-27-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:33:22-65
+27-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:33:5-68
+27-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:33:22-65
 28    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-28-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:34:5-76
-28-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:34:22-73
+28-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:34:5-76
+28-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:34:22-73
 29    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
-29-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:35:5-76
-29-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:35:22-73
+29-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:35:5-76
+29-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:35:22-73
 30    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-30-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:36:5-78
-30-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:36:22-75
+30-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:36:5-78
+30-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:36:22-75
 31    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
-31-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:39:5-40:55
-31-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:39:22-80
+31-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:39:5-40:55
+31-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:39:22-80
 32
 33    <queries>
-33-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:41:5-51:15
+33-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:41:5-51:15
 34        <package android:name="com.mojang.minecraftpe" />
-34-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:42:9-58
-34-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:42:18-55
+34-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:42:9-58
+34-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:42:18-55
 35
 36        <intent>
-36-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:43:9-47:18
+36-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:43:9-47:18
 37            <action android:name="android.intent.action.VIEW" />
-37-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:13-65
-37-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:21-62
+37-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:13-65
+37-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:21-62
 38
 39            <category android:name="android.intent.category.BROWSABLE" />
-39-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:45:13-74
-39-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:45:23-71
+39-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:45:13-74
+39-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:45:23-71
 40
 41            <data android:scheme="https" />
-41-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-41-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:19-41
+41-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+41-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:19-41
 42        </intent>
 43        <intent>
-43-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:48:9-50:18
+43-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:48:9-50:18
 44            <action android:name="android.support.customtabs.action.CustomTabsService" />
-44-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:49:13-90
-44-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:49:21-87
+44-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:49:13-90
+44-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:49:21-87
 45        </intent>
 46        <intent>
-46-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:9-29:18
+46-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:9-29:18
 47            <action android:name="android.intent.action.VIEW" />
-47-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:13-65
-47-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:21-62
+47-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:13-65
+47-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:21-62
 48
 49            <data android:scheme="https" />
-49-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-49-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:19-41
+49-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+49-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:19-41
 50        </intent>
 51
 52        <package android:name="com.google.android.gms" />
@@ -120,11 +120,11 @@
 61    </queries>
 62
 63    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
-63-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:5-73
-63-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:22-70
+63-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:5-73
+63-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:22-70
 64    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-64-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:32:5-82
-64-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:32:22-79
+64-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:32:5-82
+64-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:32:22-79
 65    <uses-permission android:name="com.android.vending.BILLING" />
 65-->[com.android.billingclient:billing:8.3.0] /home/codespace/.gradle/caches/8.13/transforms/545a4c6bed91447476c81d6d75557347/transformed/billing-8.3.0/AndroidManifest.xml:10:5-67
 65-->[com.android.billingclient:billing:8.3.0] /home/codespace/.gradle/caches/8.13/transforms/545a4c6bed91447476c81d6d75557347/transformed/billing-8.3.0/AndroidManifest.xml:10:22-64
@@ -141,1069 +141,1069 @@
 71-->[androidx.core:core:1.16.0] /home/codespace/.gradle/caches/8.13/transforms/bf94480b94b53fd36ca424d7549d3872/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
 72
 73    <application
-73-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:53:5-545:19
+73-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:53:5-545:19
 74        android:name="org.levimc.launcher.core.minecraft.LauncherApplication"
-74-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:54:9-78
+74-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:54:9-78
 75        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 75-->[androidx.core:core:1.16.0] /home/codespace/.gradle/caches/8.13/transforms/bf94480b94b53fd36ca424d7549d3872/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
 76        android:extractNativeLibs="true"
 77        android:icon="@mipmap/ic_launcher"
-77-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:55:9-43
+77-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:55:9-43
 78        android:label="@string/app_name"
-78-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:56:9-41
+78-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:56:9-41
 79        android:networkSecurityConfig="@xml/network_security_config"
-79-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:58:9-69
+79-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:58:9-69
 80        android:supportsRtl="true"
-80-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:59:9-35
+80-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:59:9-35
 81        android:theme="@style/Base.Theme.FullScreen" >
-81-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:57:9-53
+81-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:57:9-53
 82        <meta-data
-82-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:61:9-63:43
+82-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:61:9-63:43
 83            android:name="com.google.android.gms.games.APP_ID"
-83-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:62:13-63
+83-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:62:13-63
 84            android:value="486187589451" />
-84-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:63:13-41
+84-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:63:13-41
 85
 86        <activity
-86-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:65:9-75:20
+86-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:65:9-75:20
 87            android:name="org.levimc.launcher.ui.activities.SplashActivity"
-87-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:66:13-76
+87-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:66:13-76
 88            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-88-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:69:13-178
+88-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:69:13-178
 89            android:exported="true"
-89-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:67:13-36
+89-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:67:13-36
 90            android:screenOrientation="sensorLandscape" >
-90-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:68:13-56
+90-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:68:13-56
 91            <intent-filter>
-91-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:71:13-74:29
+91-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:71:13-74:29
 92                <action android:name="android.intent.action.MAIN" />
-92-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:72:17-69
-92-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:72:25-66
+92-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:72:17-69
+92-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:72:25-66
 93
 94                <category android:name="android.intent.category.LAUNCHER" />
-94-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:73:17-77
-94-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:73:27-74
+94-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:73:17-77
+94-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:73:27-74
 95            </intent-filter>
 96        </activity>
 97        <activity
-97-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:77:9-83:45
+97-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:77:9-83:45
 98            android:name="org.levimc.launcher.ui.activities.MainActivity"
-98-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:78:13-74
+98-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:78:13-74
 99            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-99-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:82:13-178
+99-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:82:13-178
 100            android:exported="true"
-100-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:79:13-36
+100-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:79:13-36
 101            android:screenOrientation="sensorLandscape"
-101-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:80:13-56
+101-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:80:13-56
 102            android:theme="@style/MainActivityTheme" />
-102-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:81:13-53
+102-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:81:13-53
 103        <activity
-103-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:85:9-90:45
+103-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:85:9-90:45
 104            android:name="org.levimc.launcher.ui.activities.ContentManagementActivity"
-104-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:86:13-87
+104-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:86:13-87
 105            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-105-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:89:13-178
+105-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:89:13-178
 106            android:exported="false"
-106-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:87:13-37
+106-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:87:13-37
 107            android:screenOrientation="sensorLandscape" />
-107-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:88:13-56
+107-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:88:13-56
 108        <activity
-108-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:93:9-98:45
+108-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:93:9-98:45
 109            android:name="org.levimc.launcher.ui.activities.NewsActivity"
-109-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:94:13-74
+109-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:94:13-74
 110            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-110-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:97:13-178
+110-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:97:13-178
 111            android:exported="false"
-111-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:95:13-37
+111-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:95:13-37
 112            android:screenOrientation="sensorLandscape" />
-112-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:96:13-56
+112-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:96:13-56
 113        <activity
-113-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:100:9-105:45
+113-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:100:9-105:45
 114            android:name="org.levimc.launcher.ui.activities.ContentListActivity"
-114-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:101:13-81
+114-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:101:13-81
 115            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-115-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:104:13-178
+115-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:104:13-178
 116            android:exported="false"
-116-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:102:13-37
+116-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:102:13-37
 117            android:screenOrientation="sensorLandscape" />
-117-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:103:13-56
+117-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:103:13-56
 118        <activity
-118-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:107:9-113:50
+118-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:107:9-113:50
 119            android:name="org.levimc.launcher.ui.activities.WorldEditorActivity"
-119-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:108:13-81
+119-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:108:13-81
 120            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-120-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:111:13-178
+120-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:111:13-178
 121            android:exported="false"
-121-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:109:13-37
+121-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:109:13-37
 122            android:label="@string/edit_world"
-122-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:113:13-47
+122-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:113:13-47
 123            android:screenOrientation="sensorLandscape" />
-123-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:110:13-56
+123-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:110:13-56
 124        <activity
-124-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:115:9-121:52
+124-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:115:9-121:52
 125            android:name="org.levimc.launcher.ui.activities.OptionsEditorActivity"
-125-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:116:13-83
+125-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:116:13-83
 126            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-126-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:119:13-178
+126-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:119:13-178
 127            android:exported="false"
-127-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:117:13-37
+127-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:117:13-37
 128            android:label="@string/edit_options"
-128-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:121:13-49
+128-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:121:13-49
 129            android:screenOrientation="sensorLandscape" />
-129-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:118:13-56
+129-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:118:13-56
 130        <activity
-130-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:123:9-129:57
+130-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:123:9-129:57
 131            android:name="org.levimc.launcher.ui.activities.CustomFlatWorldActivity"
-131-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:124:13-85
+131-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:124:13-85
 132            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-132-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:127:13-178
+132-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:127:13-178
 133            android:exported="false"
-133-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:125:13-37
+133-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:125:13-37
 134            android:label="@string/custom_flat_world"
-134-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:129:13-54
+134-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:129:13-54
 135            android:screenOrientation="sensorLandscape" />
-135-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:126:13-56
+135-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:126:13-56
 136        <activity
-136-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:131:9-136:45
+136-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:131:9-136:45
 137            android:name="org.levimc.launcher.ui.activities.AboutActivity"
-137-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:132:13-75
+137-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:132:13-75
 138            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-138-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:135:13-178
+138-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:135:13-178
 139            android:exported="false"
-139-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:133:13-37
+139-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:133:13-37
 140            android:screenOrientation="sensorLandscape" />
-140-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:134:13-56
+140-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:134:13-56
 141        <activity
-141-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:138:9-143:45
+141-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:138:9-143:45
 142            android:name="org.levimc.launcher.ui.activities.InstancesActivity"
-142-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:139:13-79
+142-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:139:13-79
 143            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-143-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:142:13-178
+143-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:142:13-178
 144            android:exported="false"
-144-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:140:13-37
+144-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:140:13-37
 145            android:screenOrientation="sensorLandscape" />
-145-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:141:13-56
+145-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:141:13-56
 146        <activity
-146-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:145:9-151:54
+146-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:145:9-151:54
 147            android:name="org.levimc.launcher.ui.activities.SettingsActivity"
-147-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:146:13-78
+147-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:146:13-78
 148            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-148-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:149:13-178
+148-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:149:13-178
 149            android:exported="false"
-149-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:147:13-37
+149-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:147:13-37
 150            android:label="@string/settings_title"
-150-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:151:13-51
+150-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:151:13-51
 151            android:screenOrientation="sensorLandscape" />
-151-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:148:13-56
+151-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:148:13-56
 152        <activity
-152-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:153:9-158:45
+152-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:153:9-158:45
 153            android:name="org.levimc.launcher.ui.activities.InstanceSettingsActivity"
-153-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:154:13-86
+153-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:154:13-86
 154            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-154-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:157:13-178
+154-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:157:13-178
 155            android:exported="false"
-155-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:155:13-37
+155-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:155:13-37
 156            android:screenOrientation="sensorLandscape" />
-156-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:156:13-56
+156-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:156:13-56
 157
 158        <!-- Accounts Management -->
 159        <activity
-159-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:161:9-167:54
+159-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:161:9-167:54
 160            android:name="org.levimc.launcher.ui.activities.AccountsActivity"
-160-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:162:13-78
+160-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:162:13-78
 161            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-161-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:165:13-178
+161-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:165:13-178
 162            android:exported="false"
-162-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:163:13-37
+162-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:163:13-37
 163            android:label="@string/accounts_title"
-163-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:167:13-51
+163-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:167:13-51
 164            android:screenOrientation="sensorLandscape" />
-164-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:164:13-56
+164-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:164:13-56
 165        <activity
-165-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:169:9-175:45
+165-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:169:9-175:45
 166            android:name="org.levimc.launcher.ui.activities.GameDownloadActivity"
-166-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:170:13-82
+166-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:170:13-82
 167            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-167-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:173:13-178
+167-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:173:13-178
 168            android:exported="false"
-168-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:171:13-37
+168-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:171:13-37
 169            android:screenOrientation="sensorLandscape"
-169-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:172:13-56
+169-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:172:13-56
 170            android:windowSoftInputMode="adjustPan" />
-170-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:174:13-52
+170-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:174:13-52
 171        <activity
-171-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:177:9-183:45
+171-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:177:9-183:45
 172            android:name="org.levimc.launcher.ui.activities.GoogleLoginActivity"
-172-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:178:13-81
+172-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:178:13-81
 173            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-173-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:181:13-178
+173-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:181:13-178
 174            android:exported="false"
-174-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:179:13-37
+174-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:179:13-37
 175            android:screenOrientation="sensorLandscape"
-175-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:180:13-56
+175-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:180:13-56
 176            android:windowSoftInputMode="adjustResize" />
-176-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:182:13-55
+176-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:182:13-55
 177        <activity
-177-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:185:9-191:45
+177-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:185:9-191:45
 178            android:name="org.levimc.launcher.ui.activities.MsftLoginActivity"
-178-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:186:13-79
+178-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:186:13-79
 179            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-179-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:189:13-178
+179-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:189:13-178
 180            android:exported="false"
-180-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:187:13-37
+180-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:187:13-37
 181            android:screenOrientation="sensorLandscape"
-181-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:188:13-56
+181-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:188:13-56
 182            android:windowSoftInputMode="adjustResize" />
-182-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:190:13-55
+182-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:190:13-55
 183        <activity
-183-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:193:9-199:45
+183-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:193:9-199:45
 184            android:name="org.levimc.launcher.ui.activities.ModsFullscreenActivity"
-184-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:194:13-65
+184-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:194:13-65
 185            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-185-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:197:13-178
+185-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:197:13-178
 186            android:exported="false"
-186-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:198:13-37
+186-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:198:13-37
 187            android:screenOrientation="sensorLandscape"
-187-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:196:13-56
+187-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:196:13-56
 188            android:theme="@style/Base.Theme.FullScreen" />
-188-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:195:13-57
+188-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:195:13-57
 189        <activity
-189-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:201:9-207:45
+189-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:201:9-207:45
 190            android:name="org.levimc.launcher.ui.activities.ExternalModsActivity"
-190-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:202:13-63
+190-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:202:13-63
 191            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-191-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:205:13-178
+191-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:205:13-178
 192            android:exported="false"
-192-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:206:13-37
+192-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:206:13-37
 193            android:screenOrientation="sensorLandscape"
-193-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:204:13-56
+193-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:204:13-56
 194            android:theme="@style/Base.Theme.FullScreen" />
-194-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:203:13-57
+194-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:203:13-57
 195        <activity
-195-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:209:9-215:45
+195-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:209:9-215:45
 196            android:name="org.levimc.launcher.ui.activities.ModDetailActivity"
-196-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:210:13-60
+196-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:210:13-60
 197            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-197-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:213:13-178
+197-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:213:13-178
 198            android:exported="false"
-198-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:214:13-37
+198-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:214:13-37
 199            android:screenOrientation="sensorLandscape"
-199-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:212:13-56
+199-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:212:13-56
 200            android:theme="@style/Base.Theme.FullScreen" />
-200-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:211:13-57
+200-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:211:13-57
 201        <activity
-201-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:217:9-223:45
+201-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:217:9-223:45
 202            android:name="org.levimc.launcher.ui.activities.ModConfigActivity"
-202-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:218:13-60
+202-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:218:13-60
 203            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-203-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:221:13-178
+203-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:221:13-178
 204            android:exported="false"
-204-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:222:13-37
+204-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:222:13-37
 205            android:screenOrientation="sensorLandscape"
-205-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:220:13-56
+205-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:220:13-56
 206            android:theme="@style/Base.Theme.FullScreen" />
-206-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:219:13-57
+206-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:219:13-57
 207        <activity
-207-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:227:9-233:45
+207-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:227:9-233:45
 208            android:name="org.levimc.launcher.ui.activities.CurseForgeActivity"
-208-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:228:13-80
+208-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:228:13-80
 209            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-209-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:231:13-178
+209-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:231:13-178
 210            android:exported="false"
-210-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:232:13-37
+210-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:232:13-37
 211            android:screenOrientation="sensorLandscape"
-211-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:230:13-56
+211-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:230:13-56
 212            android:theme="@style/Base.Theme.FullScreen" />
-212-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:229:13-57
+212-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:229:13-57
 213        <activity
-213-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:235:9-242:45
+213-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:235:9-242:45
 214            android:name="org.levimc.launcher.ui.packages.PackagesActivity"
-214-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:236:13-57
+214-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:236:13-57
 215            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-215-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:239:13-178
+215-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:239:13-178
 216            android:exported="false"
-216-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:240:13-37
+216-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:240:13-37
 217            android:screenOrientation="sensorLandscape"
-217-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:238:13-56
+217-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:238:13-56
 218            android:theme="@style/Base.Theme.FullScreen"
-218-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:237:13-57
+218-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:237:13-57
 219            android:windowSoftInputMode="adjustPan" />
-219-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:241:13-52
+219-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:241:13-52
 220        <activity
-220-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:244:9-250:45
+220-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:244:9-250:45
 221            android:name="org.levimc.launcher.ui.packages.PackageActivity"
-221-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:245:13-56
+221-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:245:13-56
 222            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-222-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:248:13-178
+222-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:248:13-178
 223            android:exported="false"
-223-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:249:13-37
+223-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:249:13-37
 224            android:screenOrientation="sensorLandscape"
-224-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:247:13-56
+224-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:247:13-56
 225            android:theme="@style/Base.Theme.FullScreen" />
-225-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:246:13-57
+225-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:246:13-57
 226        <activity
-226-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:252:9-258:45
+226-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:252:9-258:45
 227            android:name="org.levimc.launcher.ui.activities.ContentDetailsActivity"
-227-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:253:13-65
+227-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:253:13-65
 228            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-228-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:256:13-178
+228-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:256:13-178
 229            android:exported="false"
-229-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:257:13-37
+229-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:257:13-37
 230            android:screenOrientation="sensorLandscape"
-230-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:255:13-56
+230-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:255:13-56
 231            android:theme="@style/Base.Theme.FullScreen" />
-231-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:254:13-57
+231-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:254:13-57
 232        <activity
-232-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:260:9-267:45
+232-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:260:9-267:45
 233            android:name="org.levimc.launcher.ui.activities.QuickLaunchActivity"
-233-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:261:13-62
+233-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:261:13-62
 234            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-234-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:264:13-178
+234-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:264:13-178
 235            android:exported="false"
-235-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:265:13-37
+235-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:265:13-37
 236            android:label="@string/quick_launch_title"
-236-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:266:13-55
+236-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:266:13-55
 237            android:screenOrientation="sensorLandscape"
-237-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:263:13-56
+237-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:263:13-56
 238            android:theme="@style/Base.Theme.FullScreen" />
-238-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:262:13-57
+238-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:262:13-57
 239        <activity
-239-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:269:9-453:20
+239-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:269:9-453:20
 240            android:name="org.levimc.launcher.ui.activities.IntentHandler"
-240-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:270:13-56
+240-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:270:13-56
 241            android:alwaysRetainTaskState="true"
-241-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:271:13-49
+241-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:271:13-49
 242            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-242-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:272:13-178
+242-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:272:13-178
 243            android:excludeFromRecents="false"
-243-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:273:13-47
+243-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:273:13-47
 244            android:exported="true"
-244-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:274:13-36
+244-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:274:13-36
 245            android:launchMode="singleTask"
-245-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:275:13-44
+245-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:275:13-44
 246            android:screenOrientation="sensorLandscape" >
-246-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:276:13-56
+246-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:276:13-56
 247            <meta-data
-247-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:278:13-280:45
+247-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:278:13-280:45
 248                android:name="android.app.lib_name"
-248-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:279:17-52
+248-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:279:17-52
 249                android:value="preloader" />
-249-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:280:17-42
+249-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:280:17-42
 250
 251            <intent-filter>
-251-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:282:13-285:29
+251-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:282:13-285:29
 252                <action android:name="android.intent.action.VIEW" />
-252-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:13-65
-252-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:21-62
+252-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:13-65
+252-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:21-62
 253
 254                <category android:name="android.intent.category.DEFAULT" />
-254-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:17-76
-254-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:27-73
+254-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:17-76
+254-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:27-73
 255            </intent-filter>
 256            <intent-filter>
-256-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:287:13-292:29
+256-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:287:13-292:29
 257                <action android:name="android.intent.action.VIEW" />
-257-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:13-65
-257-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:21-62
+257-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:13-65
+257-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:21-62
 258
 259                <category android:name="android.intent.category.DEFAULT" />
-259-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:17-76
-259-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:27-73
+259-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:17-76
+259-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:27-73
 260                <category android:name="android.intent.category.BROWSABLE" />
-260-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:45:13-74
-260-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:45:23-71
+260-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:45:13-74
+260-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:45:23-71
 261
 262                <data android:scheme="minecraft" />
-262-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-262-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:19-41
+262-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+262-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:19-41
 263            </intent-filter>
 264            <intent-filter>
-264-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:294:13-305:29
+264-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:294:13-305:29
 265                <action android:name="android.intent.action.VIEW" />
-265-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:13-65
-265-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:21-62
+265-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:13-65
+265-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:21-62
 266
 267                <category android:name="android.intent.category.DEFAULT" />
-267-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:17-76
-267-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:27-73
+267-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:17-76
+267-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:27-73
 268                <category android:name="android.intent.category.BROWSABLE" />
-268-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:45:13-74
-268-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:45:23-71
+268-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:45:13-74
+268-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:45:23-71
 269
 270                <data android:scheme="content" />
-270-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-270-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:19-41
+270-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+270-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:19-41
 271                <data android:scheme="file" />
-271-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-271-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:19-41
+271-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+271-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:19-41
 272                <data android:mimeType="application/zip" />
-272-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-272-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:301:23-57
+272-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+272-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:301:23-57
 273                <data android:mimeType="application/x-zip" />
-273-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-273-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:301:23-57
+273-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+273-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:301:23-57
 274                <data android:mimeType="application/x-zip-compressed" />
-274-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-274-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:301:23-57
+274-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+274-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:301:23-57
 275                <data android:mimeType="application/octet-stream" />
-275-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-275-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:301:23-57
+275-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+275-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:301:23-57
 276            </intent-filter>
 277            <intent-filter>
-277-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:307:13-369:29
+277-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:307:13-369:29
 278                <action android:name="android.intent.action.VIEW" />
-278-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:13-65
-278-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:21-62
+278-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:13-65
+278-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:21-62
 279
 280                <category android:name="android.intent.category.DEFAULT" />
-280-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:17-76
-280-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:27-73
+280-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:17-76
+280-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:27-73
 281                <category android:name="android.intent.category.BROWSABLE" />
-281-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:45:13-74
-281-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:45:23-71
+281-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:45:13-74
+281-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:45:23-71
 282
 283                <data android:scheme="content" />
-283-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-283-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:19-41
+283-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+283-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:19-41
 284                <data android:scheme="file" />
-284-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-284-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:19-41
+284-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+284-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:19-41
 285                <data android:host="*" />
-285-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-285-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:314:23-39
+285-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+285-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:314:23-39
 286                <data android:pathPattern="/.*\\.zip" />
-286-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-286-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+286-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+286-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 287                <data android:pathPattern="/.*\\..*\\.zip" />
-287-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-287-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+287-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+287-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 288                <data android:pathPattern="/.*\\..*\\..*\\.zip" />
-288-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-288-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+288-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+288-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 289                <data android:pathPattern="/.*\\..*\\..*\\..*\\.zip" />
-289-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-289-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+289-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+289-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 290                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.zip" />
-290-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-290-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+290-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+290-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 291                <data android:pathPattern="/.*\\.levibackup" />
-291-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-291-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+291-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+291-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 292                <data android:pathPattern="/.*\\..*\\.levibackup" />
-292-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-292-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+292-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+292-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 293                <data android:pathPattern="/.*\\..*\\..*\\.levibackup" />
-293-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-293-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+293-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+293-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 294                <data android:pathPattern="/.*\\..*\\..*\\..*\\.levibackup" />
-294-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-294-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+294-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+294-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 295                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.levibackup" />
-295-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-295-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+295-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+295-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 296                <data android:pathPattern="/.*\\.levipack" />
-296-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-296-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+296-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+296-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 297                <data android:pathPattern="/.*\\..*\\.levipack" />
-297-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-297-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+297-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+297-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 298                <data android:pathPattern="/.*\\..*\\..*\\.levipack" />
-298-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-298-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+298-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+298-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 299                <data android:pathPattern="/.*\\..*\\..*\\..*\\.levipack" />
-299-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-299-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+299-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+299-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 300                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.levipack" />
-300-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-300-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+300-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+300-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 301                <data android:pathPattern="/.*\\.mcmod" />
-301-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-301-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+301-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+301-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 302                <data android:pathPattern="/.*\\..*\\.mcmod" />
-302-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-302-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+302-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+302-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 303                <data android:pathPattern="/.*\\..*\\..*\\.mcmod" />
-303-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-303-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+303-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+303-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 304                <data android:pathPattern="/.*\\..*\\..*\\..*\\.mcmod" />
-304-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-304-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+304-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+304-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 305                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.mcmod" />
-305-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-305-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+305-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+305-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 306                <data android:pathPattern="/.*\\.so" />
-306-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-306-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+306-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+306-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 307                <data android:pathPattern="/.*\\..*\\.so" />
-307-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-307-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+307-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+307-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 308                <data android:pathPattern="/.*\\..*\\..*\\.so" />
-308-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-308-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+308-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+308-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 309                <data android:pathPattern="/.*\\..*\\..*\\..*\\.so" />
-309-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-309-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+309-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+309-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 310                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.so" />
-310-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-310-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+310-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+310-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 311                <data android:pathPattern="/.*\\.mcworld" />
-311-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-311-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+311-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+311-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 312                <data android:pathPattern="/.*\\..*\\.mcworld" />
-312-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-312-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+312-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+312-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 313                <data android:pathPattern="/.*\\..*\\..*\\.mcworld" />
-313-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-313-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+313-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+313-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 314                <data android:pathPattern="/.*\\..*\\..*\\..*\\.mcworld" />
-314-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-314-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+314-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+314-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 315                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.mcworld" />
-315-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-315-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+315-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+315-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 316                <data android:pathPattern="/.*\\.mcpack" />
-316-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-316-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+316-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+316-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 317                <data android:pathPattern="/.*\\..*\\.mcpack" />
-317-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-317-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+317-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+317-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 318                <data android:pathPattern="/.*\\..*\\..*\\.mcpack" />
-318-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-318-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+318-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+318-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 319                <data android:pathPattern="/.*\\..*\\..*\\..*\\.mcpack" />
-319-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-319-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+319-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+319-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 320                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.mcpack" />
-320-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-320-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+320-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+320-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 321                <data android:pathPattern="/.*\\.mcaddon" />
-321-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-321-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+321-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+321-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 322                <data android:pathPattern="/.*\\..*\\.mcaddon" />
-322-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-322-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+322-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+322-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 323                <data android:pathPattern="/.*\\..*\\..*\\.mcaddon" />
-323-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-323-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+323-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+323-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 324                <data android:pathPattern="/.*\\..*\\..*\\..*\\.mcaddon" />
-324-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-324-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+324-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+324-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 325                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.mcaddon" />
-325-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-325-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+325-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+325-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 326                <data android:pathPattern="/.*\\.mctemplate" />
-326-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-326-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+326-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+326-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 327                <data android:pathPattern="/.*\\..*\\.mctemplate" />
-327-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-327-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+327-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+327-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 328                <data android:pathPattern="/.*\\..*\\..*\\.mctemplate" />
-328-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-328-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+328-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+328-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 329                <data android:pathPattern="/.*\\..*\\..*\\..*\\.mctemplate" />
-329-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-329-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+329-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+329-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 330                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.mctemplate" />
-330-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-330-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+330-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+330-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 331                <data android:pathSuffix=".zip" />
-331-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-331-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:360:23-48
+331-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+331-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:360:23-48
 332                <data android:pathSuffix=".levibackup" />
-332-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-332-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:360:23-48
+332-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+332-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:360:23-48
 333                <data android:pathSuffix=".levipack" />
-333-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-333-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:360:23-48
+333-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+333-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:360:23-48
 334                <data android:pathSuffix=".mcmod" />
-334-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-334-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:360:23-48
+334-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+334-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:360:23-48
 335                <data android:pathSuffix=".so" />
-335-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-335-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:360:23-48
+335-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+335-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:360:23-48
 336                <data android:pathSuffix=".mcworld" />
-336-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-336-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:360:23-48
+336-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+336-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:360:23-48
 337                <data android:pathSuffix=".mcpack" />
-337-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-337-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:360:23-48
+337-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+337-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:360:23-48
 338                <data android:pathSuffix=".mcaddon" />
-338-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-338-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:360:23-48
+338-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+338-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:360:23-48
 339                <data android:pathSuffix=".mctemplate" />
-339-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-339-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:360:23-48
+339-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+339-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:360:23-48
 340            </intent-filter>
 341            <intent-filter>
-341-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:371:13-434:29
+341-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:371:13-434:29
 342                <action android:name="android.intent.action.VIEW" />
-342-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:13-65
-342-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:21-62
+342-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:13-65
+342-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:21-62
 343
 344                <category android:name="android.intent.category.DEFAULT" />
-344-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:17-76
-344-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:27-73
+344-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:17-76
+344-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:27-73
 345                <category android:name="android.intent.category.BROWSABLE" />
-345-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:45:13-74
-345-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:45:23-71
+345-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:45:13-74
+345-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:45:23-71
 346
 347                <data android:scheme="content" />
-347-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-347-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:19-41
+347-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+347-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:19-41
 348                <data android:scheme="file" />
-348-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-348-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:19-41
+348-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+348-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:19-41
 349                <data android:mimeType="*/*" />
-349-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-349-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:301:23-57
+349-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+349-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:301:23-57
 350                <data android:host="*" />
-350-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-350-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:314:23-39
+350-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+350-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:314:23-39
 351                <data android:pathPattern="/.*\\.zip" />
-351-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-351-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+351-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+351-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 352                <data android:pathPattern="/.*\\..*\\.zip" />
-352-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-352-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+352-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+352-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 353                <data android:pathPattern="/.*\\..*\\..*\\.zip" />
-353-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-353-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+353-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+353-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 354                <data android:pathPattern="/.*\\..*\\..*\\..*\\.zip" />
-354-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-354-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+354-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+354-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 355                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.zip" />
-355-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-355-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+355-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+355-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 356                <data android:pathPattern="/.*\\.levibackup" />
-356-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-356-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+356-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+356-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 357                <data android:pathPattern="/.*\\..*\\.levibackup" />
-357-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-357-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+357-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+357-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 358                <data android:pathPattern="/.*\\..*\\..*\\.levibackup" />
-358-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-358-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+358-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+358-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 359                <data android:pathPattern="/.*\\..*\\..*\\..*\\.levibackup" />
-359-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-359-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+359-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+359-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 360                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.levibackup" />
-360-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-360-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+360-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+360-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 361                <data android:pathPattern="/.*\\.levipack" />
-361-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-361-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+361-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+361-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 362                <data android:pathPattern="/.*\\..*\\.levipack" />
-362-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-362-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+362-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+362-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 363                <data android:pathPattern="/.*\\..*\\..*\\.levipack" />
-363-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-363-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+363-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+363-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 364                <data android:pathPattern="/.*\\..*\\..*\\..*\\.levipack" />
-364-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-364-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+364-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+364-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 365                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.levipack" />
-365-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-365-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+365-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+365-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 366                <data android:pathPattern="/.*\\.mcmod" />
-366-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-366-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+366-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+366-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 367                <data android:pathPattern="/.*\\..*\\.mcmod" />
-367-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-367-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+367-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+367-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 368                <data android:pathPattern="/.*\\..*\\..*\\.mcmod" />
-368-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-368-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+368-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+368-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 369                <data android:pathPattern="/.*\\..*\\..*\\..*\\.mcmod" />
-369-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-369-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+369-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+369-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 370                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.mcmod" />
-370-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-370-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+370-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+370-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 371                <data android:pathPattern="/.*\\.so" />
-371-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-371-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+371-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+371-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 372                <data android:pathPattern="/.*\\..*\\.so" />
-372-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-372-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+372-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+372-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 373                <data android:pathPattern="/.*\\..*\\..*\\.so" />
-373-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-373-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+373-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+373-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 374                <data android:pathPattern="/.*\\..*\\..*\\..*\\.so" />
-374-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-374-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+374-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+374-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 375                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.so" />
-375-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-375-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+375-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+375-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 376                <data android:pathPattern="/.*\\.mcworld" />
-376-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-376-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+376-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+376-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 377                <data android:pathPattern="/.*\\..*\\.mcworld" />
-377-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-377-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+377-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+377-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 378                <data android:pathPattern="/.*\\..*\\..*\\.mcworld" />
-378-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-378-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+378-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+378-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 379                <data android:pathPattern="/.*\\..*\\..*\\..*\\.mcworld" />
-379-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-379-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+379-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+379-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 380                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.mcworld" />
-380-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-380-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+380-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+380-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 381                <data android:pathPattern="/.*\\.mcpack" />
-381-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-381-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+381-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+381-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 382                <data android:pathPattern="/.*\\..*\\.mcpack" />
-382-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-382-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+382-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+382-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 383                <data android:pathPattern="/.*\\..*\\..*\\.mcpack" />
-383-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-383-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+383-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+383-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 384                <data android:pathPattern="/.*\\..*\\..*\\..*\\.mcpack" />
-384-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-384-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+384-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+384-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 385                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.mcpack" />
-385-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-385-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+385-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+385-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 386                <data android:pathPattern="/.*\\.mcaddon" />
-386-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-386-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+386-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+386-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 387                <data android:pathPattern="/.*\\..*\\.mcaddon" />
-387-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-387-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+387-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+387-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 388                <data android:pathPattern="/.*\\..*\\..*\\.mcaddon" />
-388-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-388-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+388-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+388-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 389                <data android:pathPattern="/.*\\..*\\..*\\..*\\.mcaddon" />
-389-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-389-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+389-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+389-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 390                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.mcaddon" />
-390-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-390-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+390-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+390-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 391                <data android:pathPattern="/.*\\.mctemplate" />
-391-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-391-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+391-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+391-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 392                <data android:pathPattern="/.*\\..*\\.mctemplate" />
-392-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-392-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+392-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+392-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 393                <data android:pathPattern="/.*\\..*\\..*\\.mctemplate" />
-393-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-393-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+393-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+393-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 394                <data android:pathPattern="/.*\\..*\\..*\\..*\\.mctemplate" />
-394-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-394-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+394-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+394-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 395                <data android:pathPattern="/.*\\..*\\..*\\..*\\..*\\.mctemplate" />
-395-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-395-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:315:23-54
+395-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+395-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:315:23-54
 396                <data android:pathSuffix=".zip" />
-396-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-396-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:360:23-48
+396-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+396-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:360:23-48
 397                <data android:pathSuffix=".levibackup" />
-397-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-397-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:360:23-48
+397-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+397-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:360:23-48
 398                <data android:pathSuffix=".levipack" />
-398-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-398-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:360:23-48
+398-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+398-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:360:23-48
 399                <data android:pathSuffix=".mcmod" />
-399-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-399-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:360:23-48
+399-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+399-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:360:23-48
 400                <data android:pathSuffix=".so" />
-400-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-400-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:360:23-48
+400-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+400-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:360:23-48
 401                <data android:pathSuffix=".mcworld" />
-401-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-401-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:360:23-48
+401-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+401-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:360:23-48
 402                <data android:pathSuffix=".mcpack" />
-402-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-402-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:360:23-48
+402-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+402-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:360:23-48
 403                <data android:pathSuffix=".mcaddon" />
-403-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-403-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:360:23-48
+403-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+403-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:360:23-48
 404                <data android:pathSuffix=".mctemplate" />
-404-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-404-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:360:23-48
+404-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+404-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:360:23-48
 405            </intent-filter>
 406            <intent-filter>
-406-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:436:13-446:29
+406-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:436:13-446:29
 407                <action android:name="android.intent.action.VIEW" />
-407-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:13-65
-407-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:21-62
+407-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:13-65
+407-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:21-62
 408
 409                <category android:name="android.intent.category.DEFAULT" />
-409-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:17-76
-409-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:27-73
+409-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:17-76
+409-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:27-73
 410                <category android:name="android.intent.category.BROWSABLE" />
-410-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:45:13-74
-410-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:45:23-71
+410-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:45:13-74
+410-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:45:23-71
 411
 412                <data android:scheme="file" />
-412-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-412-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:19-41
+412-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+412-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:19-41
 413                <data android:mimeType="application/zip" />
-413-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-413-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:301:23-57
+413-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+413-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:301:23-57
 414                <data android:mimeType="application/x-zip" />
-414-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-414-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:301:23-57
+414-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+414-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:301:23-57
 415                <data android:mimeType="application/x-zip-compressed" />
-415-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-415-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:301:23-57
+415-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+415-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:301:23-57
 416                <data android:mimeType="application/octet-stream" />
-416-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
-416-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:301:23-57
+416-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
+416-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:301:23-57
 417            </intent-filter>
 418            <intent-filter>
-418-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:447:13-452:29
+418-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:447:13-452:29
 419                <action android:name="xbox_live_game_invite" />
-419-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:448:17-64
-419-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:448:25-61
+419-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:448:17-64
+419-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:448:25-61
 420                <action android:name="xbox_live_achievement_unlock" />
-420-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:449:17-71
-420-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:449:25-68
+420-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:449:17-71
+420-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:449:25-68
 421
 422                <category android:name="android.intent.category.DEFAULT" />
-422-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:17-76
-422-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:27-73
+422-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:17-76
+422-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:27-73
 423            </intent-filter>
 424        </activity>
 425        <activity
-425-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:455:9-464:45
+425-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:455:9-464:45
 426            android:name="org.levimc.launcher.core.minecraft.MinecraftLoadingActivity"
-426-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:456:13-68
+426-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:456:13-68
 427            android:alwaysRetainTaskState="true"
-427-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:457:13-49
+427-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:457:13-49
 428            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-428-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:458:13-178
+428-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:458:13-178
 429            android:excludeFromRecents="false"
-429-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:459:13-47
+429-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:459:13-47
 430            android:exported="false"
-430-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:460:13-37
+430-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:460:13-37
 431            android:launchMode="standard"
-431-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:461:13-42
+431-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:461:13-42
 432            android:screenOrientation="sensorLandscape"
-432-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:462:13-56
+432-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:462:13-56
 433            android:theme="@style/MinecraftLoadingTheme" />
-433-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:463:13-57
+433-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:463:13-57
 434        <activity
-434-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:466:9-479:20
+434-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:466:9-479:20
 435            android:name="org.levimc.launcher.core.minecraft.MinecraftActivity"
-435-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:467:13-61
+435-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:467:13-61
 436            android:alwaysRetainTaskState="true"
-436-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:468:13-49
+436-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:468:13-49
 437            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-437-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:469:13-178
+437-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:469:13-178
 438            android:excludeFromRecents="false"
-438-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:470:13-47
+438-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:470:13-47
 439            android:exported="false"
-439-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:471:13-37
+439-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:471:13-37
 440            android:launchMode="standard"
-440-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:472:13-42
+440-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:472:13-42
 441            android:screenOrientation="sensorLandscape"
-441-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:473:13-56
+441-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:473:13-56
 442            android:theme="@style/AppFullScreenTheme" >
-442-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:474:13-54
+442-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:474:13-54
 443            <meta-data
-443-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:278:13-280:45
+443-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:278:13-280:45
 444                android:name="android.app.lib_name"
-444-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:279:17-52
+444-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:279:17-52
 445                android:value="preloader" />
-445-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:280:17-42
+445-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:280:17-42
 446        </activity>
 447        <activity
-447-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:481:9-491:45
+447-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:481:9-491:45
 448            android:name="org.levimc.launcher.core.minecraft.LauncherRestartActivity"
-448-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:482:13-67
+448-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:482:13-67
 449            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-449-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:483:13-178
+449-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:483:13-178
 450            android:excludeFromRecents="true"
-450-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:484:13-46
+450-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:484:13-46
 451            android:exported="false"
-451-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:485:13-37
+451-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:485:13-37
 452            android:finishOnTaskLaunch="true"
-452-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:486:13-46
+452-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:486:13-46
 453            android:launchMode="singleTask"
-453-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:487:13-44
+453-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:487:13-44
 454            android:process=":crash"
-454-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:488:13-37
+454-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:488:13-37
 455            android:screenOrientation="sensorLandscape"
-455-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:489:13-56
+455-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:489:13-56
 456            android:theme="@style/LauncherRestartTheme" />
-456-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:490:13-56
+456-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:490:13-56
 457        <activity
-457-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:493:9-508:20
+457-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:493:9-508:20
 458            android:name="com.microsoft.xal.browser.IntentHandler"
-458-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:494:13-67
+458-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:494:13-67
 459            android:alwaysRetainTaskState="true"
-459-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:498:13-49
+459-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:498:13-49
 460            android:configChanges="keyboardHidden|orientation|screenSize|uiMode"
-460-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:497:13-81
+460-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:497:13-81
 461            android:exported="true"
-461-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:495:13-36
+461-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:495:13-36
 462            android:launchMode="singleTask" >
-462-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:496:13-44
+462-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:496:13-44
 463            <intent-filter>
-463-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:500:13-507:29
+463-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:500:13-507:29
 464                <action android:name="android.intent.action.VIEW" />
-464-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:13-65
-464-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:21-62
+464-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:13-65
+464-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:21-62
 465
 466                <data
-466-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
+466-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
 467                    android:host="auth"
-467-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:314:23-39
+467-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:314:23-39
 468                    android:scheme="ms-xal-0000000048183522" />
-468-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:19-41
+468-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:19-41
 469
 470                <category android:name="android.intent.category.DEFAULT" />
-470-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:17-76
-470-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:27-73
+470-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:17-76
+470-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:27-73
 471                <category android:name="android.intent.category.BROWSABLE" />
-471-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:45:13-74
-471-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:45:23-71
+471-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:45:13-74
+471-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:45:23-71
 472            </intent-filter>
 473            <intent-filter>
-473-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:41:13-50:29
+473-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:41:13-50:29
 474                <action android:name="android.intent.action.VIEW" />
-474-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:13-65
-474-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:21-62
+474-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:13-65
+474-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:21-62
 475
 476                <data
-476-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
+476-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
 477                    android:host="auth"
-477-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:314:23-39
+477-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:314:23-39
 478                    android:scheme="@string/xal_token" />
-478-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:19-41
+478-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:19-41
 479
 480                <category android:name="android.intent.category.DEFAULT" />
-480-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:17-76
-480-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:27-73
+480-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:17-76
+480-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:27-73
 481                <category android:name="android.intent.category.BROWSABLE" />
-481-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:45:13-74
-481-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:45:23-71
+481-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:45:13-74
+481-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:45:23-71
 482            </intent-filter>
 483        </activity>
 484        <activity
-484-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:510:9-516:70
+484-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:510:9-516:70
 485            android:name="com.microsoft.xal.browser.BrowserLaunchActivity"
-485-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:511:13-75
+485-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:511:13-75
 486            android:alwaysRetainTaskState="true"
-486-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:515:13-49
+486-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:515:13-49
 487            android:configChanges="keyboardHidden|orientation|screenSize|uiMode"
-487-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:514:13-81
+487-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:514:13-81
 488            android:exported="false"
-488-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:512:13-37
+488-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:512:13-37
 489            android:launchMode="singleTask"
-489-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:513:13-44
+489-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:513:13-44
 490            android:theme="@style/WebViewTheme" >
-490-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:58:13-48
+490-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:58:13-48
 491            <intent-filter>
-491-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:41:13-50:29
+491-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:41:13-50:29
 492                <action android:name="android.intent.action.VIEW" />
-492-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:13-65
-492-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:44:21-62
+492-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:13-65
+492-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:44:21-62
 493
 494                <data
-494-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:13-44
+494-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:13-44
 495                    android:host="auth"
-495-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:314:23-39
+495-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:314:23-39
 496                    android:scheme="@string/xal_token" />
-496-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:46:19-41
+496-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:46:19-41
 497
 498                <category android:name="android.intent.category.DEFAULT" />
-498-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:17-76
-498-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:284:27-73
+498-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:17-76
+498-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:284:27-73
 499                <category android:name="android.intent.category.BROWSABLE" />
-499-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:45:13-74
-499-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:45:23-71
+499-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:45:13-74
+499-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:45:23-71
 500            </intent-filter>
 501        </activity>
 502        <activity
-502-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:518:9-524:70
+502-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:518:9-524:70
 503            android:name="com.microsoft.xal.browser.WebKitWebViewController"
-503-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:519:13-77
+503-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:519:13-77
 504            android:alwaysRetainTaskState="true"
-504-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:523:13-49
+504-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:523:13-49
 505            android:configChanges="keyboardHidden|orientation|screenSize|uiMode"
-505-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:522:13-81
+505-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:522:13-81
 506            android:exported="false"
-506-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:520:13-37
+506-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:520:13-37
 507            android:hardwareAccelerated="false"
-507-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:75:13-48
+507-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:75:13-48
 508            android:launchMode="singleTask"
-508-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:521:13-44
+508-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:521:13-44
 509            android:theme="@style/WebViewTheme" />
-509-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:77:13-48
+509-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:77:13-48
 510        <activity
-510-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:526:9-533:181
+510-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:526:9-533:181
 511            android:name="org.levimc.launcher.ui.activities.CrashActivity"
-511-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:527:13-75
+511-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:527:13-75
 512            android:configChanges="fontScale|density|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|navigation|keyboardHidden|keyboard|touchscreen|locale|mnc|mcc"
-512-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:533:13-178
+512-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:533:13-178
 513            android:exported="false"
-513-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:528:13-37
+513-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:528:13-37
 514            android:launchMode="singleTask"
-514-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:529:13-44
+514-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:529:13-44
 515            android:process=":crash"
-515-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:530:13-37
+515-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:530:13-37
 516            android:screenOrientation="sensorLandscape"
-516-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:531:13-56
+516-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:531:13-56
 517            android:theme="@style/Base.Theme.FullScreen" />
-517-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:532:13-57
+517-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:532:13-57
 518
 519        <provider
 520            android:name="androidx.core.content.FileProvider"
-520-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:536:13-62
+520-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:536:13-62
 521            android:authorities="org.levimc.launcher.fileprovider"
-521-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:538:13-64
+521-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:538:13-64
 522            android:exported="false"
-522-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:537:13-37
+522-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:537:13-37
 523            android:grantUriPermissions="true" >
-523-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:539:13-47
+523-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:539:13-47
 524            <meta-data
-524-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:540:13-542:63
+524-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:540:13-542:63
 525                android:name="android.support.FILE_PROVIDER_PATHS"
-525-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:541:17-67
+525-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:541:17-67
 526                android:resource="@xml/file_provider_paths" />
-526-->/workspaces/LeviLauncher-Android/app/src/main/AndroidManifest.xml:542:17-60
+526-->/workspaces/eon-client-v2.0/app/src/main/AndroidManifest.xml:542:17-60
 527        </provider>
 528
 529        <meta-data
-529-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:79:9-81:60
+529-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:79:9-81:60
 530            android:name="appcenter_android_trial_id"
-530-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:80:13-54
+530-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:80:13-54
 531            android:value="@string/appcenter_android_id" />
-531-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:81:13-57
+531-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:81:13-57
 532
 533        <service
-533-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:83:9-85:40
+533-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:83:9-85:40
 534            android:name="com.mojang.minecraftpe.ImportService"
-534-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:84:13-64
+534-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:84:13-64
 535            android:exported="false" />
-535-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:85:13-37
+535-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:85:13-37
 536
 537        <meta-data
-537-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:87:9-89:51
+537-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:87:9-89:51
 538            android:name="game_display_name"
-538-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:88:13-45
+538-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:88:13-45
 539            android:resource="@string/app_name" />
-539-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:89:13-48
+539-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:89:13-48
 540        <meta-data
-540-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:90:9-92:60
+540-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:90:9-92:60
 541            android:name="appcenter_android_id"
-541-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:91:13-48
+541-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:91:13-48
 542            android:value="@string/appcenter_android_id" />
-542-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:92:13-57
+542-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:92:13-57
 543
 544        <service
-544-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:94:9-100:19
+544-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:94:9-100:19
 545            android:name="com.mojang.minecraftpe.NotificationListenerService"
-545-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:95:13-78
+545-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:95:13-78
 546            android:exported="false" >
-546-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:96:13-37
+546-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:96:13-37
 547            <intent-filter>
-547-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:97:13-99:29
+547-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:97:13-99:29
 548                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-548-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:98:17-78
-548-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:98:25-75
+548-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:98:17-78
+548-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:98:25-75
 549            </intent-filter>
 550        </service>
 551        <service
@@ -1285,10 +1285,10 @@
 594            android:exported="false" >
 594-->[com.google.firebase:firebase-messaging:25.0.1] /home/codespace/.gradle/caches/8.13/transforms/97c9f99b79da4dd57c5c41632dd9b9cf/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:49:13-37
 595            <intent-filter android:priority="-500" >
-595-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:97:13-99:29
+595-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:97:13-99:29
 596                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-596-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:98:17-78
-596-->[:minecraft] /workspaces/LeviLauncher-Android/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:98:25-75
+596-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:98:17-78
+596-->[:minecraft] /workspaces/eon-client-v2.0/minecraft/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:98:25-75
 597            </intent-filter>
 598        </service>
 599        <service

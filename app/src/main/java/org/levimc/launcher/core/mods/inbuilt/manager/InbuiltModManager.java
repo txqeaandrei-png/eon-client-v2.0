@@ -29,6 +29,7 @@ public class InbuiltModManager {
     private static final String KEY_ZOOM_LEVEL = "zoom_level";
     private static final String KEY_ZOOM_KEYBIND = "zoom_keybind";
     private static final String KEY_ZOOM_TRANSITION_DURATION = "zoom_transition_duration";
+    private static final String KEY_WORLD_FLY_SPEED = "world_fly_speed";
     private static final String KEY_CURSOR_SENSITIVITY = "cursor_sensitivity";
     private static final String KEY_GYRO_SENSITIVITY_MULTIPLIER = "gyro_sensitivity_multiplier";
     private static final String KEY_GYRO_SENSITIVITY_X = "gyro_sensitivity_x";
@@ -48,6 +49,7 @@ public class InbuiltModManager {
     private static final int MIN_MOD_MENU_OPACITY = 70;
     private static final int DEFAULT_ZOOM_LEVEL = 10;
     private static final int DEFAULT_ZOOM_TRANSITION_DURATION = 150;
+    private static final int DEFAULT_WORLD_FLY_SPEED = 100;
     private static final int DEFAULT_CURSOR_SENSITIVITY = 120;
     private static final int DEFAULT_GYRO_SENSITIVITY_MULTIPLIER = 100;
     private static final int DEFAULT_GYRO_SENSITIVITY = 100;
@@ -265,6 +267,14 @@ public class InbuiltModManager {
 
     public void setZoomTransitionDuration(int duration) {
         prefs.edit().putInt(KEY_ZOOM_TRANSITION_DURATION, Math.max(0, Math.min(1000, duration))).apply();
+    }
+
+    public int getWorldFlySpeed() {
+        return prefs.getInt(KEY_WORLD_FLY_SPEED, DEFAULT_WORLD_FLY_SPEED);
+    }
+
+    public void setWorldFlySpeed(int speedPercent) {
+        prefs.edit().putInt(KEY_WORLD_FLY_SPEED, Math.max(25, Math.min(500, speedPercent))).apply();
     }
 
     public int getCursorSensitivity() {

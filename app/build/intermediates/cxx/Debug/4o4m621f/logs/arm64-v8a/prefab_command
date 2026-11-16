@@ -15,5 +15,5 @@
   --ndk-version \
   28 \
   --output \
-  /tmp/agp-prefab-staging2735400877116097385/staged-cli-output \
+  /tmp/agp-prefab-staging1157811319272852487/staged-cli-output \
   /home/codespace/.gradle/caches/8.13/transforms/b621148cc010760f3b0f957bf43a660f/transformed/games-activity-4.4.2/prefab

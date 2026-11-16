@@ -22,8 +22,8 @@ set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
 include(ExternalProject)
 ExternalProject_Add(magic_enum-populate
                      "UPDATE_DISCONNECTED" "False" "GIT_REPOSITORY" "https://github.com/Neargye/magic_enum.git" "GIT_TAG" "v0.9.7"
-                    SOURCE_DIR          "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/magic_enum-src"
-                    BINARY_DIR          "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/magic_enum-build"
+                    SOURCE_DIR          "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/magic_enum-src"
+                    BINARY_DIR          "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/magic_enum-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

@@ -46,7 +46,7 @@ add_library(lunasvg::lunasvg STATIC IMPORTED)
 
 set_target_properties(lunasvg::lunasvg PROPERTIES
   INTERFACE_COMPILE_DEFINITIONS "LUNASVG_BUILD_STATIC"
-  INTERFACE_INCLUDE_DIRECTORIES "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-src/include"
+  INTERFACE_INCLUDE_DIRECTORIES "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-src/include"
   INTERFACE_LINK_LIBRARIES "\$<LINK_ONLY:plutovg::plutovg>"
 )
 
@@ -54,7 +54,7 @@ set_target_properties(lunasvg::lunasvg PROPERTIES
 set_property(TARGET lunasvg::lunasvg APPEND PROPERTY IMPORTED_CONFIGURATIONS RELWITHDEBINFO)
 set_target_properties(lunasvg::lunasvg PROPERTIES
   IMPORTED_LINK_INTERFACE_LANGUAGES_RELWITHDEBINFO "CXX"
-  IMPORTED_LOCATION_RELWITHDEBINFO "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/liblunasvg.a"
+  IMPORTED_LOCATION_RELWITHDEBINFO "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/liblunasvg.a"
   )
 
 # Make sure the targets which have been exported in some other

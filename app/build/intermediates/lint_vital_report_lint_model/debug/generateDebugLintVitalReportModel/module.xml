@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="/workspaces/LeviLauncher-Android/app"
+    dir="/workspaces/eon-client-v2.0/app"
     name=":app"
     type="APP"
     maven="levilauncher:app:unspecified"

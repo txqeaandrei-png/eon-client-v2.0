@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="/workspaces/LeviLauncher-Android/minecraft"
+    dir="/workspaces/eon-client-v2.0/minecraft"
     name=":minecraft"
     type="LIBRARY"
     maven="levilauncher:minecraft:unspecified"

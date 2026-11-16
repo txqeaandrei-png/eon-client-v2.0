@@ -6928,7 +6928,7 @@ string inbuilt_mod_virtual_cursor
 string inbuilt_mod_virtual_cursor_desc
 string inbuilt_mod_world_fly
 string inbuilt_mod_world_fly_desc
-string inbuilt_mod_world_fly_unavailable
+string inbuilt_mod_world_fly_restart
 string inbuilt_mod_zoom
 string inbuilt_mod_zoom_desc
 string inbuilt_mods
@@ -7286,6 +7286,7 @@ string mod_config_saved
 string mod_config_title_format
 string mod_config_validation_failed
 string mod_config_visible_slots
+string mod_config_world_fly_speed
 string mod_config_zoom_keybind
 string mod_config_zoom_level_percent
 string mod_config_zoom_transition

@@ -5,189 +5,189 @@
 5    <uses-sdk android:minSdkVersion="26" />
 6
 7    <uses-feature
-7-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:4:5-6:38
+7-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:4:5-6:38
 8        android:glEsVersion="0x20000"
-8-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:5:13-42
+8-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:5:13-42
 9        android:required="true" />
-9-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:6:13-36
+9-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:6:13-36
 10    <uses-feature
-10-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:7:5-9:39
+10-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:7:5-9:39
 11        android:name="android.hardware.touchscreen"
-11-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:8:13-56
+11-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:8:13-56
 12        android:required="false" />
-12-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:9:13-37
+12-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:9:13-37
 13
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:10:5-66
-14-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:10:22-64
+14-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:10:5-66
+14-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:10:22-64
 15    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
-15-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:11:5-72
-15-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:11:22-70
+15-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:11:5-72
+15-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:11:22-70
 16    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
-16-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:12:5-85
-16-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:12:22-83
+16-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:12:5-85
+16-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:12:22-83
 17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-17-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:13:5-78
-17-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:13:22-76
+17-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:13:5-78
+17-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:13:22-76
 18    <uses-permission android:name="android.permission.VIBRATE" />
-18-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:14:5-65
-18-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:14:22-63
+18-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:14:5-65
+18-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:14:22-63
 19    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-19-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:15:5-76
-19-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:15:22-74
+19-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:15:5-76
+19-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:15:22-74
 20    <uses-permission android:name="android.permission.WAKE_LOCK" />
-20-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:16:5-67
-20-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:16:22-65
+20-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:16:5-67
+20-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:16:22-65
 21    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-21-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:17:5-75
-21-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:17:22-73
+21-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:17:5-75
+21-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:17:22-73
 22    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-22-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:18:5-76
-22-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:18:22-74
+22-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:18:5-76
+22-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:18:22-74
 23
 24    <queries>
-24-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:20:5-25:15
+24-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:20:5-25:15
 25        <intent>
-25-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:21:9-24:18
+25-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:21:9-24:18
 26            <action android:name="android.intent.action.VIEW" />
-26-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:22:13-65
-26-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:22:21-62
+26-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:22:13-65
+26-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:22:21-62
 27
 28            <data android:scheme="https" />
-28-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:23:13-44
-28-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:23:19-41
+28-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:23:13-44
+28-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:23:19-41
 29        </intent>
 30    </queries>
 31
 32    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-32-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:27:5-81
-32-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:27:22-79
+32-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:27:5-81
+32-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:27:22-79
 33
 34    <application>
-34-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:29:5-97:19
+34-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:29:5-97:19
 35        <activity
-35-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:31:9-45:20
+35-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:31:9-45:20
 36            android:name="com.microsoft.xal.browser.IntentHandler"
-36-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:32:13-67
+36-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:32:13-67
 37            android:alwaysRetainTaskState="true"
-37-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:36:13-49
+37-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:36:13-49
 38            android:configChanges="screenSize|uiMode|orientation|keyboardHidden"
-38-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:35:13-81
+38-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:35:13-81
 39            android:exported="true"
-39-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:33:13-36
+39-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:33:13-36
 40            android:launchMode="singleTask" >
-40-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:34:13-44
+40-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:34:13-44
 41            <intent-filter>
-41-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:37:13-44:29
+41-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:37:13-44:29
 42                <action android:name="android.intent.action.VIEW" />
-42-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:22:13-65
-42-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:22:21-62
+42-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:22:13-65
+42-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:22:21-62
 43
 44                <data
-44-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:23:13-44
+44-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:23:13-44
 45                    android:host="auth"
-45-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:41:21-40
+45-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:41:21-40
 46                    android:scheme="@string/xal_token" />
-46-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:23:19-41
+46-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:23:19-41
 47
 48                <category android:name="android.intent.category.DEFAULT" />
-48-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:42:17-75
-48-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:42:27-73
+48-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:42:17-75
+48-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:42:27-73
 49                <category android:name="android.intent.category.BROWSABLE" />
-49-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:43:17-77
-49-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:43:27-75
+49-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:43:17-77
+49-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:43:27-75
 50            </intent-filter>
 51        </activity>
 52        <activity
-52-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:47:9-62:20
+52-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:47:9-62:20
 53            android:name="com.microsoft.xal.browser.BrowserLaunchActivity"
-53-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:48:13-75
+53-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:48:13-75
 54            android:alwaysRetainTaskState="true"
-54-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:52:13-49
+54-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:52:13-49
 55            android:configChanges="screenSize|uiMode|orientation|keyboardHidden"
-55-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:51:13-81
+55-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:51:13-81
 56            android:exported="true"
-56-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:49:13-36
+56-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:49:13-36
 57            android:launchMode="singleTask"
-57-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:50:13-44
+57-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:50:13-44
 58            android:theme="@style/WebViewTheme" >
-58-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:53:13-48
+58-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:53:13-48
 59            <intent-filter>
-59-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:37:13-44:29
+59-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:37:13-44:29
 60                <action android:name="android.intent.action.VIEW" />
-60-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:22:13-65
-60-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:22:21-62
+60-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:22:13-65
+60-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:22:21-62
 61
 62                <data
-62-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:23:13-44
+62-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:23:13-44
 63                    android:host="auth"
-63-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:41:21-40
+63-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:41:21-40
 64                    android:scheme="@string/xal_token" />
-64-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:23:19-41
+64-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:23:19-41
 65
 66                <category android:name="android.intent.category.DEFAULT" />
-66-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:42:17-75
-66-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:42:27-73
+66-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:42:17-75
+66-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:42:27-73
 67                <category android:name="android.intent.category.BROWSABLE" />
-67-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:43:17-77
-67-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:43:27-75
+67-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:43:17-77
+67-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:43:27-75
 68            </intent-filter>
 69        </activity>
 70        <activity
-70-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:64:9-71:50
+70-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:64:9-71:50
 71            android:name="com.microsoft.xal.browser.WebKitWebViewController"
-71-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:65:13-77
+71-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:65:13-77
 72            android:alwaysRetainTaskState="true"
-72-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:69:13-49
+72-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:69:13-49
 73            android:configChanges="screenSize|uiMode|orientation|keyboardHidden"
-73-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:68:13-81
+73-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:68:13-81
 74            android:exported="false"
-74-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:66:13-37
+74-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:66:13-37
 75            android:hardwareAccelerated="false"
-75-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:70:13-48
+75-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:70:13-48
 76            android:launchMode="singleTask"
-76-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:67:13-44
+76-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:67:13-44
 77            android:theme="@style/WebViewTheme" />
-77-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:71:13-48
+77-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:71:13-48
 78
 79        <meta-data
-79-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:73:9-75:60
+79-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:73:9-75:60
 80            android:name="appcenter_android_trial_id"
-80-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:74:13-54
+80-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:74:13-54
 81            android:value="@string/appcenter_android_id" />
-81-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:75:13-57
+81-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:75:13-57
 82
 83        <service
-83-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:77:9-79:40
+83-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:77:9-79:40
 84            android:name="com.mojang.minecraftpe.ImportService"
-84-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:78:13-64
+84-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:78:13-64
 85            android:exported="false" />
-85-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:79:13-37
+85-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:79:13-37
 86
 87        <meta-data
-87-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:81:9-83:51
+87-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:81:9-83:51
 88            android:name="game_display_name"
-88-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:82:13-45
+88-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:82:13-45
 89            android:resource="@string/app_name" />
-89-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:83:13-48
+89-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:83:13-48
 90        <meta-data
-90-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:85:9-87:60
+90-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:85:9-87:60
 91            android:name="appcenter_android_id"
-91-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:86:13-48
+91-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:86:13-48
 92            android:value="@string/appcenter_android_id" />
-92-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:87:13-57
+92-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:87:13-57
 93
 94        <service
-94-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:89:9-95:19
+94-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:89:9-95:19
 95            android:name="com.mojang.minecraftpe.NotificationListenerService"
-95-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:90:13-78
+95-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:90:13-78
 96            android:exported="false" >
-96-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:91:13-37
+96-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:91:13-37
 97            <intent-filter>
-97-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:92:13-94:29
+97-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:92:13-94:29
 98                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-98-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:93:17-78
-98-->/workspaces/LeviLauncher-Android/minecraft/src/main/AndroidManifest.xml:93:25-75
+98-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:93:17-78
+98-->/workspaces/eon-client-v2.0/minecraft/src/main/AndroidManifest.xml:93:25-75
 99            </intent-filter>
 100        </service>
 101    </application>

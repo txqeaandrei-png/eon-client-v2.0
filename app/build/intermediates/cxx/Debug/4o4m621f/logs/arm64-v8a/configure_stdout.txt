@@ -4,7 +4,7 @@
 -- Check for working CXX compiler: /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Using the multi-header code from /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/nlohmann_json-src/include/
+-- Using the multi-header code from /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/nlohmann_json-src/include/
 -- {fmt} version: 11.2.0
 -- Build type: RelWithDebInfo
 -- Performing Test HAS_NULLPTR_WARNING
@@ -141,4 +141,4 @@
 -- Performing Test HAVE_CXX17_HAS_INCLUDE - Success
 -- Configuring done
 -- Generating done
--- Build files have been written to: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a
+-- Build files have been written to: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a

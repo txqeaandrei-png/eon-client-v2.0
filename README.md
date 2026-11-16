@@ -37,6 +37,10 @@ LeviLauncher enables you to import Minecraft APKs and run supported versions ins
 - **Multiple Xbox Account Management** – Manage multiple Xbox accounts inside the launcher and switch between them seamlessly
 - **Resource Pack & World Management** – Import, export, and back up your resource packs and worlds with the built-in manager
 
+### Experimental local-world Fly
+
+World Fly grants vanilla `mayfly` ability in the selected version's local worlds by updating their `level.dat` before Minecraft starts; it does not issue commands or change multiplayer/server movement. Enable or disable it from ClickGUI and reopen the world after the next game launch. While enabled, local-world LAN/Xbox broadcasts are turned off; the original ability and broadcast values are saved privately and restored when the module is disabled. Normal Minecraft flight input controls movement, and the module's speed setting adjusts the world's vanilla `flySpeed`. Runtime behavior still needs device testing on the target Minecraft build.
+
 ---
 
 ## System Requirements
@@ -114,13 +118,13 @@ The project root is named `levilauncher` in the Gradle settings, while the repos
 
 On Windows, run `.\gradlew.bat assembleDebug`. Use an installed or imported licensed Minecraft version 1.21.80 or newer when testing launch flows.
 
-### Branding and package customization
+### Branding and package identity
 
-This fork is set up with build properties for a custom app identity. Edit the values in `gradle.properties` to change the app name and Android package ID before building. Keep the namespace as `org.levimc.launcher` unless you also migrate the source packages:
+The app name can be changed through `gradle.properties`. Keep both the application ID and namespace as `org.levimc.launcher`: the bundled native core requires this package identity to load correctly.
 
 ```properties
 launcher.app_name=EoN Client V2
-launcher.application_id=com.eon.client.v2
+launcher.application_id=org.levimc.launcher
 launcher.namespace=org.levimc.launcher
 ```
 

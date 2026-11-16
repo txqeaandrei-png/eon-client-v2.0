@@ -49,7 +49,7 @@ unset(_expectedTargets)
 add_library(zstd::libzstd_static STATIC IMPORTED)
 
 set_target_properties(zstd::libzstd_static PROPERTIES
-  INTERFACE_INCLUDE_DIRECTORIES "/workspaces/LeviLauncher-Android/app/src/main/cpp/worldtools/vendor/zstd/build/cmake/../../lib"
+  INTERFACE_INCLUDE_DIRECTORIES "/workspaces/eon-client-v2.0/app/src/main/cpp/worldtools/vendor/zstd/build/cmake/../../lib"
 )
 
 # Create imported target zstd::libzstd
@@ -63,7 +63,7 @@ set_target_properties(zstd::libzstd PROPERTIES
 set_property(TARGET zstd::libzstd_static APPEND PROPERTY IMPORTED_CONFIGURATIONS RELWITHDEBINFO)
 set_target_properties(zstd::libzstd_static PROPERTIES
   IMPORTED_LINK_INTERFACE_LANGUAGES_RELWITHDEBINFO "C"
-  IMPORTED_LOCATION_RELWITHDEBINFO "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/worldtools/vendor/zstd/build/cmake/lib/libzstd.a"
+  IMPORTED_LOCATION_RELWITHDEBINFO "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/worldtools/vendor/zstd/build/cmake/lib/libzstd.a"
   )
 
 # This file does not depend on other imported targets which have

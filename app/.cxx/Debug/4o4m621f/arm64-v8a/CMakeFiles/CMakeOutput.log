@@ -11,18 +11,18 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
 
-The CXX compiler identification is Clang, found in "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o"
+The CXX compiler identification is Clang, found in "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o"
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_dd418 && [1/2] Building CXX object CMakeFiles/cmTC_dd418.dir/CMakeCXXCompilerABI.cpp.o
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_2c9ee && [1/2] Building CXX object CMakeFiles/cmTC_2c9ee.dir/CMakeCXXCompilerABI.cpp.o
 Android (13624864, +pgo, +bolt, +lto, +mlgo, based on r530567e) clang version 19.0.1 (https://android.googlesource.com/toolchain/llvm-project 97a699bf4812a18fb657c2779f5296a4ab2694d2)
 Target: aarch64-none-linux-android28
 Thread model: posix
 InstalledDir: /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin
  (in-process)
- "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++" -cc1 -triple aarch64-none-linux-android28 -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu generic -target-feature +v8a -target-feature +fp-armv8 -target-feature +neon -target-feature +fix-cortex-a53-835769 -target-abi aapcs -debug-info-kind=constructor -dwarf-version=4 -debugger-tuning=gdb -fdebug-compilation-dir=/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp -v -ffunction-sections -fdata-sections -fcoverage-compilation-dir=/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp -resource-dir /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19 -dependency-file CMakeFiles/cmTC_dd418.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_dd418.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -D ANDROID -D _FORTIFY_SOURCE=2 -isysroot /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/c++/v1 -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/local/include -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/include -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include -Wformat -fdeprecated-macro -ferror-limit 19 -femulated-tls -stack-protector 2 -fno-signed-char -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -target-feature +outline-atomics -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_dd418.dir/CMakeCXXCompilerABI.cpp.o -x c++ /home/codespace/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp
+ "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++" -cc1 -triple aarch64-none-linux-android28 -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu generic -target-feature +v8a -target-feature +fp-armv8 -target-feature +neon -target-feature +fix-cortex-a53-835769 -target-abi aapcs -debug-info-kind=constructor -dwarf-version=4 -debugger-tuning=gdb -fdebug-compilation-dir=/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp -v -ffunction-sections -fdata-sections -fcoverage-compilation-dir=/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp -resource-dir /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19 -dependency-file CMakeFiles/cmTC_2c9ee.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_2c9ee.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -D ANDROID -D _FORTIFY_SOURCE=2 -isysroot /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/c++/v1 -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/local/include -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/include -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include -Wformat -fdeprecated-macro -ferror-limit 19 -femulated-tls -stack-protector 2 -fno-signed-char -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -target-feature +outline-atomics -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_2c9ee.dir/CMakeCXXCompilerABI.cpp.o -x c++ /home/codespace/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp
 clang -cc1 version 19.0.1 based upon LLVM 19.0.1 default target x86_64-unknown-linux-gnu
 ignoring nonexistent directory "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/local/include"
 ignoring nonexistent directory "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/include"
@@ -33,12 +33,12 @@ ignoring nonexistent directory "/home/codespace/Android/Sdk/ndk/28.2.13676358/to
  /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android
  /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include
 End of search list.
-[2/2] Linking CXX executable cmTC_dd418
+[2/2] Linking CXX executable cmTC_2c9ee
 Android (13624864, +pgo, +bolt, +lto, +mlgo, based on r530567e) clang version 19.0.1 (https://android.googlesource.com/toolchain/llvm-project 97a699bf4812a18fb657c2779f5296a4ab2694d2)
 Target: aarch64-none-linux-android28
 Thread model: posix
 InstalledDir: /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin
- "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/ld.lld" --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -EL --fix-cortex-a53-843419 -z now -z relro -z max-page-size=16384 --hash-style=gnu --eh-frame-hdr -m aarch64linux -pie -dynamic-linker /system/bin/linker64 -o cmTC_dd418 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtbegin_dynamic.o -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/aarch64 -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28 -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib --build-id=sha1 --no-rosegment --no-undefined-version --fatal-warnings --no-undefined CMakeFiles/cmTC_dd418.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lm /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl -lc /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtend_android.o
+ "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/ld.lld" --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -EL --fix-cortex-a53-843419 -z now -z relro -z max-page-size=16384 --hash-style=gnu --eh-frame-hdr -m aarch64linux -pie -dynamic-linker /system/bin/linker64 -o cmTC_2c9ee /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtbegin_dynamic.o -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/aarch64 -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28 -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib --build-id=sha1 --no-rosegment --no-undefined-version --fatal-warnings --no-undefined CMakeFiles/cmTC_2c9ee.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lm /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl -lc /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtend_android.o
 
 
 
@@ -59,15 +59,15 @@ Parsed CXX implicit include dir info from above output: rv=done
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.lld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_dd418 && [1/2] Building CXX object CMakeFiles/cmTC_dd418.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_2c9ee && [1/2] Building CXX object CMakeFiles/cmTC_2c9ee.dir/CMakeCXXCompilerABI.cpp.o]
   ignore line: [Android (13624864  +pgo  +bolt  +lto  +mlgo  based on r530567e) clang version 19.0.1 (https://android.googlesource.com/toolchain/llvm-project 97a699bf4812a18fb657c2779f5296a4ab2694d2)]
   ignore line: [Target: aarch64-none-linux-android28]
   ignore line: [Thread model: posix]
   ignore line: [InstalledDir: /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin]
   ignore line: [ (in-process)]
-  ignore line: [ "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++" -cc1 -triple aarch64-none-linux-android28 -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu generic -target-feature +v8a -target-feature +fp-armv8 -target-feature +neon -target-feature +fix-cortex-a53-835769 -target-abi aapcs -debug-info-kind=constructor -dwarf-version=4 -debugger-tuning=gdb -fdebug-compilation-dir=/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp -v -ffunction-sections -fdata-sections -fcoverage-compilation-dir=/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp -resource-dir /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19 -dependency-file CMakeFiles/cmTC_dd418.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_dd418.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -D ANDROID -D _FORTIFY_SOURCE=2 -isysroot /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/c++/v1 -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/local/include -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/include -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include -Wformat -fdeprecated-macro -ferror-limit 19 -femulated-tls -stack-protector 2 -fno-signed-char -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -target-feature +outline-atomics -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_dd418.dir/CMakeCXXCompilerABI.cpp.o -x c++ /home/codespace/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [ "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++" -cc1 -triple aarch64-none-linux-android28 -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu generic -target-feature +v8a -target-feature +fp-armv8 -target-feature +neon -target-feature +fix-cortex-a53-835769 -target-abi aapcs -debug-info-kind=constructor -dwarf-version=4 -debugger-tuning=gdb -fdebug-compilation-dir=/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp -v -ffunction-sections -fdata-sections -fcoverage-compilation-dir=/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp -resource-dir /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19 -dependency-file CMakeFiles/cmTC_2c9ee.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_2c9ee.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -D ANDROID -D _FORTIFY_SOURCE=2 -isysroot /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/c++/v1 -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/local/include -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/include -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include -Wformat -fdeprecated-macro -ferror-limit 19 -femulated-tls -stack-protector 2 -fno-signed-char -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -target-feature +outline-atomics -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_2c9ee.dir/CMakeCXXCompilerABI.cpp.o -x c++ /home/codespace/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp]
   ignore line: [clang -cc1 version 19.0.1 based upon LLVM 19.0.1 default target x86_64-unknown-linux-gnu]
   ignore line: [ignoring nonexistent directory "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/local/include"]
   ignore line: [ignoring nonexistent directory "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/include"]
@@ -78,12 +78,12 @@ Parsed CXX implicit link information from above output:
   ignore line: [ /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android]
   ignore line: [ /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include]
   ignore line: [End of search list.]
-  ignore line: [[2/2] Linking CXX executable cmTC_dd418]
+  ignore line: [[2/2] Linking CXX executable cmTC_2c9ee]
   ignore line: [Android (13624864  +pgo  +bolt  +lto  +mlgo  based on r530567e) clang version 19.0.1 (https://android.googlesource.com/toolchain/llvm-project 97a699bf4812a18fb657c2779f5296a4ab2694d2)]
   ignore line: [Target: aarch64-none-linux-android28]
   ignore line: [Thread model: posix]
   ignore line: [InstalledDir: /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin]
-  link line: [ "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/ld.lld" --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -EL --fix-cortex-a53-843419 -z now -z relro -z max-page-size=16384 --hash-style=gnu --eh-frame-hdr -m aarch64linux -pie -dynamic-linker /system/bin/linker64 -o cmTC_dd418 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtbegin_dynamic.o -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/aarch64 -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28 -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib --build-id=sha1 --no-rosegment --no-undefined-version --fatal-warnings --no-undefined CMakeFiles/cmTC_dd418.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lm /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl -lc /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtend_android.o]
+  link line: [ "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/ld.lld" --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -EL --fix-cortex-a53-843419 -z now -z relro -z max-page-size=16384 --hash-style=gnu --eh-frame-hdr -m aarch64linux -pie -dynamic-linker /system/bin/linker64 -o cmTC_2c9ee /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtbegin_dynamic.o -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/aarch64 -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28 -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib --build-id=sha1 --no-rosegment --no-undefined-version --fatal-warnings --no-undefined CMakeFiles/cmTC_2c9ee.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lm /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl -lc /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtend_android.o]
     arg [/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/ld.lld] ==> ignore
     arg [--sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot] ==> ignore
     arg [-EL] ==> ignore
@@ -99,7 +99,7 @@ Parsed CXX implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/system/bin/linker64] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_dd418] ==> ignore
+    arg [cmTC_2c9ee] ==> ignore
     arg [/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtbegin_dynamic.o] ==> obj [/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtbegin_dynamic.o]
     arg [-L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/aarch64] ==> dir [/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/aarch64]
     arg [-L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28] ==> dir [/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28]
@@ -110,7 +110,7 @@ Parsed CXX implicit link information from above output:
     arg [--no-undefined-version] ==> ignore
     arg [--fatal-warnings] ==> ignore
     arg [--no-undefined] ==> ignore
-    arg [CMakeFiles/cmTC_dd418.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_2c9ee.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lc++] ==> lib [c++]
     arg [-lm] ==> lib [m]
     arg [/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a] ==> lib [/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a]
@@ -134,10 +134,10 @@ Parsed CXX implicit link information from above output:
 
 
 Performing C++ SOURCE FILE Test HAS_NULLPTR_WARNING succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_66ae8 && [1/2] Building CXX object CMakeFiles/cmTC_66ae8.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_66ae8
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_98845 && [1/2] Building CXX object CMakeFiles/cmTC_98845.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_98845
 
 
 Source file was:
@@ -153,18 +153,18 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
 
-The C compiler identification is Clang, found in "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o"
+The C compiler identification is Clang, found in "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o"
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_4c9cc && [1/2] Building C object CMakeFiles/cmTC_4c9cc.dir/CMakeCCompilerABI.c.o
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_c62bc && [1/2] Building C object CMakeFiles/cmTC_c62bc.dir/CMakeCCompilerABI.c.o
 Android (13624864, +pgo, +bolt, +lto, +mlgo, based on r530567e) clang version 19.0.1 (https://android.googlesource.com/toolchain/llvm-project 97a699bf4812a18fb657c2779f5296a4ab2694d2)
 Target: aarch64-none-linux-android28
 Thread model: posix
 InstalledDir: /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin
  (in-process)
- "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang" -cc1 -triple aarch64-none-linux-android28 -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu generic -target-feature +v8a -target-feature +fp-armv8 -target-feature +neon -target-feature +fix-cortex-a53-835769 -target-abi aapcs -debug-info-kind=constructor -dwarf-version=4 -debugger-tuning=gdb -fdebug-compilation-dir=/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp -v -ffunction-sections -fdata-sections -fcoverage-compilation-dir=/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp -resource-dir /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19 -dependency-file CMakeFiles/cmTC_4c9cc.dir/CMakeCCompilerABI.c.o.d -MT CMakeFiles/cmTC_4c9cc.dir/CMakeCCompilerABI.c.o -sys-header-deps -D ANDROID -D _FORTIFY_SOURCE=2 -isysroot /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/local/include -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/include -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include -Wformat -ferror-limit 19 -femulated-tls -stack-protector 2 -fno-signed-char -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -target-feature +outline-atomics -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_4c9cc.dir/CMakeCCompilerABI.c.o -x c /home/codespace/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCCompilerABI.c
+ "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang" -cc1 -triple aarch64-none-linux-android28 -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu generic -target-feature +v8a -target-feature +fp-armv8 -target-feature +neon -target-feature +fix-cortex-a53-835769 -target-abi aapcs -debug-info-kind=constructor -dwarf-version=4 -debugger-tuning=gdb -fdebug-compilation-dir=/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp -v -ffunction-sections -fdata-sections -fcoverage-compilation-dir=/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp -resource-dir /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19 -dependency-file CMakeFiles/cmTC_c62bc.dir/CMakeCCompilerABI.c.o.d -MT CMakeFiles/cmTC_c62bc.dir/CMakeCCompilerABI.c.o -sys-header-deps -D ANDROID -D _FORTIFY_SOURCE=2 -isysroot /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/local/include -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/include -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include -Wformat -ferror-limit 19 -femulated-tls -stack-protector 2 -fno-signed-char -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -target-feature +outline-atomics -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_c62bc.dir/CMakeCCompilerABI.c.o -x c /home/codespace/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCCompilerABI.c
 clang -cc1 version 19.0.1 based upon LLVM 19.0.1 default target x86_64-unknown-linux-gnu
 ignoring nonexistent directory "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/local/include"
 ignoring nonexistent directory "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/include"
@@ -174,12 +174,12 @@ ignoring nonexistent directory "/home/codespace/Android/Sdk/ndk/28.2.13676358/to
  /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android
  /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include
 End of search list.
-[2/2] Linking C executable cmTC_4c9cc
+[2/2] Linking C executable cmTC_c62bc
 Android (13624864, +pgo, +bolt, +lto, +mlgo, based on r530567e) clang version 19.0.1 (https://android.googlesource.com/toolchain/llvm-project 97a699bf4812a18fb657c2779f5296a4ab2694d2)
 Target: aarch64-none-linux-android28
 Thread model: posix
 InstalledDir: /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin
- "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/ld.lld" --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -EL --fix-cortex-a53-843419 -z now -z relro -z max-page-size=16384 --hash-style=gnu --eh-frame-hdr -m aarch64linux -pie -dynamic-linker /system/bin/linker64 -o cmTC_4c9cc /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtbegin_dynamic.o -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/aarch64 -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28 -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib --build-id=sha1 --no-rosegment --no-undefined-version --fatal-warnings --no-undefined CMakeFiles/cmTC_4c9cc.dir/CMakeCCompilerABI.c.o /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl -lc /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtend_android.o
+ "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/ld.lld" --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -EL --fix-cortex-a53-843419 -z now -z relro -z max-page-size=16384 --hash-style=gnu --eh-frame-hdr -m aarch64linux -pie -dynamic-linker /system/bin/linker64 -o cmTC_c62bc /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtbegin_dynamic.o -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/aarch64 -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28 -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib --build-id=sha1 --no-rosegment --no-undefined-version --fatal-warnings --no-undefined CMakeFiles/cmTC_c62bc.dir/CMakeCCompilerABI.c.o /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl -lc /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtend_android.o
 
 
 
@@ -198,15 +198,15 @@ Parsed C implicit include dir info from above output: rv=done
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.lld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_4c9cc && [1/2] Building C object CMakeFiles/cmTC_4c9cc.dir/CMakeCCompilerABI.c.o]
+  ignore line: [Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_c62bc && [1/2] Building C object CMakeFiles/cmTC_c62bc.dir/CMakeCCompilerABI.c.o]
   ignore line: [Android (13624864  +pgo  +bolt  +lto  +mlgo  based on r530567e) clang version 19.0.1 (https://android.googlesource.com/toolchain/llvm-project 97a699bf4812a18fb657c2779f5296a4ab2694d2)]
   ignore line: [Target: aarch64-none-linux-android28]
   ignore line: [Thread model: posix]
   ignore line: [InstalledDir: /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin]
   ignore line: [ (in-process)]
-  ignore line: [ "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang" -cc1 -triple aarch64-none-linux-android28 -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu generic -target-feature +v8a -target-feature +fp-armv8 -target-feature +neon -target-feature +fix-cortex-a53-835769 -target-abi aapcs -debug-info-kind=constructor -dwarf-version=4 -debugger-tuning=gdb -fdebug-compilation-dir=/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp -v -ffunction-sections -fdata-sections -fcoverage-compilation-dir=/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp -resource-dir /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19 -dependency-file CMakeFiles/cmTC_4c9cc.dir/CMakeCCompilerABI.c.o.d -MT CMakeFiles/cmTC_4c9cc.dir/CMakeCCompilerABI.c.o -sys-header-deps -D ANDROID -D _FORTIFY_SOURCE=2 -isysroot /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/local/include -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/include -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include -Wformat -ferror-limit 19 -femulated-tls -stack-protector 2 -fno-signed-char -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -target-feature +outline-atomics -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_4c9cc.dir/CMakeCCompilerABI.c.o -x c /home/codespace/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCCompilerABI.c]
+  ignore line: [ "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang" -cc1 -triple aarch64-none-linux-android28 -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu generic -target-feature +v8a -target-feature +fp-armv8 -target-feature +neon -target-feature +fix-cortex-a53-835769 -target-abi aapcs -debug-info-kind=constructor -dwarf-version=4 -debugger-tuning=gdb -fdebug-compilation-dir=/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp -v -ffunction-sections -fdata-sections -fcoverage-compilation-dir=/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp -resource-dir /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19 -dependency-file CMakeFiles/cmTC_c62bc.dir/CMakeCCompilerABI.c.o.d -MT CMakeFiles/cmTC_c62bc.dir/CMakeCCompilerABI.c.o -sys-header-deps -D ANDROID -D _FORTIFY_SOURCE=2 -isysroot /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include -internal-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/local/include -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/include -internal-externc-isystem /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include -Wformat -ferror-limit 19 -femulated-tls -stack-protector 2 -fno-signed-char -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -target-feature +outline-atomics -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_c62bc.dir/CMakeCCompilerABI.c.o -x c /home/codespace/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCCompilerABI.c]
   ignore line: [clang -cc1 version 19.0.1 based upon LLVM 19.0.1 default target x86_64-unknown-linux-gnu]
   ignore line: [ignoring nonexistent directory "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/local/include"]
   ignore line: [ignoring nonexistent directory "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/include"]
@@ -216,12 +216,12 @@ Parsed C implicit link information from above output:
   ignore line: [ /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/aarch64-linux-android]
   ignore line: [ /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include]
   ignore line: [End of search list.]
-  ignore line: [[2/2] Linking C executable cmTC_4c9cc]
+  ignore line: [[2/2] Linking C executable cmTC_c62bc]
   ignore line: [Android (13624864  +pgo  +bolt  +lto  +mlgo  based on r530567e) clang version 19.0.1 (https://android.googlesource.com/toolchain/llvm-project 97a699bf4812a18fb657c2779f5296a4ab2694d2)]
   ignore line: [Target: aarch64-none-linux-android28]
   ignore line: [Thread model: posix]
   ignore line: [InstalledDir: /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin]
-  link line: [ "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/ld.lld" --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -EL --fix-cortex-a53-843419 -z now -z relro -z max-page-size=16384 --hash-style=gnu --eh-frame-hdr -m aarch64linux -pie -dynamic-linker /system/bin/linker64 -o cmTC_4c9cc /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtbegin_dynamic.o -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/aarch64 -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28 -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib --build-id=sha1 --no-rosegment --no-undefined-version --fatal-warnings --no-undefined CMakeFiles/cmTC_4c9cc.dir/CMakeCCompilerABI.c.o /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl -lc /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtend_android.o]
+  link line: [ "/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/ld.lld" --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -EL --fix-cortex-a53-843419 -z now -z relro -z max-page-size=16384 --hash-style=gnu --eh-frame-hdr -m aarch64linux -pie -dynamic-linker /system/bin/linker64 -o cmTC_c62bc /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtbegin_dynamic.o -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/aarch64 -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28 -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android -L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib --build-id=sha1 --no-rosegment --no-undefined-version --fatal-warnings --no-undefined CMakeFiles/cmTC_c62bc.dir/CMakeCCompilerABI.c.o /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl -lc /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtend_android.o]
     arg [/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/ld.lld] ==> ignore
     arg [--sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot] ==> ignore
     arg [-EL] ==> ignore
@@ -237,7 +237,7 @@ Parsed C implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/system/bin/linker64] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_4c9cc] ==> ignore
+    arg [cmTC_c62bc] ==> ignore
     arg [/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtbegin_dynamic.o] ==> obj [/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28/crtbegin_dynamic.o]
     arg [-L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/aarch64] ==> dir [/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/aarch64]
     arg [-L/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28] ==> dir [/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/28]
@@ -248,7 +248,7 @@ Parsed C implicit link information from above output:
     arg [--no-undefined-version] ==> ignore
     arg [--fatal-warnings] ==> ignore
     arg [--no-undefined] ==> ignore
-    arg [CMakeFiles/cmTC_4c9cc.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_c62bc.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a] ==> lib [/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/lib/linux/libclang_rt.builtins-aarch64-android.a]
     arg [-l:libunwind.a] ==> lib [-l:libunwind.a]
     arg [-ldl] ==> lib [dl]
@@ -270,92 +270,92 @@ Parsed C implicit link information from above output:
 
 
 Determining if the include file threads.h exists passed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_ca2bd && [1/2] Building C object CMakeFiles/cmTC_ca2bd.dir/CheckIncludeFile.c.o
-[2/2] Linking C executable cmTC_ca2bd
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_8fee4 && [1/2] Building C object CMakeFiles/cmTC_8fee4.dir/CheckIncludeFile.c.o
+[2/2] Linking C executable cmTC_8fee4
 
 
 
 Determining if the include file pthread.h exists passed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_4b96b && [1/2] Building C object CMakeFiles/cmTC_4b96b.dir/CheckIncludeFile.c.o
-[2/2] Linking C executable cmTC_4b96b
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_a1b51 && [1/2] Building C object CMakeFiles/cmTC_a1b51.dir/CheckIncludeFile.c.o
+[2/2] Linking C executable cmTC_a1b51
 
 
 
 Determining if the include file sys/mman.h exists passed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_6cd7a && [1/2] Building C object CMakeFiles/cmTC_6cd7a.dir/CheckIncludeFile.c.o
-[2/2] Linking C executable cmTC_6cd7a
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_32ad6 && [1/2] Building C object CMakeFiles/cmTC_32ad6.dir/CheckIncludeFile.c.o
+[2/2] Linking C executable cmTC_32ad6
 
 
 
 Determining if the include file sys/resource.h exists passed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_99e07 && [1/2] Building C object CMakeFiles/cmTC_99e07.dir/CheckIncludeFile.c.o
-[2/2] Linking C executable cmTC_99e07
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_21ca4 && [1/2] Building C object CMakeFiles/cmTC_21ca4.dir/CheckIncludeFile.c.o
+[2/2] Linking C executable cmTC_21ca4
 
 
 
 Determining if the include file sys/time.h exists passed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_52cbc && [1/2] Building C object CMakeFiles/cmTC_52cbc.dir/CheckIncludeFile.c.o
-[2/2] Linking C executable cmTC_52cbc
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_0f749 && [1/2] Building C object CMakeFiles/cmTC_0f749.dir/CheckIncludeFile.c.o
+[2/2] Linking C executable cmTC_0f749
 
 
 
 Determining if the include file sys/uio.h exists passed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_e51b2 && [1/2] Building C object CMakeFiles/cmTC_e51b2.dir/CheckIncludeFile.c.o
-[2/2] Linking C executable cmTC_e51b2
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_3fdb8 && [1/2] Building C object CMakeFiles/cmTC_3fdb8.dir/CheckIncludeFile.c.o
+[2/2] Linking C executable cmTC_3fdb8
 
 
 
 Determining if the include file unistd.h exists passed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_ffe93 && [1/2] Building C object CMakeFiles/cmTC_ffe93.dir/CheckIncludeFile.c.o
-[2/2] Linking C executable cmTC_ffe93
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_ad18b && [1/2] Building C object CMakeFiles/cmTC_ad18b.dir/CheckIncludeFile.c.o
+[2/2] Linking C executable cmTC_ad18b
 
 
 
 Determining if the function zlibVersion exists in the z passed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_db87b && [1/2] Building C object CMakeFiles/cmTC_db87b.dir/CheckFunctionExists.c.o
-[2/2] Linking C executable cmTC_db87b
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_a4482 && [1/2] Building C object CMakeFiles/cmTC_a4482.dir/CheckFunctionExists.c.o
+[2/2] Linking C executable cmTC_a4482
 
 
 
 Performing C++ SOURCE FILE Test SNAPPY_HAVE_NO_MISSING_FIELD_INITIALIZERS succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_eca31 && [1/2] Building CXX object CMakeFiles/cmTC_eca31.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_eca31
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_bd4ba && [1/2] Building CXX object CMakeFiles/cmTC_bd4ba.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_bd4ba
 
 
 Source file was:
 int main() { return 0; }
 Performing C++ SOURCE FILE Test SNAPPY_HAVE_NO_IMPLICIT_INT_FLOAT_CONVERSION succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_555a3 && [1/2] Building CXX object CMakeFiles/cmTC_555a3.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_555a3
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_9d690 && [1/2] Building CXX object CMakeFiles/cmTC_9d690.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_9d690
 
 
 Source file was:
 int main() { return 0; }
 Performing C++ SOURCE FILE Test HAVE_BUILTIN_EXPECT succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_d5ece && [1/2] Building CXX object CMakeFiles/cmTC_d5ece.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_d5ece
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_8b258 && [1/2] Building CXX object CMakeFiles/cmTC_8b258.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_8b258
 
 
 Source file was:
@@ -364,10 +364,10 @@ int main() {
   return __builtin_expect(0, 1);
 }
 Performing C++ SOURCE FILE Test HAVE_BUILTIN_CTZ succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_4858f && [1/2] Building CXX object CMakeFiles/cmTC_4858f.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_4858f
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_a58e3 && [1/2] Building CXX object CMakeFiles/cmTC_a58e3.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_a58e3
 
 
 Source file was:
@@ -376,10 +376,10 @@ int main() {
   return __builtin_ctzll(0);
 }
 Performing C++ SOURCE FILE Test HAVE_BUILTIN_PREFETCH succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_81bf8 && [1/2] Building CXX object CMakeFiles/cmTC_81bf8.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_81bf8
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_6c0a0 && [1/2] Building CXX object CMakeFiles/cmTC_6c0a0.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_6c0a0
 
 
 Source file was:
@@ -389,10 +389,10 @@ int main() {
   return 0;
 }
 Performing C++ SOURCE FILE Test HAVE_ATTRIBUTE_ALWAYS_INLINE succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_dd7dc && [1/2] Building CXX object CMakeFiles/cmTC_dd7dc.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_dd7dc
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_1c43c && [1/2] Building CXX object CMakeFiles/cmTC_1c43c.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_1c43c
 
 
 Source file was:
@@ -403,10 +403,10 @@ int main() {
   return zero();
 }
 Performing C++ SOURCE FILE Test SNAPPY_HAVE_NEON succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_5a601 && [1/2] Building CXX object CMakeFiles/cmTC_5a601.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_5a601
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_8abb6 && [1/2] Building CXX object CMakeFiles/cmTC_8abb6.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_8abb6
 
 
 Source file was:
@@ -422,13 +422,13 @@ int main() {
   return 0;
 }
 Determining if the mmap exist passed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_115a3 && [1/2] Building C object CMakeFiles/cmTC_115a3.dir/CheckSymbolExists.c.o
-[2/2] Linking C executable cmTC_115a3
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_fc441 && [1/2] Building C object CMakeFiles/cmTC_fc441.dir/CheckSymbolExists.c.o
+[2/2] Linking C executable cmTC_fc441
 
 
-File /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+File /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
 #include <sys/mman.h>
 
@@ -443,13 +443,13 @@ int main(int argc, char** argv)
 #endif
 }
 Determining if the sysconf exist passed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_51823 && [1/2] Building C object CMakeFiles/cmTC_51823.dir/CheckSymbolExists.c.o
-[2/2] Linking C executable cmTC_51823
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_6a3ff && [1/2] Building C object CMakeFiles/cmTC_6a3ff.dir/CheckSymbolExists.c.o
+[2/2] Linking C executable cmTC_6a3ff
 
 
-File /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+File /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
 #include <unistd.h>
 
@@ -469,180 +469,180 @@ Target: x86_64-unknown-linux-gnu
 Thread model: posix
 InstalledDir: /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin
 Performing C SOURCE FILE Test C_FLAG_WALL succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_51424 && [1/2] Building C object CMakeFiles/cmTC_51424.dir/src.c.o
-[2/2] Linking C executable cmTC_51424
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_f004f && [1/2] Building C object CMakeFiles/cmTC_f004f.dir/src.c.o
+[2/2] Linking C executable cmTC_f004f
 
 
 Source file was:
 int main(void) { return 0; }
 Performing C++ SOURCE FILE Test CXX_FLAG_WALL succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_132bc && [1/2] Building CXX object CMakeFiles/cmTC_132bc.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_132bc
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_935bf && [1/2] Building CXX object CMakeFiles/cmTC_935bf.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_935bf
 
 
 Source file was:
 int main() { return 0; }
 Performing C SOURCE FILE Test C_FLAG_WEXTRA succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_867c5 && [1/2] Building C object CMakeFiles/cmTC_867c5.dir/src.c.o
-[2/2] Linking C executable cmTC_867c5
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_617d0 && [1/2] Building C object CMakeFiles/cmTC_617d0.dir/src.c.o
+[2/2] Linking C executable cmTC_617d0
 
 
 Source file was:
 int main(void) { return 0; }
 Performing C++ SOURCE FILE Test CXX_FLAG_WEXTRA succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_48935 && [1/2] Building CXX object CMakeFiles/cmTC_48935.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_48935
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_80461 && [1/2] Building CXX object CMakeFiles/cmTC_80461.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_80461
 
 
 Source file was:
 int main() { return 0; }
 Performing C SOURCE FILE Test C_FLAG_WUNDEF succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_3edf4 && [1/2] Building C object CMakeFiles/cmTC_3edf4.dir/src.c.o
-[2/2] Linking C executable cmTC_3edf4
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_fc534 && [1/2] Building C object CMakeFiles/cmTC_fc534.dir/src.c.o
+[2/2] Linking C executable cmTC_fc534
 
 
 Source file was:
 int main(void) { return 0; }
 Performing C++ SOURCE FILE Test CXX_FLAG_WUNDEF succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_eed60 && [1/2] Building CXX object CMakeFiles/cmTC_eed60.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_eed60
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_5ffdf && [1/2] Building CXX object CMakeFiles/cmTC_5ffdf.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_5ffdf
 
 
 Source file was:
 int main() { return 0; }
 Performing C SOURCE FILE Test C_FLAG_WSHADOW succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_9758b && [1/2] Building C object CMakeFiles/cmTC_9758b.dir/src.c.o
-[2/2] Linking C executable cmTC_9758b
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_26e1a && [1/2] Building C object CMakeFiles/cmTC_26e1a.dir/src.c.o
+[2/2] Linking C executable cmTC_26e1a
 
 
 Source file was:
 int main(void) { return 0; }
 Performing C++ SOURCE FILE Test CXX_FLAG_WSHADOW succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_d5732 && [1/2] Building CXX object CMakeFiles/cmTC_d5732.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_d5732
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_85bba && [1/2] Building CXX object CMakeFiles/cmTC_85bba.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_85bba
 
 
 Source file was:
 int main() { return 0; }
 Performing C SOURCE FILE Test C_FLAG_WCAST_ALIGN succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_c2751 && [1/2] Building C object CMakeFiles/cmTC_c2751.dir/src.c.o
-[2/2] Linking C executable cmTC_c2751
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_b4b6b && [1/2] Building C object CMakeFiles/cmTC_b4b6b.dir/src.c.o
+[2/2] Linking C executable cmTC_b4b6b
 
 
 Source file was:
 int main(void) { return 0; }
 Performing C++ SOURCE FILE Test CXX_FLAG_WCAST_ALIGN succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_ce1a6 && [1/2] Building CXX object CMakeFiles/cmTC_ce1a6.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_ce1a6
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_7757f && [1/2] Building CXX object CMakeFiles/cmTC_7757f.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_7757f
 
 
 Source file was:
 int main() { return 0; }
 Performing C SOURCE FILE Test C_FLAG_WCAST_QUAL succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_d6d7d && [1/2] Building C object CMakeFiles/cmTC_d6d7d.dir/src.c.o
-[2/2] Linking C executable cmTC_d6d7d
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_38c96 && [1/2] Building C object CMakeFiles/cmTC_38c96.dir/src.c.o
+[2/2] Linking C executable cmTC_38c96
 
 
 Source file was:
 int main(void) { return 0; }
 Performing C++ SOURCE FILE Test CXX_FLAG_WCAST_QUAL succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_f0358 && [1/2] Building CXX object CMakeFiles/cmTC_f0358.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_f0358
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_8dc51 && [1/2] Building CXX object CMakeFiles/cmTC_8dc51.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_8dc51
 
 
 Source file was:
 int main() { return 0; }
 Performing C SOURCE FILE Test C_FLAG_WSTRICT_PROTOTYPES succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_c078e && [1/2] Building C object CMakeFiles/cmTC_c078e.dir/src.c.o
-[2/2] Linking C executable cmTC_c078e
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_c6b1c && [1/2] Building C object CMakeFiles/cmTC_c6b1c.dir/src.c.o
+[2/2] Linking C executable cmTC_c6b1c
 
 
 Source file was:
 int main(void) { return 0; }
 Performing C SOURCE FILE Test LD_FLAG_WL_Z_NOEXECSTACK succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_ffa7f && [1/2] Building C object CMakeFiles/cmTC_ffa7f.dir/src.c.o
-/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.c:1:9: warning: a function declaration without a prototype is deprecated in all versions of C [-Wstrict-prototypes]
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_acba0 && [1/2] Building C object CMakeFiles/cmTC_acba0.dir/src.c.o
+/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.c:1:9: warning: a function declaration without a prototype is deprecated in all versions of C [-Wstrict-prototypes]
     1 | int main() { return 0; }
       |         ^
       |          void
 1 warning generated.
-[2/2] Linking C executable cmTC_ffa7f
+[2/2] Linking C executable cmTC_acba0
 
 
 Source file was:
 int main() { return 0; }
 Performing C SOURCE FILE Test C_FLAG_QUNUSED_ARGUMENTS succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_f5bff && [1/2] Building C object CMakeFiles/cmTC_f5bff.dir/src.c.o
-[2/2] Linking C executable cmTC_f5bff
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_782bb && [1/2] Building C object CMakeFiles/cmTC_782bb.dir/src.c.o
+[2/2] Linking C executable cmTC_782bb
 
 
 Source file was:
 int main(void) { return 0; }
 Performing C++ SOURCE FILE Test CXX_FLAG_QUNUSED_ARGUMENTS succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_47c40 && [1/2] Building CXX object CMakeFiles/cmTC_47c40.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_47c40
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_d0a2f && [1/2] Building CXX object CMakeFiles/cmTC_d0a2f.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_d0a2f
 
 
 Source file was:
 int main() { return 0; }
 Performing C SOURCE FILE Test C_FLAG_WA_NOEXECSTACK succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_6ed56 && [1/2] Building C object CMakeFiles/cmTC_6ed56.dir/src.c.o
-[2/2] Linking C executable cmTC_6ed56
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_16abc && [1/2] Building C object CMakeFiles/cmTC_16abc.dir/src.c.o
+[2/2] Linking C executable cmTC_16abc
 
 
 Source file was:
 int main(void) { return 0; }
 Performing C++ SOURCE FILE Test CXX_FLAG_WA_NOEXECSTACK succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_7c555 && [1/2] Building CXX object CMakeFiles/cmTC_7c555.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_7c555
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_1827c && [1/2] Building CXX object CMakeFiles/cmTC_1827c.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_1827c
 
 
 Source file was:
 int main() { return 0; }
 Determining if the fdatasync exist passed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_49704 && [1/2] Building CXX object CMakeFiles/cmTC_49704.dir/CheckSymbolExists.cxx.o
-[2/2] Linking CXX executable cmTC_49704
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_da96c && [1/2] Building CXX object CMakeFiles/cmTC_da96c.dir/CheckSymbolExists.cxx.o
+[2/2] Linking CXX executable cmTC_da96c
 
 
-File /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+File /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
 /* */
 #include <unistd.h>
 
@@ -657,13 +657,13 @@ int main(int argc, char** argv)
 #endif
 }
 Determining if the O_CLOEXEC exist passed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_def9d && [1/2] Building CXX object CMakeFiles/cmTC_def9d.dir/CheckSymbolExists.cxx.o
-[2/2] Linking CXX executable cmTC_def9d
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_202d1 && [1/2] Building CXX object CMakeFiles/cmTC_202d1.dir/CheckSymbolExists.cxx.o
+[2/2] Linking CXX executable cmTC_202d1
 
 
-File /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+File /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
 /* */
 #include <fcntl.h>
 
@@ -678,28 +678,28 @@ int main(int argc, char** argv)
 #endif
 }
 Performing C++ SOURCE FILE Test HAVE_CLANG_THREAD_SAFETY succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_36f64 && [1/2] Building CXX object CMakeFiles/cmTC_36f64.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_36f64
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_48fb7 && [1/2] Building CXX object CMakeFiles/cmTC_48fb7.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_48fb7
 
 
 Source file was:
 int main() { return 0; }
 Performing C++ SOURCE FILE Test LEVELDB_HAVE_NO_MISSING_FIELD_INITIALIZERS succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_06b03 && [1/2] Building CXX object CMakeFiles/cmTC_06b03.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_06b03
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_71a3f && [1/2] Building CXX object CMakeFiles/cmTC_71a3f.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_71a3f
 
 
 Source file was:
 int main() { return 0; }
 Performing C++ SOURCE FILE Test HAVE_CXX17_HAS_INCLUDE succeeded with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_18b0a && [1/2] Building CXX object CMakeFiles/cmTC_18b0a.dir/src.cxx.o
-[2/2] Linking CXX executable cmTC_18b0a
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_24501 && [1/2] Building CXX object CMakeFiles/cmTC_24501.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_24501
 
 
 Source file was:

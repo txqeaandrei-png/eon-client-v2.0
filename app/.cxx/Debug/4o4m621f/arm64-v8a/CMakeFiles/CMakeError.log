@@ -1,13 +1,13 @@
 Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_68993 && [1/2] Building C object CMakeFiles/cmTC_68993.dir/src.c.o
-FAILED: CMakeFiles/cmTC_68993.dir/src.c.o 
-/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DCMAKE_HAVE_LIBC_PTHREAD  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fPIE -MD -MT CMakeFiles/cmTC_68993.dir/src.c.o -MF CMakeFiles/cmTC_68993.dir/src.c.o.d -o CMakeFiles/cmTC_68993.dir/src.c.o -c /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.c
-/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.c:13:3: error: call to undeclared function 'pthread_cancel'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_dd9a9 && [1/2] Building C object CMakeFiles/cmTC_dd9a9.dir/src.c.o
+FAILED: CMakeFiles/cmTC_dd9a9.dir/src.c.o 
+/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DCMAKE_HAVE_LIBC_PTHREAD  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fPIE -MD -MT CMakeFiles/cmTC_dd9a9.dir/src.c.o -MF CMakeFiles/cmTC_dd9a9.dir/src.c.o.d -o CMakeFiles/cmTC_dd9a9.dir/src.c.o -c /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.c
+/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.c:13:3: error: call to undeclared function 'pthread_cancel'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
    13 |   pthread_cancel(thread);
       |   ^
-/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.c:13:3: note: did you mean 'pthread_once'?
+/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.c:13:3: note: did you mean 'pthread_once'?
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/pthread.h:250:5: note: 'pthread_once' declared here
   250 | int pthread_once(pthread_once_t* _Nonnull __once, void (* _Nonnull __init_routine)(void));
       |     ^
@@ -37,12 +37,12 @@ int main(void)
 }
 
 Determining if the function pthread_create exists in the pthreads failed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_a4c14 && [1/2] Building C object CMakeFiles/cmTC_a4c14.dir/CheckFunctionExists.c.o
-[2/2] Linking C executable cmTC_a4c14
-FAILED: cmTC_a4c14 
-: && /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DCHECK_FUNCTION_EXISTS=pthread_create -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments CMakeFiles/cmTC_a4c14.dir/CheckFunctionExists.c.o -o cmTC_a4c14  -lpthreads  -latomic -lm && :
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_230ef && [1/2] Building C object CMakeFiles/cmTC_230ef.dir/CheckFunctionExists.c.o
+[2/2] Linking C executable cmTC_230ef
+FAILED: cmTC_230ef 
+: && /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DCHECK_FUNCTION_EXISTS=pthread_create -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments CMakeFiles/cmTC_230ef.dir/CheckFunctionExists.c.o -o cmTC_230ef  -lpthreads  -latomic -lm && :
 ld.lld: error: unable to find library -lpthreads
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 ninja: build stopped: subcommand failed.
@@ -50,12 +50,12 @@ ninja: build stopped: subcommand failed.
 
 
 Determining if the function pthread_create exists in the pthread failed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_2b4af && [1/2] Building C object CMakeFiles/cmTC_2b4af.dir/CheckFunctionExists.c.o
-[2/2] Linking C executable cmTC_2b4af
-FAILED: cmTC_2b4af 
-: && /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DCHECK_FUNCTION_EXISTS=pthread_create -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments CMakeFiles/cmTC_2b4af.dir/CheckFunctionExists.c.o -o cmTC_2b4af  -lpthread  -latomic -lm && :
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_dfe87 && [1/2] Building C object CMakeFiles/cmTC_dfe87.dir/CheckFunctionExists.c.o
+[2/2] Linking C executable cmTC_dfe87
+FAILED: cmTC_dfe87 
+: && /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DCHECK_FUNCTION_EXISTS=pthread_create -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments CMakeFiles/cmTC_dfe87.dir/CheckFunctionExists.c.o -o cmTC_dfe87  -lpthread  -latomic -lm && :
 ld.lld: error: unable to find library -lpthread
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 ninja: build stopped: subcommand failed.
@@ -63,12 +63,12 @@ ninja: build stopped: subcommand failed.
 
 
 Determining if the include file windows.h exists failed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_c448e && [1/2] Building C object CMakeFiles/cmTC_c448e.dir/CheckIncludeFile.c.o
-FAILED: CMakeFiles/cmTC_c448e.dir/CheckIncludeFile.c.o 
-/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fPIE -MD -MT CMakeFiles/cmTC_c448e.dir/CheckIncludeFile.c.o -MF CMakeFiles/cmTC_c448e.dir/CheckIncludeFile.c.o.d -o CMakeFiles/cmTC_c448e.dir/CheckIncludeFile.c.o -c /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'windows.h' file not found
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_c8dea && [1/2] Building C object CMakeFiles/cmTC_c8dea.dir/CheckIncludeFile.c.o
+FAILED: CMakeFiles/cmTC_c8dea.dir/CheckIncludeFile.c.o 
+/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fPIE -MD -MT CMakeFiles/cmTC_c8dea.dir/CheckIncludeFile.c.o -MF CMakeFiles/cmTC_c8dea.dir/CheckIncludeFile.c.o.d -o CMakeFiles/cmTC_c8dea.dir/CheckIncludeFile.c.o -c /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'windows.h' file not found
     1 | #include <windows.h>
       |          ^~~~~~~~~~~
 1 error generated.
@@ -77,12 +77,12 @@ ninja: build stopped: subcommand failed.
 
 
 Determining if the function lzo1x_1_15_compress exists in the lzo2 failed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_4bef1 && [1/2] Building C object CMakeFiles/cmTC_4bef1.dir/CheckFunctionExists.c.o
-[2/2] Linking C executable cmTC_4bef1
-FAILED: cmTC_4bef1 
-: && /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DCHECK_FUNCTION_EXISTS=lzo1x_1_15_compress -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments CMakeFiles/cmTC_4bef1.dir/CheckFunctionExists.c.o -o cmTC_4bef1  -llzo2  -latomic -lm && :
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_458d3 && [1/2] Building C object CMakeFiles/cmTC_458d3.dir/CheckFunctionExists.c.o
+[2/2] Linking C executable cmTC_458d3
+FAILED: cmTC_458d3 
+: && /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DCHECK_FUNCTION_EXISTS=lzo1x_1_15_compress -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments CMakeFiles/cmTC_458d3.dir/CheckFunctionExists.c.o -o cmTC_458d3  -llzo2  -latomic -lm && :
 ld.lld: error: unable to find library -llzo2
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 ninja: build stopped: subcommand failed.
@@ -90,12 +90,12 @@ ninja: build stopped: subcommand failed.
 
 
 Determining if the function LZ4_compress_default exists in the lz4 failed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_4ab4f && [1/2] Building C object CMakeFiles/cmTC_4ab4f.dir/CheckFunctionExists.c.o
-[2/2] Linking C executable cmTC_4ab4f
-FAILED: cmTC_4ab4f 
-: && /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DCHECK_FUNCTION_EXISTS=LZ4_compress_default -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments CMakeFiles/cmTC_4ab4f.dir/CheckFunctionExists.c.o -o cmTC_4ab4f  -llz4  -latomic -lm && :
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_a78dc && [1/2] Building C object CMakeFiles/cmTC_a78dc.dir/CheckFunctionExists.c.o
+[2/2] Linking C executable cmTC_a78dc
+FAILED: cmTC_a78dc 
+: && /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DCHECK_FUNCTION_EXISTS=LZ4_compress_default -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments CMakeFiles/cmTC_a78dc.dir/CheckFunctionExists.c.o -o cmTC_a78dc  -llz4  -latomic -lm && :
 ld.lld: error: unable to find library -llz4
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 ninja: build stopped: subcommand failed.
@@ -103,11 +103,11 @@ ninja: build stopped: subcommand failed.
 
 
 Performing C++ SOURCE FILE Test HAVE_VISUAL_STUDIO_ARCH_AVX failed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_e7927 && [1/2] Building CXX object CMakeFiles/cmTC_e7927.dir/src.cxx.o
-FAILED: CMakeFiles/cmTC_e7927.dir/src.cxx.o 
-/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DHAVE_VISUAL_STUDIO_ARCH_AVX  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -Wall -Wextra -Wno-sign-compare -fno-exceptions -fno-rtti  -fPIE   /arch:AVX -std=c++11 -MD -MT CMakeFiles/cmTC_e7927.dir/src.cxx.o -MF CMakeFiles/cmTC_e7927.dir/src.cxx.o.d -o CMakeFiles/cmTC_e7927.dir/src.cxx.o -c /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_69aa4 && [1/2] Building CXX object CMakeFiles/cmTC_69aa4.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_69aa4.dir/src.cxx.o 
+/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DHAVE_VISUAL_STUDIO_ARCH_AVX  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -Wall -Wextra -Wno-sign-compare -fno-exceptions -fno-rtti  -fPIE   /arch:AVX -std=c++11 -MD -MT CMakeFiles/cmTC_69aa4.dir/src.cxx.o -MF CMakeFiles/cmTC_69aa4.dir/src.cxx.o.d -o CMakeFiles/cmTC_69aa4.dir/src.cxx.o -c /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx
 clang++: error: no such file or directory: '/arch:AVX'
 ninja: build stopped: subcommand failed.
 
@@ -115,11 +115,11 @@ ninja: build stopped: subcommand failed.
 Source file was:
 int main() { return 0; }
 Performing C++ SOURCE FILE Test HAVE_VISUAL_STUDIO_ARCH_AVX2 failed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_0fdc0 && [1/2] Building CXX object CMakeFiles/cmTC_0fdc0.dir/src.cxx.o
-FAILED: CMakeFiles/cmTC_0fdc0.dir/src.cxx.o 
-/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DHAVE_VISUAL_STUDIO_ARCH_AVX2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -Wall -Wextra -Wno-sign-compare -fno-exceptions -fno-rtti  -fPIE   /arch:AVX2 -std=c++11 -MD -MT CMakeFiles/cmTC_0fdc0.dir/src.cxx.o -MF CMakeFiles/cmTC_0fdc0.dir/src.cxx.o.d -o CMakeFiles/cmTC_0fdc0.dir/src.cxx.o -c /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_575ab && [1/2] Building CXX object CMakeFiles/cmTC_575ab.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_575ab.dir/src.cxx.o 
+/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DHAVE_VISUAL_STUDIO_ARCH_AVX2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -Wall -Wextra -Wno-sign-compare -fno-exceptions -fno-rtti  -fPIE   /arch:AVX2 -std=c++11 -MD -MT CMakeFiles/cmTC_575ab.dir/src.cxx.o -MF CMakeFiles/cmTC_575ab.dir/src.cxx.o.d -o CMakeFiles/cmTC_575ab.dir/src.cxx.o -c /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx
 clang++: error: no such file or directory: '/arch:AVX2'
 ninja: build stopped: subcommand failed.
 
@@ -127,11 +127,11 @@ ninja: build stopped: subcommand failed.
 Source file was:
 int main() { return 0; }
 Performing C++ SOURCE FILE Test HAVE_CLANG_MAVX failed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_b7a23 && [1/2] Building CXX object CMakeFiles/cmTC_b7a23.dir/src.cxx.o
-FAILED: CMakeFiles/cmTC_b7a23.dir/src.cxx.o 
-/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DHAVE_CLANG_MAVX  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -Wall -Wextra -Wno-sign-compare -fno-exceptions -fno-rtti  -fPIE   -mavx -std=c++11 -MD -MT CMakeFiles/cmTC_b7a23.dir/src.cxx.o -MF CMakeFiles/cmTC_b7a23.dir/src.cxx.o.d -o CMakeFiles/cmTC_b7a23.dir/src.cxx.o -c /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_c43df && [1/2] Building CXX object CMakeFiles/cmTC_c43df.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_c43df.dir/src.cxx.o 
+/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DHAVE_CLANG_MAVX  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -Wall -Wextra -Wno-sign-compare -fno-exceptions -fno-rtti  -fPIE   -mavx -std=c++11 -MD -MT CMakeFiles/cmTC_c43df.dir/src.cxx.o -MF CMakeFiles/cmTC_c43df.dir/src.cxx.o.d -o CMakeFiles/cmTC_c43df.dir/src.cxx.o -c /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx
 clang++: error: unsupported option '-mavx' for target 'aarch64-none-linux-android28'
 ninja: build stopped: subcommand failed.
 
@@ -139,11 +139,11 @@ ninja: build stopped: subcommand failed.
 Source file was:
 int main() { return 0; }
 Performing C++ SOURCE FILE Test HAVE_CLANG_MBMI2 failed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_bd5a6 && [1/2] Building CXX object CMakeFiles/cmTC_bd5a6.dir/src.cxx.o
-FAILED: CMakeFiles/cmTC_bd5a6.dir/src.cxx.o 
-/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DHAVE_CLANG_MBMI2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -Wall -Wextra -Wno-sign-compare -fno-exceptions -fno-rtti  -fPIE   -mbmi2 -std=c++11 -MD -MT CMakeFiles/cmTC_bd5a6.dir/src.cxx.o -MF CMakeFiles/cmTC_bd5a6.dir/src.cxx.o.d -o CMakeFiles/cmTC_bd5a6.dir/src.cxx.o -c /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_454a4 && [1/2] Building CXX object CMakeFiles/cmTC_454a4.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_454a4.dir/src.cxx.o 
+/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DHAVE_CLANG_MBMI2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -Wall -Wextra -Wno-sign-compare -fno-exceptions -fno-rtti  -fPIE   -mbmi2 -std=c++11 -MD -MT CMakeFiles/cmTC_454a4.dir/src.cxx.o -MF CMakeFiles/cmTC_454a4.dir/src.cxx.o.d -o CMakeFiles/cmTC_454a4.dir/src.cxx.o -c /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx
 clang++: error: unsupported option '-mbmi2' for target 'aarch64-none-linux-android28'
 ninja: build stopped: subcommand failed.
 
@@ -151,34 +151,34 @@ ninja: build stopped: subcommand failed.
 Source file was:
 int main() { return 0; }
 Performing C++ SOURCE FILE Test SNAPPY_HAVE_SSSE3 failed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_819e3 && [1/2] Building CXX object CMakeFiles/cmTC_819e3.dir/src.cxx.o
-FAILED: CMakeFiles/cmTC_819e3.dir/src.cxx.o 
-/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DSNAPPY_HAVE_SSSE3  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -Wall -Wextra -Wno-sign-compare -fno-exceptions -fno-rtti  -fPIE -std=c++11 -MD -MT CMakeFiles/cmTC_819e3.dir/src.cxx.o -MF CMakeFiles/cmTC_819e3.dir/src.cxx.o.d -o CMakeFiles/cmTC_819e3.dir/src.cxx.o -c /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx
-In file included from /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_f9d06 && [1/2] Building CXX object CMakeFiles/cmTC_f9d06.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_f9d06.dir/src.cxx.o 
+/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DSNAPPY_HAVE_SSSE3  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -Wall -Wextra -Wno-sign-compare -fno-exceptions -fno-rtti  -fPIE -std=c++11 -MD -MT CMakeFiles/cmTC_f9d06.dir/src.cxx.o -MF CMakeFiles/cmTC_f9d06.dir/src.cxx.o.d -o CMakeFiles/cmTC_f9d06.dir/src.cxx.o -c /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx
+In file included from /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/tmmintrin.h:14:2: error: "This header is only meant to be used on x86 and x64 architecture"
    14 | #error "This header is only meant to be used on x86 and x64 architecture"
       |  ^
-In file included from /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
+In file included from /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/tmmintrin.h:17:
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/pmmintrin.h:14:2: error: "This header is only meant to be used on x86 and x64 architecture"
    14 | #error "This header is only meant to be used on x86 and x64 architecture"
       |  ^
-In file included from /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
+In file included from /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/tmmintrin.h:17:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/pmmintrin.h:17:
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/emmintrin.h:14:2: error: "This header is only meant to be used on x86 and x64 architecture"
    14 | #error "This header is only meant to be used on x86 and x64 architecture"
       |  ^
-In file included from /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
+In file included from /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/tmmintrin.h:17:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/pmmintrin.h:17:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/emmintrin.h:17:
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/xmmintrin.h:14:2: error: "This header is only meant to be used on x86 and x64 architecture"
    14 | #error "This header is only meant to be used on x86 and x64 architecture"
       |  ^
-In file included from /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
+In file included from /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/tmmintrin.h:17:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/pmmintrin.h:17:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/emmintrin.h:17:
@@ -248,22 +248,22 @@ int main() {
   return 0;
 }
 Performing C++ SOURCE FILE Test SNAPPY_HAVE_X86_CRC32 failed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_2098c && [1/2] Building CXX object CMakeFiles/cmTC_2098c.dir/src.cxx.o
-FAILED: CMakeFiles/cmTC_2098c.dir/src.cxx.o 
-/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DSNAPPY_HAVE_X86_CRC32  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -Wall -Wextra -Wno-sign-compare -fno-exceptions -fno-rtti  -fPIE -std=c++11 -MD -MT CMakeFiles/cmTC_2098c.dir/src.cxx.o -MF CMakeFiles/cmTC_2098c.dir/src.cxx.o.d -o CMakeFiles/cmTC_2098c.dir/src.cxx.o -c /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx
-In file included from /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_53861 && [1/2] Building CXX object CMakeFiles/cmTC_53861.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_53861.dir/src.cxx.o 
+/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DSNAPPY_HAVE_X86_CRC32  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -Wall -Wextra -Wno-sign-compare -fno-exceptions -fno-rtti  -fPIE -std=c++11 -MD -MT CMakeFiles/cmTC_53861.dir/src.cxx.o -MF CMakeFiles/cmTC_53861.dir/src.cxx.o.d -o CMakeFiles/cmTC_53861.dir/src.cxx.o -c /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx
+In file included from /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/immintrin.h:14:2: error: "This header is only meant to be used on x86 and x64 architecture"
    14 | #error "This header is only meant to be used on x86 and x64 architecture"
       |  ^
-In file included from /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
+In file included from /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/immintrin.h:17:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/x86gprintrin.h:15:
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/hresetintrin.h:42:27: error: invalid input constraint 'a' in asm
    42 |   __asm__ ("hreset $0" :: "a"(__eax));
       |                           ^
-In file included from /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
+In file included from /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/immintrin.h:17:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/x86gprintrin.h:30:
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/crc32intrin.h:33:10: error: use of undeclared identifier '__builtin_ia32_crc32qi'
@@ -276,7 +276,7 @@ In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/l
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/crc32intrin.h:73:10: error: use of undeclared identifier '__builtin_ia32_crc32si'
    73 |   return __builtin_ia32_crc32si(__C, __D);
       |          ^
-In file included from /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
+In file included from /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/immintrin.h:17:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/x86gprintrin.h:40:
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/raointintrin.h:39:3: error: use of undeclared identifier '__builtin_ia32_aadd32'; did you mean '__builtin_arm_addg'?
@@ -295,7 +295,7 @@ In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/l
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/raointintrin.h:105:3: error: use of undeclared identifier '__builtin_ia32_axor32'
   105 |   __builtin_ia32_axor32((int *)__A, __B);
       |   ^
-In file included from /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
+In file included from /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/immintrin.h:21:
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/mmintrin.h:14:2: error: "This header is only meant to be used on x86 and x64 architecture"
    14 | #error "This header is only meant to be used on x86 and x64 architecture"
@@ -337,12 +337,12 @@ int main() {
   return _mm_crc32_u32(0, 1);
 }
 Performing C++ SOURCE FILE Test SNAPPY_HAVE_NEON_CRC32 failed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_de4ba && [1/2] Building CXX object CMakeFiles/cmTC_de4ba.dir/src.cxx.o
-FAILED: CMakeFiles/cmTC_de4ba.dir/src.cxx.o 
-/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DSNAPPY_HAVE_NEON_CRC32  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -Wall -Wextra -Wno-sign-compare -fno-exceptions -fno-rtti  -fPIE -std=c++11 -MD -MT CMakeFiles/cmTC_de4ba.dir/src.cxx.o -MF CMakeFiles/cmTC_de4ba.dir/src.cxx.o.d -o CMakeFiles/cmTC_de4ba.dir/src.cxx.o -c /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx
-/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:5:10: error: always_inline function '__crc32cw' requires target feature 'crc', but would be inlined into function 'main' that is compiled without support for 'crc'
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_27b1c && [1/2] Building CXX object CMakeFiles/cmTC_27b1c.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_27b1c.dir/src.cxx.o 
+/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DSNAPPY_HAVE_NEON_CRC32  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -Wall -Wextra -Wno-sign-compare -fno-exceptions -fno-rtti  -fPIE -std=c++11 -MD -MT CMakeFiles/cmTC_27b1c.dir/src.cxx.o -MF CMakeFiles/cmTC_27b1c.dir/src.cxx.o.d -o CMakeFiles/cmTC_27b1c.dir/src.cxx.o -c /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx
+/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:5:10: error: always_inline function '__crc32cw' requires target feature 'crc', but would be inlined into function 'main' that is compiled without support for 'crc'
     5 |   return __crc32cw(0, 1);
       |          ^
 1 error generated.
@@ -357,22 +357,22 @@ int main() {
   return __crc32cw(0, 1);
 }
 Performing C++ SOURCE FILE Test SNAPPY_HAVE_BMI2 failed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_83ab8 && [1/2] Building CXX object CMakeFiles/cmTC_83ab8.dir/src.cxx.o
-FAILED: CMakeFiles/cmTC_83ab8.dir/src.cxx.o 
-/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DSNAPPY_HAVE_BMI2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -Wall -Wextra -Wno-sign-compare -fno-exceptions -fno-rtti  -fPIE -std=c++11 -MD -MT CMakeFiles/cmTC_83ab8.dir/src.cxx.o -MF CMakeFiles/cmTC_83ab8.dir/src.cxx.o.d -o CMakeFiles/cmTC_83ab8.dir/src.cxx.o -c /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx
-In file included from /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_c93fd && [1/2] Building CXX object CMakeFiles/cmTC_c93fd.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_c93fd.dir/src.cxx.o 
+/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DSNAPPY_HAVE_BMI2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -Wall -Wextra -Wno-sign-compare -fno-exceptions -fno-rtti  -fPIE -std=c++11 -MD -MT CMakeFiles/cmTC_c93fd.dir/src.cxx.o -MF CMakeFiles/cmTC_c93fd.dir/src.cxx.o.d -o CMakeFiles/cmTC_c93fd.dir/src.cxx.o -c /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx
+In file included from /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/immintrin.h:14:2: error: "This header is only meant to be used on x86 and x64 architecture"
    14 | #error "This header is only meant to be used on x86 and x64 architecture"
       |  ^
-In file included from /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
+In file included from /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/immintrin.h:17:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/x86gprintrin.h:15:
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/hresetintrin.h:42:27: error: invalid input constraint 'a' in asm
    42 |   __asm__ ("hreset $0" :: "a"(__eax));
       |                           ^
-In file included from /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
+In file included from /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/immintrin.h:17:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/x86gprintrin.h:30:
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/crc32intrin.h:33:10: error: use of undeclared identifier '__builtin_ia32_crc32qi'
@@ -385,7 +385,7 @@ In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/l
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/crc32intrin.h:73:10: error: use of undeclared identifier '__builtin_ia32_crc32si'
    73 |   return __builtin_ia32_crc32si(__C, __D);
       |          ^
-In file included from /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
+In file included from /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/immintrin.h:17:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/x86gprintrin.h:40:
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/raointintrin.h:39:3: error: use of undeclared identifier '__builtin_ia32_aadd32'; did you mean '__builtin_arm_addg'?
@@ -404,7 +404,7 @@ In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/l
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/raointintrin.h:105:3: error: use of undeclared identifier '__builtin_ia32_axor32'
   105 |   __builtin_ia32_axor32((int *)__A, __B);
       |   ^
-In file included from /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
+In file included from /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/src.cxx:2:
 In file included from /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/immintrin.h:21:
 /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/lib/clang/19/include/mmintrin.h:14:2: error: "This header is only meant to be used on x86 and x64 architecture"
    14 | #error "This header is only meant to be used on x86 and x64 architecture"
@@ -451,12 +451,12 @@ Target: x86_64-unknown-linux-gnu
 Thread model: posix
 InstalledDir: /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin
 Determining if the function crc32c_value exists in the crc32c failed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_6bf31 && [1/2] Building C object CMakeFiles/cmTC_6bf31.dir/CheckFunctionExists.c.o
-[2/2] Linking C executable cmTC_6bf31
-FAILED: cmTC_6bf31 
-: && /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DCHECK_FUNCTION_EXISTS=crc32c_value -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments CMakeFiles/cmTC_6bf31.dir/CheckFunctionExists.c.o -o cmTC_6bf31  -lcrc32c  -latomic -lm && :
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_b9805 && [1/2] Building C object CMakeFiles/cmTC_b9805.dir/CheckFunctionExists.c.o
+[2/2] Linking C executable cmTC_b9805
+FAILED: cmTC_b9805 
+: && /home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DCHECK_FUNCTION_EXISTS=crc32c_value -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments CMakeFiles/cmTC_b9805.dir/CheckFunctionExists.c.o -o cmTC_b9805  -lcrc32c  -latomic -lm && :
 ld.lld: error: unable to find library -lcrc32c
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 ninja: build stopped: subcommand failed.
@@ -464,19 +464,19 @@ ninja: build stopped: subcommand failed.
 
 
 Determining if the F_FULLFSYNC exist failed with the following output:
-Change Dir: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
+Change Dir: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_1d824 && [1/2] Building CXX object CMakeFiles/cmTC_1d824.dir/CheckSymbolExists.cxx.o
-FAILED: CMakeFiles/cmTC_1d824.dir/CheckSymbolExists.cxx.o 
-/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security    -fPIE -std=c++11 -MD -MT CMakeFiles/cmTC_1d824.dir/CheckSymbolExists.cxx.o -MF CMakeFiles/cmTC_1d824.dir/CheckSymbolExists.cxx.o.d -o CMakeFiles/cmTC_1d824.dir/CheckSymbolExists.cxx.o -c /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
-/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: use of undeclared identifier 'F_FULLFSYNC'
+Run Build Command(s):/home/codespace/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_dd55a && [1/2] Building CXX object CMakeFiles/cmTC_dd55a.dir/CheckSymbolExists.cxx.o
+FAILED: CMakeFiles/cmTC_dd55a.dir/CheckSymbolExists.cxx.o 
+/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/home/codespace/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security    -fPIE -std=c++11 -MD -MT CMakeFiles/cmTC_dd55a.dir/CheckSymbolExists.cxx.o -MF CMakeFiles/cmTC_dd55a.dir/CheckSymbolExists.cxx.o.d -o CMakeFiles/cmTC_dd55a.dir/CheckSymbolExists.cxx.o -c /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: use of undeclared identifier 'F_FULLFSYNC'
     8 |   return ((int*)(&F_FULLFSYNC))[argc];
       |                   ^
 1 error generated.
 ninja: build stopped: subcommand failed.
 
 
-File /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+File /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
 /* */
 #include <fcntl.h>
 

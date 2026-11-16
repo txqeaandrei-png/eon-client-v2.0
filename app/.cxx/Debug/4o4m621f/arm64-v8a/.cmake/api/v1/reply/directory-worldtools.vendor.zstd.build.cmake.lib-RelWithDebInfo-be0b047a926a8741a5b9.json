@@ -1,0 +1,79 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"worldtools/vendor/zstd/build/cmake/lib/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 270,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 273,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 275,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/worldtools/vendor/zstd/build/cmake/lib/libzstd.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"worldtools/vendor/zstd/build/cmake/../../lib/zdict.h",
+				"worldtools/vendor/zstd/build/cmake/../../lib/zstd.h",
+				"worldtools/vendor/zstd/build/cmake/../../lib/zstd_errors.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"worldtools/vendor/zstd/build/cmake/lib/libzstd.a"
+			],
+			"targetId" : "libzstd_static::@b5f48cf71f2538bc98df",
+			"targetIndex" : 6,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "worldtools/vendor/zstd/build/cmake/lib",
+		"source" : "worldtools/vendor/zstd/build/cmake/lib"
+	}
+}

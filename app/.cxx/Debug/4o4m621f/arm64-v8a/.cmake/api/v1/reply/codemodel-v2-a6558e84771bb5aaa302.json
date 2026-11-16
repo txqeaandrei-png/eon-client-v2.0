@@ -1,0 +1,523 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						8,
+						9
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RelWithDebInfo-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "preloader",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-preloader-RelWithDebInfo-730e319a9b88658f5b46.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "preloader",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "_deps/nlohmann_json-build",
+					"jsonFile" : "directory-_deps.nlohmann_json-build-RelWithDebInfo-9ea6b7d666b4c7c89bcf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/nlohmann_json-src"
+				},
+				{
+					"build" : "_deps/boost_pfr-build",
+					"jsonFile" : "directory-_deps.boost_pfr-build-RelWithDebInfo-522ceb56ebaab58251b3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/boost_pfr-src"
+				},
+				{
+					"build" : "_deps/magic_enum-build",
+					"jsonFile" : "directory-_deps.magic_enum-build-RelWithDebInfo-47777e69251656c09dc6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 4,
+					"source" : "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/magic_enum-src"
+				},
+				{
+					"build" : "_deps/fmt-build",
+					"jsonFile" : "directory-_deps.fmt-build-RelWithDebInfo-defa2e14eea3dffba526.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 5,
+					"source" : "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/fmt-src",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "_deps/lunasvg-build",
+					"childIndexes" : 
+					[
+						7
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.lunasvg-build-RelWithDebInfo-ca45cacf5b4cd1146ac6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 6,
+					"source" : "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-src",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "_deps/lunasvg-build/plutovg",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.lunasvg-build.plutovg-RelWithDebInfo-131aa080916e25a8e72a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 7,
+					"source" : "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-src/plutovg",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "libHttpClient/Build/libHttpClient.Android",
+					"jsonFile" : "directory-libHttpClient.Build.libHttpClient.Android-RelWithDebInfo-f60e1b43e5162b961d69.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 8,
+					"source" : "libHttpClient/Build/libHttpClient.Android",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "worldtools",
+					"childIndexes" : 
+					[
+						10,
+						11,
+						13
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-worldtools-RelWithDebInfo-e8b7c967ec62520e4ee1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 9,
+					"source" : "worldtools",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "worldtools/vendor/snappy",
+					"jsonFile" : "directory-worldtools.vendor.snappy-RelWithDebInfo-2f03fef802f7b505722e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 10,
+					"source" : "worldtools/vendor/snappy",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "worldtools/vendor/zstd/build/cmake",
+					"childIndexes" : 
+					[
+						12
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-worldtools.vendor.zstd.build.cmake-RelWithDebInfo-71fe32ea623c034b9176.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 11,
+					"source" : "worldtools/vendor/zstd/build/cmake",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "worldtools/vendor/zstd/build/cmake/lib",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-worldtools.vendor.zstd.build.cmake.lib-RelWithDebInfo-be0b047a926a8741a5b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 12,
+					"source" : "worldtools/vendor/zstd/build/cmake/lib",
+					"targetIndexes" : 
+					[
+						6,
+						11
+					]
+				},
+				{
+					"build" : "worldtools/vendor/leveldb",
+					"jsonFile" : "directory-worldtools.vendor.leveldb-RelWithDebInfo-576db83a52545fe92932.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.9"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 13,
+					"source" : "worldtools/vendor/leveldb",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						8,
+						9
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "levi"
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "preloader",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "nlohmann_json",
+					"parentIndex" : 1
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "boost_pfr",
+					"parentIndex" : 1
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "magic_enum",
+					"parentIndex" : 1
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "FMT",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						7
+					],
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "lunasvg",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "plutovg",
+					"parentIndex" : 6,
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "libHttpClient.Android",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						10,
+						11,
+						13
+					],
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "leviworld",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "Snappy",
+					"parentIndex" : 9,
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						12
+					],
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "zstd",
+					"parentIndex" : 9,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "libzstd",
+					"parentIndex" : 11,
+					"targetIndexes" : 
+					[
+						6,
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13
+					],
+					"name" : "leveldb",
+					"parentIndex" : 9,
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 11,
+					"id" : "clean-all::@28eb5f24a040559924ea",
+					"jsonFile" : "target-clean-all-RelWithDebInfo-267879911305b31e9b90.json",
+					"name" : "clean-all",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "fmt::@976f4f0bee90b99ecdb6",
+					"jsonFile" : "target-fmt-RelWithDebInfo-474435b8f154686cdbb2.json",
+					"name" : "fmt",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "leveldb::@7ed0064bf2bf1d1dd7e5",
+					"jsonFile" : "target-leveldb-RelWithDebInfo-ed8288d6680d2f870a7c.json",
+					"name" : "leveldb",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "leveldbutil::@7ed0064bf2bf1d1dd7e5",
+					"jsonFile" : "target-leveldbutil-RelWithDebInfo-5ee0a7089b0f6fb03523.json",
+					"name" : "leveldbutil",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "leviworld::@73260287098709856a1a",
+					"jsonFile" : "target-leviworld-RelWithDebInfo-c71fa77079d53287de23.json",
+					"name" : "leviworld",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "libHttpClient.Android::@a02a8bed6e2ea112b4ae",
+					"jsonFile" : "target-libHttpClient.Android-RelWithDebInfo-a96585960f04eb3eb2f2.json",
+					"name" : "libHttpClient.Android",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "libzstd_static::@b5f48cf71f2538bc98df",
+					"jsonFile" : "target-libzstd_static-RelWithDebInfo-31997d5c344575cbf369.json",
+					"name" : "libzstd_static",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "lunasvg::@a756fcc8cc20dc9b5f6e",
+					"jsonFile" : "target-lunasvg-RelWithDebInfo-90ec143e96c8d2f4303a.json",
+					"name" : "lunasvg",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "plutovg::@7e831f8264b3b675c989",
+					"jsonFile" : "target-plutovg-RelWithDebInfo-65b9f3136a393953c276.json",
+					"name" : "plutovg",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "preloader::@7da313f20af85e033aac",
+					"jsonFile" : "target-preloader-RelWithDebInfo-686059f758d16eac4e1e.json",
+					"name" : "preloader",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "snappy::@57558a826a5b26ffb9ac",
+					"jsonFile" : "target-snappy-RelWithDebInfo-37df17055b7c93a5bc5e.json",
+					"name" : "snappy",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "uninstall::@b5f48cf71f2538bc98df",
+					"jsonFile" : "target-uninstall-RelWithDebInfo-4f5f2853af9185362d60.json",
+					"name" : "uninstall",
+					"projectIndex" : 12
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a",
+		"source" : "/workspaces/eon-client-v2.0/app/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -4,7 +4,7 @@
             "outputFile": "org.levimc.launcher.app-mergeDebugResources-58:/values-w1000dp-v13/values-w1000dp-v13.xml",
             "map": [
                 {
-                    "source": "/workspaces/LeviLauncher-Android/app/src/main/res/values-w1000dp/dimens_ui_mods.xml",
+                    "source": "/workspaces/eon-client-v2.0/app/src/main/res/values-w1000dp/dimens_ui_mods.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -223,7 +223,7 @@ rule CXX_EXECUTABLE_LINKER__leveldbutil_RelWithDebInfo
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/workspaces/LeviLauncher-Android/app/src/main/cpp -B/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a
+  command = /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/workspaces/eon-client-v2.0/app/src/main/cpp -B/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a
   description = Re-running CMake...
   generator = 1
 
@@ -232,7 +232,7 @@ rule RERUN_CMAKE
 # Rule for re-checking globbed directories.
 
 rule VERIFY_GLOBS
-  command = /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -P /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/VerifyGlobs.cmake
+  command = /home/codespace/Android/Sdk/cmake/3.22.1/bin/cmake -P /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/CMakeFiles/VerifyGlobs.cmake
   description = Re-checking globbed directories...
   generator = 1
 

@@ -11,6 +11,9 @@ import org.levimc.launcher.core.packages.PackageService
 import org.levimc.launcher.core.mods.Mod
 import org.levimc.launcher.core.mods.ModManager
 import org.levimc.launcher.core.mods.ModNativeLoader
+import org.levimc.launcher.core.content.LocalWorldFlyManager
+import org.levimc.launcher.core.mods.inbuilt.manager.InbuiltModManager
+import org.levimc.launcher.core.mods.inbuilt.model.ModIds
 import org.levimc.launcher.core.versions.GameVersion
 import org.levimc.launcher.preloader.PreloaderInput
 import org.levimc.launcher.preloader.PreloaderSignatureRulesManager
@@ -90,6 +93,7 @@ object MinecraftRuntimePreparer {
         LauncherBackgroundController.awaitShutdown()
 
         listener.onProgress(26, "Preparing launch")
+        prepareLocalWorldFlight(context, version, listener)
         prepareMinecraftIntent(context, launchIntent, gameManager, version)
         trace.mark("Launch intent prepared")
 
@@ -114,6 +118,7 @@ object MinecraftRuntimePreparer {
                 trace.error("Minecraft dependency graph load failed", error.message ?: "unknown error")
                 throw RuntimeException("Failed to load the Minecraft runtime: ${error.message}", error)
             }
+
             trace.mark("Minecraft dependency graph loaded", "MallocRedirect enabled")
         }
 
@@ -174,6 +179,37 @@ object MinecraftRuntimePreparer {
         listener.onProgress(100, "Runtime ready", "Entering Minecraft")
         trace.milestone("Runtime preparation finished")
         return PreparedRuntime(version, gameManager, nativeModResult.skippedIncompatibleMods)
+    }
+
+    private fun prepareLocalWorldFlight(
+        context: Context,
+        version: GameVersion,
+        listener: ProgressListener
+    ) {
+        val manager = InbuiltModManager.getInstance(context)
+        val enabled = manager.resolveInbuiltModEnabled(ModIds.WORLD_FLY, false)
+        try {
+            val result = LocalWorldFlyManager.synchronize(
+                context,
+                version.storageProfileId,
+                enabled,
+                manager.getWorldFlySpeed()
+            )
+            if (enabled && result.errors.isNotEmpty()) {
+                listener.onLog("Fly: updated ${result.worldCount} local world(s); some worlds could not be configured")
+            } else if (enabled && result.worldCount == 0) {
+                listener.onLog("Fly: no local worlds found; create one, exit Minecraft, then relaunch to apply")
+            } else if (enabled) {
+                listener.onLog("Fly: local-world permission applied to ${result.worldCount} world(s); multiplayer remains disabled")
+            } else if (result.worldCount > 0) {
+                listener.onLog("Fly: restored original settings in ${result.worldCount} local world(s)")
+            }
+            result.errors.forEach { listener.onLog("Fly: $it") }
+        } catch (error: Exception) {
+            listener.onLog("Fly: local-world setup failed: ${error.message ?: error.javaClass.simpleName}")
+        } catch (error: UnsatisfiedLinkError) {
+            listener.onLog("Fly: required local-world NBT library is unavailable: ${error.message}")
+        }
     }
 
     /**

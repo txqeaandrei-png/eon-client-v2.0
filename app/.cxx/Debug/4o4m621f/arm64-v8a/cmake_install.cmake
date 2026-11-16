@@ -1,4 +1,4 @@
-# Install script for directory: /workspaces/LeviLauncher-Android/app/src/main/cpp
+# Install script for directory: /workspaces/eon-client-v2.0/app/src/main/cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,17 +44,17 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/preloader/cmake_install.cmake")
+  include("/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/preloader/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/libHttpClient/Build/libHttpClient.Android/cmake_install.cmake")
+  include("/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/libHttpClient/Build/libHttpClient.Android/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/worldtools/cmake_install.cmake")
+  include("/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/worldtools/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -65,5 +65,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

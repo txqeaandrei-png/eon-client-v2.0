@@ -665,8 +665,8 @@
     <string name="inbuilt_mod_virtual_cursor">Virtual Cursor</string>
     <string name="inbuilt_mod_virtual_cursor_desc">Use a virtual trackpad to control the mouse</string>
     <string name="inbuilt_mod_world_fly">World Fly</string>
-    <string name="inbuilt_mod_world_fly_desc">Toggle mayfly in an active world; world cheats or operator permission are required</string>
-    <string name="inbuilt_mod_world_fly_unavailable">Open a world first and make sure cheats or command permission are enabled</string>
+    <string name="inbuilt_mod_world_fly_desc">Enables vanilla flight in local worlds on the next game launch; not for multiplayer</string>
+    <string name="inbuilt_mod_world_fly_restart">World Fly changes apply on the next game launch and local-world load</string>
     <string name="inbuilt_mod_zoom">Zoom</string>
     <string name="inbuilt_mod_zoom_desc">Hold to zoom in, like OptiFine zoom</string>
     <string name="inbuilt_mods">Inbuilt Mods</string>
@@ -984,6 +984,7 @@
     <string name="mod_config_title_format">%s Config</string>
     <string name="mod_config_validation_failed">Config validation failed</string>
     <string name="mod_config_visible_slots">Visible Slots</string>
+    <string name="mod_config_world_fly_speed">Fly speed (% of vanilla)</string>
     <string name="mod_config_zoom_keybind">Zoom Keybind</string>
     <string formatted="false" name="mod_config_zoom_level_percent">Zoom Level (%)</string>
     <string name="mod_config_zoom_transition">Transition Duration (ms)</string>

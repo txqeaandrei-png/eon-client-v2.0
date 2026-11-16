@@ -46,7 +46,7 @@ add_library(plutovg::plutovg STATIC IMPORTED)
 
 set_target_properties(plutovg::plutovg PROPERTIES
   INTERFACE_COMPILE_DEFINITIONS "PLUTOVG_BUILD_STATIC"
-  INTERFACE_INCLUDE_DIRECTORIES "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-src/plutovg/include"
+  INTERFACE_INCLUDE_DIRECTORIES "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-src/plutovg/include"
   INTERFACE_LINK_LIBRARIES "\$<LINK_ONLY:m>;\$<LINK_ONLY:Threads::Threads>"
 )
 
@@ -54,7 +54,7 @@ set_target_properties(plutovg::plutovg PROPERTIES
 set_property(TARGET plutovg::plutovg APPEND PROPERTY IMPORTED_CONFIGURATIONS RELWITHDEBINFO)
 set_target_properties(plutovg::plutovg PROPERTIES
   IMPORTED_LINK_INTERFACE_LANGUAGES_RELWITHDEBINFO "C"
-  IMPORTED_LOCATION_RELWITHDEBINFO "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/plutovg/libplutovg.a"
+  IMPORTED_LOCATION_RELWITHDEBINFO "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/_deps/lunasvg-build/plutovg/libplutovg.a"
   )
 
 # This file does not depend on other imported targets which have

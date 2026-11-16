@@ -1,9 +1,9 @@
  
-if(NOT EXISTS "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/install_manifest.txt")
-  message(FATAL_ERROR "Cannot find install manifest: /workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/install_manifest.txt")
+if(NOT EXISTS "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/install_manifest.txt")
+  message(FATAL_ERROR "Cannot find install manifest: /workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/install_manifest.txt")
 endif()
 
-file(READ "/workspaces/LeviLauncher-Android/app/.cxx/Debug/4o4m621f/arm64-v8a/install_manifest.txt" files)
+file(READ "/workspaces/eon-client-v2.0/app/.cxx/Debug/4o4m621f/arm64-v8a/install_manifest.txt" files)
 string(REGEX REPLACE "\n" ";" files "${files}")
 foreach(file ${files})
   message(STATUS "Uninstalling $ENV{DESTDIR}${file}")
